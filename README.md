@@ -1,92 +1,84 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**Custom All-in-One Graduate Application Super Skill**
-留学申请 + 海外工作一体化超级技能（Skill）
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.0 · MIT
 
-An end-to-end AI workflow for multi-discipline master's applications and overseas career planning, integrating the prompt logic of 7 high-star, actively-maintained open-source repositories into one unified rule set.
+An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
+(FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
+plus overseas career and hard-tech founder visa/fundraising strategy.
 
-## Application Tracks
+> **⚠️ Read before using — three hard limits**
+> 1. **AI hallucinates.** School tuition/deadlines and visa policies change often. Every factual figure
+>    must be re-verified on the **official website link** the skill attaches. Never submit based on AI output alone.
+> 2. **AI drafts are not final.** SOP/CV require your own deep rewrite, then a native-English proofread.
+>    Plagiarism from sample essays is prohibited.
+> 3. **Visa content is strategy reference, NOT legal advice.** Canada/UK/US rules shift (e.g. Canada SUV
+>    paused 2026-01). Consult a licensed immigration lawyer before any filing.
 
-- Financial Engineering / Quantitative Finance (engineering-heavy math + coding)
-- ECE / Electronic Information / Telecommunication
-- Mechanical Engineering / Robotics / Mechatronics
-- Computer Science / AI Agent / Embodied Intelligence / Large-Model Engineering
-- Data Science & Applied Statistics
-- Interdisciplinary Engineering (BME + AI + Finance / Art-Tech crossover)
-- Technology Transfer / Tech-Innovation Management
-- Entrepreneurship / Founder (founder-friendly programmes + 2026 founder-visa strategy)
-
-## What It Does
-
-1. **Profile intake** — structured collection of GPA, tests, coursework, research, internships, budget, career goals
-2. **Centralised Evidence Map** — reusable Markdown achievement library feeding every CV / SOP draft
-3. **School matching & tiering** — Reach / Target / Safety with curriculum, faculty, cost, visa, alumni, deadline matrix
-4. **Gap diagnosis & enhancement roadmap** — 6-12 month background-building plan (quant projects, open-source, hackathons, summer schools)
-5. **Track-tailored CV generation** — fineng / cs / ece / mech / techtransfer variants with revision commands
-6. **Multi-round SOP polishing** — drafting, admissions-officer review mode, scoring reports, track-specific reorientation
-7. **Supplementary materials** — diversity statement, LOR outlines, professor cold-email templates, scholarship statements
-8. **Application calendar & offer comparison table** — deadline tracking plus final decision matrix (career path, immigration, cost, long-term global mobility)
-9. **Founder track playbook** — entrepreneurship programmes, 2026 founder-visa comparison (UK Innovator Founder, US IER/O-1A/EB routes, Singapore EntrePass, France French Tech, Canada SUV pause), founder evidence map, venture narrative arc
-
-## Quick Start (Commands)
-
-```
-/profile-intake         Start collecting your full personal background
-/build-evidence-map     Generate the central reusable achievement library
-/school-match           Output reach-target-safety programme list with comparison table
-/gap-improve-plan       Create 6-12 month background-promotion roadmap
-/cv-generate [track]    Generate major-specific CV: fineng / cs / ece / mech / techtransfer / founder
-/sop-draft [programme]  Generate the first-version statement of purpose
-/sop-review             Simulate admissions officer scoring & revision advice
-/lor-template           Draft reference-letter outlines for your referees
-/prof-email-draft       Generate personalised professor outreach cold-mail
-/deadline-timeline      Export the whole-cycle application schedule
-/offer-compare          Build the final offer evaluation spreadsheet
-/visa-compare            Compare 2026 founder & post-study visa routes across countries
-/founder-deck            Draft one-page venture brief + founder-visa evidence checklist
-```
-
-Full rule set -> [`SKILL.md`](./SKILL.md) (v1.1 adds the Entrepreneurship / Founder track playbook: founder programmes, 2026 founder-visa comparison, founder evidence map)
-
-## Use with Claude Code / Codex
-
-The skill ships with native agent entry files — put the repo in your working directory and both tools auto-load it:
-
-- **Claude Code** auto-loads `CLAUDE.md` · **OpenAI Codex CLI** auto-loads `AGENTS.md`
-- Both entry files `@`-import the full `SKILL.md`, so all 8 tracks, the 8-step workflow and the slash commands become active
-- Personal materials (profile, evidence map, CV / SOP drafts) are covered by `.gitignore` and are never committed to this public repo
+## 🚀 Quick start (3 steps)
 
 ```bash
-# standalone workspace
+# 1. get the skill
 git clone https://github.com/lilexi-bot/grad-apply-overseas-career-skill.git my-applications
 cd my-applications
 
-# or copy the entry files into an existing project root
-#   CLAUDE.md  AGENTS.md  SKILL.md  .gitignore
+# 2. open in your agent (auto-loads CLAUDE.md / AGENTS.md → SKILL.md)
+claude        # or: codex
+
+# 3. type the first command
+/profile-intake
 ```
 
-Then type `/profile-intake` to start the workflow. Update with `git pull` as the skill evolves.
+That's it. Natural language also works — e.g. *"帮我开始准备美国CS硕士申请"* or
+*"compare founder visa routes for Singapore vs UK"* — the skill metadata auto-triggers.
+Follow-on flow: `/build-evidence-map` → `/school-match` → `/cv-generate cs` → `/sop-draft` → …
+(see `examples/` for what good outputs look like).
 
-## Referenced Open-Source Repositories
+## Repository structure
 
-| Repo | Purpose |
+```
+SKILL.md                     # router: YAML metadata (auto-trigger) + workflow + command routing
+CLAUDE.md / AGENTS.md        # auto-load entry files (@-import SKILL.md)
+templates/                   # fill-in templates (private data goes here, gitignored paths)
+  evidence-map-template.md   #   reusable achievement library
+  school-comparison-template.md
+  cv-template.md / cv-template.tex
+  sop-outline-template.md
+  founder-pack-template.md   #   venture brief + visa-evidence checklist
+  lor-cold-email-template.md
+  deadline-offer-templates.md
+references/                  # external data loaded on demand
+  school-programs.csv        #   45-programme seed DB (verify on official URLs!)
+  visa-policy-links.md       #   official immigration source links (UK/US/CA/SG/FR/…)
+  founder-fundraising-ecosystem.md  # YC/US/Middle East/China hard-tech investors + accelerators
+examples/                    # fictional sample outputs (evidence map, school match, CV bullets)
+```
+
+## Commands
+
+| Command | What it does |
 | --- | --- |
-| [sznnnnn/taught-master-applications-skill](https://github.com/sznnnnn/taught-master-applications-skill) | Profile intake, evidence map, school tiering, deadline & version control |
-| [Haadhi76/SOP_Consultant](https://github.com/Haadhi76/SOP_Consultant) | Iterative SOP/PS drafting, admissions-officer-style critique |
-| [Yv3s-y4ng/resume-assistant-skill](https://github.com/Yv3s-y4ng/resume-assistant-skill) | Quantified achievement extraction, CV & LOR templates |
-| [StopifyAI/Horizon-Stopify](https://github.com/StopifyAI/Horizon-Stopify) | Profile gap analysis, background-improvement roadmaps |
-| [academic-tools/grad-agent](https://github.com/academic-tools/grad-agent) | Professor screening, supervisor matching, cold-email outreach |
-| [vsitzmann/phd-master-application-docs](https://github.com/vsitzmann/phd-master-application-docs) | Real admitted SOP narrative structure reference (learn structure only - no copy-paste) |
-| [ahmetbersoz/chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) | Academic wording revision, formal phrasing library |
+| `/profile-intake` · `/build-evidence-map` | Collect background & build the reusable achievement library |
+| `/school-match` | Reach/Target/Safety list from the CSV seed + official-page verification |
+| `/gap-improve-plan` | 6–12 month background-building roadmap |
+| `/cv-generate [fineng/cs/ece/mech/techtransfer/founder]` | Track-tailored CV (md or LaTeX) |
+| `/sop-draft` · `/sop-review` | SOP drafting + admissions-officer scoring |
+| `/lor-template` · `/prof-email-draft` | Recommendation outlines & professor cold emails |
+| `/deadline-timeline` · `/offer-compare` | Deadline tracker & offer decision matrix |
+| `/visa-compare` | 2026 founder/post-study visa routes **with official source links** |
+| `/founder-deck` | One-page venture brief + visa-evidence checklist + fundraising map |
+
+## Founder track at a glance
+Hard-tech fundraising paths built in: **YC / Silicon Valley / California / Middle East sovereign capital
+(Hub71, Mubadala, PIF/Sanabil, KAUST/MBZUAI)** overseas; **红杉中国 HongShan / 中科创星 / 深创投 / 高瓴 / CPE**
+in China. Visa snapshot (Aug 2026): US no startup visa (IER parole rarely used → O-1A/EB-1A/NIW in practice;
+E-2 unavailable to Chinese nationals); UK Innovator Founder (endorsement, 3yr→ILR); Singapore EntrePass;
+France French Tech Visa; Canada SUV paused. Full thresholds & sources: `references/visa-policy-links.md`.
 
 ## Ethics
-
-- Never fabricate experience, results, awards or stories — all content derives from the user's real materials.
-- AI acts as structural editor / reviewer / polisher; the applicant retains final editing rights and ownership of their story.
-- Do not copy sentences from sample-SOP repositories; learn narrative architecture only.
-- A native-English final proofread is recommended before official submission.
-- Never fabricate traction, funding or incorporation; consult a licensed immigration lawyer for any visa filing.
+No fabrication of any kind; user owns final edits; personal materials stay private (`.gitignore`);
+no copy-paste from sample essays; lawyer for all legal/visa filings.
 
 ## License
-
-MIT — derivative/composite work. Freely save, modify, fork and extend for personal non-commercial application preparation.
+MIT (derivative/composite work). Referenced repos: taught-master-applications-skill, SOP_Consultant,
+resume-assistant-skill, Horizon-Stopify, grad-agent, phd-master-application-docs,
+chatgpt-prompts-for-academic-writing.
