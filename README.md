@@ -14,6 +14,7 @@ An end-to-end AI workflow for multi-discipline master's applications and oversea
 - Data Science & Applied Statistics
 - Interdisciplinary Engineering (BME + AI + Finance / Art-Tech crossover)
 - Technology Transfer / Tech-Innovation Management
+- Entrepreneurship / Founder (founder-friendly programmes + 2026 founder-visa strategy)
 
 ## What It Does
 
@@ -25,6 +26,7 @@ An end-to-end AI workflow for multi-discipline master's applications and oversea
 6. **Multi-round SOP polishing** — drafting, admissions-officer review mode, scoring reports, track-specific reorientation
 7. **Supplementary materials** — diversity statement, LOR outlines, professor cold-email templates, scholarship statements
 8. **Application calendar & offer comparison table** — deadline tracking plus final decision matrix (career path, immigration, cost, long-term global mobility)
+9. **Founder track playbook** — entrepreneurship programmes, 2026 founder-visa comparison (UK Innovator Founder, US IER/O-1A/EB routes, Singapore EntrePass, France French Tech, Canada SUV pause), founder evidence map, venture narrative arc
 
 ## Quick Start (Commands)
 
@@ -33,16 +35,18 @@ An end-to-end AI workflow for multi-discipline master's applications and oversea
 /build-evidence-map     Generate the central reusable achievement library
 /school-match           Output reach-target-safety programme list with comparison table
 /gap-improve-plan       Create 6-12 month background-promotion roadmap
-/cv-generate [track]    Generate major-specific CV: fineng / cs / ece / mech / techtransfer
+/cv-generate [track]    Generate major-specific CV: fineng / cs / ece / mech / techtransfer / founder
 /sop-draft [programme]  Generate the first-version statement of purpose
 /sop-review             Simulate admissions officer scoring & revision advice
 /lor-template           Draft reference-letter outlines for your referees
 /prof-email-draft       Generate personalised professor outreach cold-mail
 /deadline-timeline      Export the whole-cycle application schedule
 /offer-compare          Build the final offer evaluation spreadsheet
+/visa-compare            Compare 2026 founder & post-study visa routes across countries
+/founder-deck            Draft one-page venture brief + founder-visa evidence checklist
 ```
 
-Full rule set -> [`SKILL.md`](./SKILL.md)
+Full rule set -> [`SKILL.md`](./SKILL.md) (v1.1 adds the Entrepreneurship / Founder track playbook: founder programmes, 2026 founder-visa comparison, founder evidence map)
 
 ## Referenced Open-Source Repositories
 
@@ -62,6 +66,7 @@ Full rule set -> [`SKILL.md`](./SKILL.md)
 - AI acts as structural editor / reviewer / polisher; the applicant retains final editing rights and ownership of their story.
 - Do not copy sentences from sample-SOP repositories; learn narrative architecture only.
 - A native-English final proofread is recommended before official submission.
+- Never fabricate traction, funding or incorporation; consult a licensed immigration lawyer for any visa filing.
 
 ## License
 
