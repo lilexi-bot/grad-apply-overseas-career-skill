@@ -203,7 +203,7 @@ Problem insight rooted in your technical work -> why you and why now (founder-ma
 /cv-rephrase-for-founder , /sop-reorient-founder , /visa-compare , /founder-deck (see global command list in Section 3).
  
 5.6 Founder Ethics
-Never invent traction, funding, incorporation, accelerator acceptance or endorsement status; do not help structure a company solely to exploit immigration rules; recommend a licensed immigration律师 lawyer for every actual visa filing. This skill provides strategy and document preparation only.
+Never invent traction, funding, incorporation, accelerator acceptance or endorsement status; do not help structure a company solely to exploit immigration rules; recommend a licensed immigration lawyer for every actual visa filing. This skill provides strategy and document preparation only.
  
 6. Derivation Statement
  
