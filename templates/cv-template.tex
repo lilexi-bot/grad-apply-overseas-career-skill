@@ -1,0 +1,47 @@
+% Minimal academic/professional CV template — compile with pdflatex
+% Usage: fill in, then trim to 1-2 pages. Track variants: comment sections in/out.
+\documentclass[10pt,letterpaper]{article}
+\usepackage[margin=0.7in]{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{fontspec} % optional; remove if pdflatex-only
+\setlist{nosep,leftmargin=1.4em}
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+\begin{document}
+\pagestyle{empty}
+\begin{center}
+{\Large\bfseries Your Name}\\[2pt]
+you@example.com \quad $\cdot$\quad +1-000-000-0000 \quad $\cdot$\quad
+\href{https://github.com/yourid}{github.com/yourid} \quad $\cdot$\quad City, Country
+\end{center}
+
+\section{Education}
+\textbf{M.S., Computer Science}, Your University, 2024--2026 (expected)\\
+GPA 3.9/4.0 (weighted, top 5\%) \quad Core courses: Distributed Systems, ML, Optimization
+
+\section{Research \& Projects}
+\textbf{Project Title} \hfill 2025.06--2026.03\\
+\textit{Role; Advisor/Lab}\\
+\begin{itemize}
+  \item Built X using [stack]; reduced tail latency from 10.8\,ms to 4.1\,ms (--62\%), QPS 12.4k (2.6$\times$).
+  \item Artifact: \href{https://github.com/yourid/repo}{github.com/yourid/repo} (xx stars); paper under submission.
+\end{itemize}
+
+\section{Experience}
+\textbf{Company / Venture}, City \hfill 2024.06--2024.09\\
+\textit{Intern / Founder \& CTO}\\
+\begin{itemize}
+  \item Shipped feature Y serving N users; quantified business/technical outcome.
+  % founder track: Raised \$xxx SAFE from [fund]; grew users A$\to$B in N months; filed patent Z.
+\end{itemize}
+
+\section{Publications \& Awards}
+\begin{itemize}
+  \item Author, ``Title,'' Venue 2026 (acceptance rate xx\%).
+  \item Competition name, rank x / N teams, 2025.
+\end{itemize}
+
+\section{Skills}
+Python, C++, Rust; PyTorch, vLLM; FPGA/Verilog; English (TOEFL 110).
+\end{document}
