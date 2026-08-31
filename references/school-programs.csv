@@ -1,0 +1,52 @@
+# school-programs.csv — starter programme database (45 long-standing programmes)
+# CAUTION: tuition/deadline are APPROXIMATE list-price figures from Aug-2026 and change yearly.
+# ALWAYS re-verify on official_url before using in an application. This is a hallucination-reduction
+# seed list, not an authoritative database. Extend freely with verified rows.
+# tracks: fineng | cs | ece | mech_robotics | ds | interdisciplinary | entrepreneur
+
+track,country,university,program,official_url,duration,approx_annual_tuition_usd,typical_application_deadline,post_study_work_route,founder_relevance,last_verified
+fineng,USA,Princeton,Master in Finance,https://bcf.princeton.edu/master-in-finance/,2yr,95000 (total~$190k),Dec 1,STEM OPT 3yr,Princeton entrepreneurship ecosystem; NYC finance proximity,2026-08
+fineng,USA,CMU,Master of Computational Finance (MSCF),https://www.cmu.edu/mscf/,16mo,~105000 total,Jan 10,STEM OPT 3yr,Pittsburgh robotics+AI spillover,2026-08
+fineng,USA,Columbia University,MFE (Financial Engineering),https://mfe.ieor.columbia.edu/,18mo,~85000/yr,Jan 5,STEM OPT 3yr,NYC fintech/VC density,2026-08
+fineng,USA,UC Berkeley,MFE (Haas),https://mfe.haas.berkeley.edu/,1yr,~80000 total,Jan 12,STEM OPT 3yr,Bay Area; SkyDeck accelerator access,2026-08
+fineng,USA,Baruch College CUNY,MFE,https://mfe.baruch.cuny.edu/,18mo,~45000 (in-state),Feb 1 (priority),STEM OPT 3yr,Lowest cost top MFE; NYC,2026-08
+fineng,USA,NYU Courant,Math Finance (MSMF),https://math.nyu.edu/dynamic/masters/finmath/,2yr,~60000/yr,Dec 1 (priority),STEM OPT 3yr,NYC,2026-08
+fineng,UK,Oxford,MSc Mathematical & Computational Finance,https://www.maths.ox.ac.uk/study-here/postgraduate-study/msc-mathematical-and-computational-finance,9mo,~70000 (GBP~55k),Jan,Graduate Route 2yr,Oxford Sciences Innovation deeptech VC,2026-08
+fineng,UK,Imperial College,MSc Risk Management & Financial Engineering,https://www.imperial.ac.uk/business-school/,1yr,~57000 (GBP~45k),rolling Nov-Mar,Graduate Route 2yr,London fintech; Innovator Founder accessible,2026-08
+fineng,Singapore,NUS,MSc Quantitative Finance,https://msqf.nus.edu.sg/,1yr (full),~41000 (SGD55k),Nov 15,Graduate LTVP,EntrePass route; Vertex/Temasek ecosystem,2026-08
+fineng,HK,HKUST,MSc Financial Mathematics,https://fmath.hkust.edu.hk/,1yr,~27000 (HKD210k),Jan,IANG 2yr,HK 18C listing; family-office hub,2026-08
+cs,USA,Stanford,MS Computer Science,https://cs.stanford.edu/academics/masters,2yr,~65000/yr,Dec 1,STEM OPT 3yr,StartX; YC feeder; core Silicon Valley,2026-08
+cs,USA,CMU,MS Computer Science,https://csd.cmu.edu/academics/masters,16-20mo,~60000/yr,Dec 12,STEM OPT 3yr,CMU robotics spinoffs; NSF SBIR access,2026-08
+cs,USA,UIUC,MCS / MS CS,https://cs.illinois.edu/academics/graduate,1.5-2yr,~50000 total,Dec 15,STEM OPT 3yr,Research heavy; low CoL,2026-08
+cs,USA,Georgia Tech,MS CS (incl. OMSCS online),https://www.cc.gatech.edu/degree-programs/master-science-computer-science,1.5-2yr,~7000 total online,Feb 1,STEM OPT 3yr (on-campus),Lowest cost top brand; ATDC accelerator,2026-08
+cs,UK,Cambridge,MPhil Advanced Computer Science,https://www.cst.cam.ac.uk/teaching/mphil,9-12mo,~51000 (GBP~40k),Dec 3,Graduate Route 2yr,Cambridge deeptech cluster,2026-08
+cs,UK,Imperial College,MSc Computing / AI & Machine Learning,https://www.imperial.ac.uk/computing/,1yr,~51000 (GBP~40k),rolling Jan-Mar,Graduate Route 2yr,London; Enterprise Lab,2026-08
+cs,Switzerland,ETH Zurich,MSc Computer Science,https://inf.ethz.ch/studies/master.html,2yr,~1700/yr (CHF1.5k),Dec 15,6mo job-seeker permit,Low cost; EU founder routes (FR/EE),2026-08
+cs,Singapore,NUS,MComp (CS / AI specialisation),https://www.comp.nus.edu.sg/programmes/pg/,18mo,~37000 (SGD50k),Nov / Mar,Graduate LTVP,NUS Enterprise; BLOCK71; Antler SG,2026-08
+cs,HK,HKUST,MSc Big Data Technology,https://prog-crs.hkust.edu.hk/pgprog/2026-27/msc-bdt,1yr,~27000 (HKD210k),rolling,IANG 2yr,Greater Bay Area hard-tech supply chain,2026-08
+cs,Canada,U Toronto,MSc in Applied Computing (MScAC),https://mscac.utoronto.ca/,16mo (incl. internship),~47000 (CAD65k),Dec 1,PGWP (3yr for 16mo),SUV paused 2026; monitor replacement,2026-08
+cs,UAE,MBZUAI,MSc Machine Learning,https://mbzuai.ac.ae/study/,2yr,0 (full scholarship + stipend),Jan/Feb,UAE work path; Golden Visa,Hub71; G42/Mubadala sovereign AI ecosystem,2026-08
+cs,Saudi Arabia,KAUST,MSc CS / EE (research),https://admissions.kaust.edu.sa/,2yr,0 (full scholarship + stipend),Dec-Jan,Saudi work path,PIF/Sanabil hard-tech capital; LEAP ecosystem,2026-08
+ece,USA,CMU,MS ECE,https://www.ece.cmu.edu/academics/ms-ece.html,1.5-2yr,~60000/yr,Dec 12,STEM OPT 3yr,Chip/hardware startups; Carnegie Foundry,2026-08
+ece,USA,Stanford,MS Electrical Engineering,https://ee.stanford.edu/academics/masters,2yr,~65000/yr,Dec 1,STEM OPT 3yr,Silicon Valley chip ecosystem,2026-08
+ece,USA,UIUC,MS ECE,https://ece.illinois.edu/academics/grad,1.5yr,~50000 total,Dec 15,STEM OPT 3yr,Semiconductor research; SBIR,2026-08
+ece,UK,Imperial College,MSc Analogue & Digital IC Design / Comm & Signal Proc,https://www.imperial.ac.uk/electrical-engineering/,1yr,~51000 (GBP~40k),rolling,Graduate Route 2yr,ARM ecosystem (Cambridge/UK chip cluster),2026-08
+ece,Singapore,NTU,MSc Electronics,https://www.ntu.edu.sg/eee/education/graduate,1yr,~33000 (SGD45k),Jan/Mar,Graduate LTVP,SEA hardware manufacturing,2026-08
+ece,HK,HKUST,MSc Electronic Engineering (IC Design),https://prog-crs.hkust.edu.hk/pgprog/2026-27/msc-elec,1yr,~23000 (HKD180k),rolling,IANG 2yr,Shenzhen hardware cluster access,2026-08
+mech_robotics,USA,CMU,MRSD (Master Robotic Systems Development),https://mrsd.ri.cmu.edu/,21mo,~70000/yr,Dec 12,STEM OPT 3yr,World-top robotics spinoff ecosystem,2026-08
+mech_robotics,USA,U Michigan,MSc Robotics,https://robotics.umich.edu/academics/graduate/,2yr,~60000/yr,Dec 15,STEM OPT 3yr,Detroit/Ann Arbor mobility hard-tech,2026-08
+mech_robotics,USA,Stanford,MS Mechanical Engineering (controls/robotics),https://me.stanford.edu/academics/graduate,2yr,~65000/yr,Dec 1,STEM OPT 3yr,Silicon Valley robotics (Figure/skild-style ecosystem),2026-08
+mech_robotics,Switzerland,ETH Zurich,"MSc Robotics, Systems & Control",https://rsl.ethz.ch/studies/,2yr,~1700/yr,Dec 15,6mo job-seeker,ANYbotics-style spinoffs; Boston Dynamics ties,2026-08
+mech_robotics,UK,Imperial College,MSc Human & Biological Robotics / Mechatronics,https://www.imperial.ac.uk/mechanical-engineering/,1yr,~51000 (GBP~40k),rolling,Graduate Route 2yr,London robotics startups,2026-08
+mech_robotics,Singapore,NTU,MSc Computer Control & Automation (mechatronics),https://www.ntu.edu.sg/mae/education/graduate,1yr,~33000 (SGD45k),Jan/Mar,Graduate LTVP,Advanced manufacturing SEA,2026-08
+ds,USA,Columbia,MS Data Science,https://www.datascience.columbia.edu/masters,1.5yr,~70000/yr,Jan 15,STEM OPT 3yr,NYC AI startups,2026-08
+ds,USA,U Chicago,MS Applied Data Science,https://datascience.uchicago.edu/education/masters/,1.5yr,~65000 total,Feb,STEM OPT 3yr,Citadel/Jump Trading proximity,2026-08
+ds,UK,UCL,MSc Data Science / Statistics,https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees,1yr,~48000 (GBP~38k),rolling to Jan,Graduate Route 2yr,London AI ecosystem (DeepMind etc.),2026-08
+ds,Singapore,NUS,MSc Data Science & Machine Learning,https://msdsml.nus.edu.sg/,1yr,~41000 (SGD55k),Nov,Graduate LTVP,SEA AI startups; Antler,2026-08
+ds,France,École Polytechnique + HEC,MSc Data Science for Business,https://www.hec.edu/en/master-s-programs/,2yr,~25000/yr (EUR~23k),Dec,APS job-search permit,Station F; French Tech ecosystem,2026-08
+interdisciplinary,USA,Stanford,MS Management Science & Engineering (tech entrepreneurship),https://msande.stanford.edu/academics/graduate-programs,2yr,~65000/yr,Dec 1,STEM OPT 3yr,STVP entrepreneurship center; StartX,2026-08
+interdisciplinary,USA,MIT,Technology & Policy Program (SM TPP) / System Design & Mgmt,https://tpp.mit.edu/,2yr,~60000/yr,Jan 10,STEM OPT 3yr,MIT entrepreneurial ecosystem; The Engine hard-tech VC,2026-08
+entrepreneur,Canada,U Waterloo,"MBET (Master of Business, Entrepreneurship & Tech)",https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/programs/business-entrepreneurship-and-technology-mbet,1yr,~44000 (CAD60k),Feb / May intakes,PGWP,Velocity program (top Canadian student incubator),2026-08
+entrepreneur,UK,Imperial College,"MSc Innovation, Entrepreneurship & Management",https://www.imperial.ac.uk/business-school/programmes/,1yr,~51000 (GBP~40k),Nov-Mar rolling,Graduate Route; Innovator Founder bridge,Imperial Enterprise Lab; London VC,2026-08
+entrepreneur,Singapore,NTU,MSc Technopreneurship & Innovation,https://www.ntu.edu.sg/ntc/education/graduate-programmes,1yr,~37000 (SGD50k),rolling,Graduate LTVP; EntrePass bridge,Antler; NUS Enterprise ecosystem,2026-08
+entrepreneur,France,HEC Paris / X-HEC,MSc Entrepreneurs,https://www.hec.edu/en/master-s-programs/specialized-master/msc-x-hec-entrepreneurs,1-2yr,~38000/yr,rolling Mar-Jun,French Tech Visa bridge,Station F; Bpifrance; EF Paris,2026-08
