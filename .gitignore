@@ -1,1 +1,11 @@
-.gitignore
+# Personal application materials — never commit to this public repository
+personal/
+profile/
+evidence-map/
+drafts/
+cv/
+sop/
+offers/
+*.private.md
+.env
+.DS_Store
