@@ -48,6 +48,25 @@ An end-to-end AI workflow for multi-discipline master's applications and oversea
 
 Full rule set -> [`SKILL.md`](./SKILL.md) (v1.1 adds the Entrepreneurship / Founder track playbook: founder programmes, 2026 founder-visa comparison, founder evidence map)
 
+## Use with Claude Code / Codex
+
+The skill ships with native agent entry files — put the repo in your working directory and both tools auto-load it:
+
+- **Claude Code** auto-loads `CLAUDE.md` · **OpenAI Codex CLI** auto-loads `AGENTS.md`
+- Both entry files `@`-import the full `SKILL.md`, so all 8 tracks, the 8-step workflow and the slash commands become active
+- Personal materials (profile, evidence map, CV / SOP drafts) are covered by `.gitignore` and are never committed to this public repo
+
+```bash
+# standalone workspace
+git clone https://github.com/lilexi-bot/grad-apply-overseas-career-skill.git my-applications
+cd my-applications
+
+# or copy the entry files into an existing project root
+#   CLAUDE.md  AGENTS.md  SKILL.md  .gitignore
+```
+
+Then type `/profile-intake` to start the workflow. Update with `git pull` as the skill evolves.
+
 ## Referenced Open-Source Repositories
 
 | Repo | Purpose |
