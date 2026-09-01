@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.2 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.3 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -49,9 +49,10 @@ templates/                   # fill-in templates (private data goes here, gitign
 references/                  # external data loaded on demand
   school-programs.csv        #   45-programme seed DB (verify on official URLs!)
   visa-policy-links.md       #   official immigration source links (UK/US/CA/SG/FR/…)
-  founder-fundraising-ecosystem.md  # YC/US/Middle East/China hard-tech investors + accelerators
+  founder-fundraising-ecosystem.md  # YC/US/Middle East/China hard-tech investors + fundable-founder traits (Cambridge notes)
   career-mindset-adaptability.md    # 心态底座：应对世界变化的元能力（中文原文 + agent 导读）
   interview-communication-notes.md  # 面试表达：术语校准 jargon/plain-English + 前台角色气质
+  leadership-ladder.md              # 领导力叙事五档阶梯（美硕/MBA/DMBA 文书 + 活动/晋升思路）
 examples/                    # fictional sample outputs (evidence map, school match, CV bullets)
 ```
 
@@ -71,6 +72,7 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/mindset` | Reframe credential/career anxiety — the "why" behind the skill （中文原文） |
 | `/cv-review` | CV revision pass: skills-evidence backing, experience-hire weight, leadership/client balance |
 | `/interview-prep` | Jargon-vs-plain-English calibration, presence for S&T/BD/founder pitches, story mechanics |
+| `/leadership-stories` | Mine evidence map for leadership stories; place on the 5-tier influence ladder; upgrade to legacy/leverage narratives |
 
 ## Founder track at a glance
 Hard-tech fundraising paths built in: **YC / Silicon Valley / California / Middle East sovereign capital
