@@ -63,3 +63,30 @@ When generating `/founder-deck` or investor strategy, ALWAYS:
 2. Mark investor/accelerator names as "to be re-verified for current terms".
 3. Recommend US C-Corp (Delaware) vs China-entity vs dual-structure discussion with a startup lawyer — never assert a structure.
 4. Never claim a warm intro, funding likelihood, or visa approval probability as fact.
+
+---
+
+## Traits of founders who actually close (field notes — Cambridge incubator, two cohorts)
+
+From mentoring two cohorts at a Cambridge University incubator, the founders who raised money share three
+traits. Use these as a self-audit checklist while preparing the venture brief and pitch:
+
+1. **Proactive, respectful, responsive follow-up.** After 1:1 mentoring they send a thank-you email and
+   act on the input — whether they went on to raise a 500k pre-seed or $2M. This is the same trait seen
+   in students who land good offers: responsiveness signals how you will treat investors, hires and
+   customers. Application: hold yourself to the same standard on professor cold emails and interview
+   follow-ups (see `templates/lor-cold-email-template.md`).
+2. **Explain any complex technology in 60 seconds to a layperson — and make them feel why it matters.**
+   "Speaking human" is required in every role that touches the outside world. This is the same rule as
+   interview jargon calibration: see `references/interview-communication-notes.md` (niche field → plain
+   English; translation is the scarce skill).
+3. **Know when to adapt and when to push back.** Founders about to close (or already closing) listen
+   actively even when the mentor is younger or "less credentialed" — senior mentors have staked their
+   referral on you — iterate fast (deck reshaped within a day), yet push back with reasoned arguments
+   where they disagree and hold their ground. Founders who discount advice based on the advisor's age or
+   title tend not to raise. Application: adapt on presentation and tactics; push back (with reasons) on
+   core convictions; never dismiss advice on seniority signalling.
+
+### 中文原稿（verbatim）
+
+一点感慨：带了两届剑桥大学孵化器的项目了，能够拿到投资的founder都有几个共同点：1. 会在我们的1v1 mentoring之后跟我发邮件说感谢 - 无论是preseed拿500K的，还是拿2million。这种一直proactive, respectful，responsive真的是好founder的潜质。This is such a similar thing to students who get good offers. 2. 能够把无论多么复杂的technology用60s时间讲给任何一个不懂这个field的人，并且让他们听懂这个技术的厉害。（讲人话这个能力无论什么岗位都需要，只要与外界接触） 3. 他们知道什么时候adaptive，并且什么时候pushback。尤其是当我年纪或者“所谓的资历”明显少于他们的时候，有的人会更轻视我的建议，哪怕在场非常senior的mentor都已经highly recommend他们来找甚至付费服务的时候，他们也不会主动。但是真的快要raise还是已经raise到钱的，都会非常知道什么时候该听建议（并且积极改进，他们甚至在一天内能够重塑PPT）同时对于可能不一样的意见做有理由的pushback并且坚持自己。我非常欣赏。
