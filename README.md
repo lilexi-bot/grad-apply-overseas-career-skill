@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.1 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.2 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -51,6 +51,7 @@ references/                  # external data loaded on demand
   visa-policy-links.md       #   official immigration source links (UK/US/CA/SG/FR/…)
   founder-fundraising-ecosystem.md  # YC/US/Middle East/China hard-tech investors + accelerators
   career-mindset-adaptability.md    # 心态底座：应对世界变化的元能力（中文原文 + agent 导读）
+  interview-communication-notes.md  # 面试表达：术语校准 jargon/plain-English + 前台角色气质
 examples/                    # fictional sample outputs (evidence map, school match, CV bullets)
 ```
 
@@ -68,6 +69,8 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/visa-compare` | 2026 founder/post-study visa routes **with official source links** |
 | `/founder-deck` | One-page venture brief + visa-evidence checklist + fundraising map |
 | `/mindset` | Reframe credential/career anxiety — the "why" behind the skill （中文原文） |
+| `/cv-review` | CV revision pass: skills-evidence backing, experience-hire weight, leadership/client balance |
+| `/interview-prep` | Jargon-vs-plain-English calibration, presence for S&T/BD/founder pitches, story mechanics |
 
 ## Founder track at a glance
 Hard-tech fundraising paths built in: **YC / Silicon Valley / California / Middle East sovereign capital
