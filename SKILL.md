@@ -11,13 +11,14 @@ description: >-
   fundraising + visa route comparison). Use when the user says (EN or 中文): 留学申请, 研究生申请, 海外读研,
   硕士/博士申请, 选校, 文书, SOP, PS, personal statement, CV, 简历, 推荐信, LOR, 套磁, cold email professor,
   海外实习, 海外工作, 海外求职, 找实习, 创业签证, founder visa, 移民签证路径, startup visa, 选offer,
-  DIY申请, gap plan, or asks to compare universities/programmes/visas/scholarships abroad.
+  DIY申请, gap plan, career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
+  应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.0.0
+version: 2.1.0
 last_updated: 2026-09-01
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.0)
+# Grad Apply & Overseas Career — Master Skill (v2.1)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -37,6 +38,7 @@ only when the workflow step requires it, then work from it:
 | Founder fundraising ecosystem / investor lists | `references/founder-fundraising-ecosystem.md` |
 | Deadline tracker / offer comparison | `templates/deadline-offer-templates.md` |
 | Expected output quality examples | `examples/` (evidence map, school match, CV bullets) |
+| Career anxiety / "why am I doing this" / re-start decisions | `references/career-mindset-adaptability.md` |
 
 ## 1. Non-negotiable constraints
 1. Never fabricate experience, results, awards, internships, stories, funding or traction. All content comes from the user's real materials (use the Evidence Map as the single source).
@@ -71,6 +73,7 @@ only when the workflow step requires it, then work from it:
 | `/offer-compare` | `templates/deadline-offer-templates.md` part B |
 | `/visa-compare` | `references/visa-policy-links.md` + visa summary below; print official links next to every threshold |
 | `/founder-deck` | `templates/founder-pack-template.md` + `references/founder-fundraising-ecosystem.md` |
+| `/mindset` | `references/career-mindset-adaptability.md` — reframe credential anxiety as optionality; redirect to concrete moves |
 
 ## 4. Founder track (summary — details live in references/)
 - **Goal profile:** hard-tech venture raising VC globally — overseas YC / Silicon Valley / California / Middle East sovereign capital (Mubadala, PIF/Sanabil, Hub71); domestic China 红杉中国 HongShan, 硬科技基金 (中科创星/深创投/线性), PE (高瓴/CPE/国调). Full lists & accelerator names: `references/founder-fundraising-ecosystem.md`.
