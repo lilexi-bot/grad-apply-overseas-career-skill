@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.3 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.4 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -42,6 +42,7 @@ templates/                   # fill-in templates (private data goes here, gitign
   evidence-map-template.md   #   reusable achievement library
   school-comparison-template.md
   cv-template.md / cv-template.tex
+  cv-template-academic.md   # 学术/研究向英文CV（Education→Publication→Patent 前置）
   sop-outline-template.md
   founder-pack-template.md   #   venture brief + visa-evidence checklist
   lor-cold-email-template.md
@@ -53,6 +54,7 @@ references/                  # external data loaded on demand
   career-mindset-adaptability.md    # 心态底座：应对世界变化的元能力（中文原文 + agent 导读）
   interview-communication-notes.md  # 面试表达：术语校准 jargon/plain-English + 前台角色气质
   leadership-ladder.md              # 领导力叙事五档阶梯（美硕/MBA/DMBA 文书 + 活动/晋升思路）
+  phd-advisor-sourcing.md           # 博士导师挖掘法（官网/Scholar/套话在读生）+ CS/AI 红榜种子
 examples/                    # fictional sample outputs (evidence map, school match, CV bullets)
 ```
 
@@ -66,6 +68,7 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/cv-generate [fineng/cs/ece/mech/techtransfer/founder]` | Track-tailored CV (md or LaTeX) |
 | `/sop-draft` · `/sop-review` | SOP drafting + admissions-officer scoring |
 | `/lor-template` · `/prof-email-draft` | Recommendation outlines & professor cold emails |
+| `/phd-advisor` | Advisor sourcing: 3-dimension match, current-student vetting, CS/AI red-list leads (verify) |
 | `/deadline-timeline` · `/offer-compare` | Deadline tracker & offer decision matrix |
 | `/visa-compare` | 2026 founder/post-study visa routes **with official source links** |
 | `/founder-deck` | One-page venture brief + visa-evidence checklist + fundraising map |
