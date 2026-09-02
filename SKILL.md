@@ -17,11 +17,11 @@ description: >-
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.3.0
+version: 2.4.0
 last_updated: 2026-09-01
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.3)
+# Grad Apply & Overseas Career — Master Skill (v2.4)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -34,8 +34,10 @@ only when the workflow step requires it, then work from it:
 | Gap diagnosis / background enhancement | this file §2 Step 4 (logic stays here) |
 | CV drafting (Markdown) | `templates/cv-template.md` |
 | CV drafting (LaTeX) | `templates/cv-template.tex` |
+| Research-track / PhD academic CV | `templates/cv-template-academic.md` |
 | SOP / personal statement | `templates/sop-outline-template.md` |
 | LOR outline / professor cold email | `templates/lor-cold-email-template.md` |
+| PhD advisor sourcing / professor match check / red-list leads | `references/phd-advisor-sourcing.md` |
 | Founder venture brief / visa evidence | `templates/founder-pack-template.md` |
 | Visa policy thresholds & official links | `references/visa-policy-links.md` |
 | Founder fundraising ecosystem / investor lists | `references/founder-fundraising-ecosystem.md` |
@@ -75,6 +77,7 @@ only when the workflow step requires it, then work from it:
 | `/sop-review` | Admissions-officer scoring + revision report |
 | `/lor-template` | `templates/lor-cold-email-template.md` |
 | `/prof-email-draft` | `templates/lor-cold-email-template.md` cold-email part (requires ≥2 papers read) |
+| `/phd-advisor` | `references/phd-advisor-sourcing.md` — advisor research method (homepage+Scholar+current-student vetting, 3-dimension match, PhD self-test) + CS/AI red-list seed; re-verify every lead |
 | `/deadline-timeline` | `templates/deadline-offer-templates.md` part A |
 | `/offer-compare` | `templates/deadline-offer-templates.md` part B |
 | `/visa-compare` | `references/visa-policy-links.md` + visa summary below; print official links next to every threshold |
