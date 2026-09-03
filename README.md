@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.10 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.10.1 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -75,7 +75,7 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/cv-generate [fineng/cs/ece/mech/techtransfer/founder]` | Track-tailored CV (md or LaTeX) |
 | `/sop-draft` · `/sop-review` | SOP drafting + admissions-officer scoring |
 | `/lor-template` · `/prof-email-draft` | Recommendation outlines & professor cold emails |
-| `/phd-advisor` | Advisor sourcing: 3-dimension match, current-student vetting, CS/AI red-list leads (verify) |
+| `/phd-advisor` | Advisor sourcing: 3-dimension match, current-student vetting, CS/AI red-list leads + applyphd.app (34K US records, CV-match, keyword) |
 | `/startup-coldstart` | Founder zero-budget cold-start: X/Reddit/LinkedIn cold outreach + subreddit→Discord funnel + UGC multi-channel |
 | `/founder-antihedge` | Stanford GSB three anti-hedging principles: reject one-two-punch fallacy, no middle ground, tech ≠ win |
 | `/founder-onchain` | On-chain payment infrastructure case (X/Meta/Visa/Standard Chartered) + three founder principles: user-assumption reset, settlement-as-scenario, compliance-as-product |
