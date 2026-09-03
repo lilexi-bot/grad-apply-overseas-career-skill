@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.8 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.9 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -59,6 +59,8 @@ references/                  # external data loaded on demand
   founder-anti-hedging-principles.md # 斯坦福GSB创业三反常识：阶梯式冒险/无中间地带/黑科技未必赢
   founder-infrastructure-migration.md # 链上支付案例（X/Meta/Visa/渣打）+ 用户假设/结算场景/合规原则
   career-what-ai-cannot-encode.md     # AI无法编码的人类原生特质（信任/品味/审美/想象/情绪）+ Hassabis微观结构
+  investment-codex-reverse-engineering.md # Codex逆向工程美股博主半公开指标（三步法：完整摄入/已知未知分离/假设空间限定）
+  career-oak-high-level-state-transition.md # Oak架构/Sutton：世界用高层状态转移描述，agent取时间延展选项
 examples/                    # fictional sample outputs (evidence map, school match, CV bullets)
 ```
 
@@ -81,6 +83,8 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/founder-deck` | One-page venture brief + visa-evidence checklist + fundraising map |
 | `/mindset` | Reframe credential/career anxiety — the "why" behind the skill （中文原文） |
 | `/human-native` | Trust / taste / aesthetics / imagination / emotion as career moat against AI; Hassabis micro-structure argument |
+| `/codex-hack` | Reverse-engineer semi-public US-stock blogger indicators with Codex: full ingestion → known/unknown split → bounded hypothesis search against published images |
+| `/oak-state-transition` | Prof. Sutton's Oak framing: world as high-level state transitions; agents as temporally extended options rather than step-wise actions |
 | `/cv-review` | CV revision pass: skills-evidence backing, experience-hire weight, leadership/client balance |
 | `/interview-prep` | Jargon-vs-plain-English calibration, presence for S&T/BD/founder pitches, story mechanics |
 | `/leadership-stories` | Mine evidence map for leadership stories; place on the 5-tier influence ladder; upgrade to legacy/leverage narratives |
