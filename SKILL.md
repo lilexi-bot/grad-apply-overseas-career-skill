@@ -22,14 +22,15 @@ description: >-
   不会被AI取代),
   Codex逆向工程美股博主指标 (codex 半公开策略 假设空间 图像吻合验证 公开的秘密),
   Oak架构/Sutton高层状态转移 (Sutton Oak high-level state transition 时间延展选项 学习颗粒度),
+  姚期智-Sutton对话/AI被困在符号系统里 (姚期智 Richard Sutton 符号系统 数学范式 AI局限 自洽封闭系统),
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.9.0
+version: 2.10.0
 last_updated: 2026-09-01
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.9)
+# Grad Apply & Overseas Career — Master Skill (v2.10)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -58,6 +59,7 @@ only when the workflow step requires it, then work from it:
 | Career investment against AI / "what can't AI do" | `references/career-what-ai-cannot-encode.md` |
 | Codex reverse-engineering of semi-public craft/investment knowledge | `references/investment-codex-reverse-engineering.md` |
 | World-description granularity / learning from experience / option-level policies | `references/career-oak-high-level-state-transition.md` |
+| Deepest AI boundary — symbolic-system trap (Yao Qiqi / Sutton exchange) | `references/career-ai-trapped-in-human-symbolic-system.md` |
 | CV revision / experience-hire CV review | `templates/cv-template.md` §CV revision rules |
 | Interview prep / storytelling / communication register | `references/interview-communication-notes.md` |
 | SOP/MBA leadership paragraphs & impact-story mining | `references/leadership-ladder.md` |
@@ -103,6 +105,7 @@ only when the workflow step requires it, then work from it:
 | `/human-native` | `references/career-what-ai-cannot-encode.md` — trust/taste/aesthetics/imagination/emotion as career moat; Hassabis micro-structure argument; optimistic flip of long-term pessimism |
 | `/codex-hack` | `references/investment-codex-reverse-engineering.md` — three-step Codex methodology: full ingestion → separate known/unknown → bounded hypothesis search against blogger images |
 | `/oak-state-transition` | `references/career-oak-high-level-state-transition.md` — Sutton's Oak framing: world described by high-level state transitions; agents take temporally extended options, not step-wise actions |
+| `/yao-sutton` | `references/career-ai-trapped-in-human-symbolic-system.md` — Yao Qiqi vs Sutton: AI is structurally trapped inside the human symbolic system (mathematics/logic); only humans can potentially step outside. L1/L2/L3 three-layer career moat stack |
 | `/cv-review` | Revision pass against the real-review checklist in `templates/cv-template.md` (skills backed by bullets, experience-hire visual weight, leadership vs client balance) |
 | `/interview-prep` | `references/interview-communication-notes.md` — jargon vs plain-English calibration, presence for front-office roles, story mechanics |
 | `/leadership-stories` | `references/leadership-ladder.md` — place evidence-map stories on the 5-tier influence ladder; upgrade structure (broad → strong → legacy/leverage); quantify |
