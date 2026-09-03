@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.4 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.5 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -55,6 +55,7 @@ references/                  # external data loaded on demand
   interview-communication-notes.md  # 面试表达：术语校准 jargon/plain-English + 前台角色气质
   leadership-ladder.md              # 领导力叙事五档阶梯（美硕/MBA/DMBA 文书 + 活动/晋升思路）
   phd-advisor-sourcing.md           # 博士导师挖掘法（官网/Scholar/套话在读生）+ CS/AI 红榜种子
+  founder-coldstart-playbook.md     # 创始人冷启动四条渠道（X/Reddit/LinkedIn/UGC）+ 前100用户漏斗
 examples/                    # fictional sample outputs (evidence map, school match, CV bullets)
 ```
 
@@ -69,6 +70,7 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/sop-draft` · `/sop-review` | SOP drafting + admissions-officer scoring |
 | `/lor-template` · `/prof-email-draft` | Recommendation outlines & professor cold emails |
 | `/phd-advisor` | Advisor sourcing: 3-dimension match, current-student vetting, CS/AI red-list leads (verify) |
+| `/startup-coldstart` | Founder zero-budget cold-start: X/Reddit/LinkedIn cold outreach + subreddit→Discord funnel + UGC multi-channel |
 | `/deadline-timeline` · `/offer-compare` | Deadline tracker & offer decision matrix |
 | `/visa-compare` | 2026 founder/post-study visa routes **with official source links** |
 | `/founder-deck` | One-page venture brief + visa-evidence checklist + fundraising map |
