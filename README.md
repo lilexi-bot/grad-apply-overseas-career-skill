@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.9 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.10 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -61,6 +61,7 @@ references/                  # external data loaded on demand
   career-what-ai-cannot-encode.md     # AI无法编码的人类原生特质（信任/品味/审美/想象/情绪）+ Hassabis微观结构
   investment-codex-reverse-engineering.md # Codex逆向工程美股博主半公开指标（三步法：完整摄入/已知未知分离/假设空间限定）
   career-oak-high-level-state-transition.md # Oak架构/Sutton：世界用高层状态转移描述，agent取时间延展选项
+  career-ai-trapped-in-human-symbolic-system.md # 姚期智-Sutton对话：AI被困在人类符号系统/数学范式内，仅人类自身或可跳出
 examples/                    # fictional sample outputs (evidence map, school match, CV bullets)
 ```
 
@@ -85,6 +86,7 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/human-native` | Trust / taste / aesthetics / imagination / emotion as career moat against AI; Hassabis micro-structure argument |
 | `/codex-hack` | Reverse-engineer semi-public US-stock blogger indicators with Codex: full ingestion → known/unknown split → bounded hypothesis search against published images |
 | `/oak-state-transition` | Prof. Sutton's Oak framing: world as high-level state transitions; agents as temporally extended options rather than step-wise actions |
+| `/yao-sutton` | Yao Qiqi vs Sutton: AI is structurally trapped inside the human symbolic system (mathematics/logic paradigm); only humans can potentially stand outside it. Three-layer career moat: L1 contents, L2 granularity, L3 symbolic trap |
 | `/cv-review` | CV revision pass: skills-evidence backing, experience-hire weight, leadership/client balance |
 | `/interview-prep` | Jargon-vs-plain-English calibration, presence for S&T/BD/founder pitches, story mechanics |
 | `/leadership-stories` | Mine evidence map for leadership stories; place on the 5-tier influence ladder; upgrade to legacy/leverage narratives |
