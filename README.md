@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.7 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.8 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -58,6 +58,7 @@ references/                  # external data loaded on demand
   founder-coldstart-playbook.md     # 创始人冷启动四条渠道（X/Reddit/LinkedIn/UGC）+ 前100用户漏斗
   founder-anti-hedging-principles.md # 斯坦福GSB创业三反常识：阶梯式冒险/无中间地带/黑科技未必赢
   founder-infrastructure-migration.md # 链上支付案例（X/Meta/Visa/渣打）+ 用户假设/结算场景/合规原则
+  career-what-ai-cannot-encode.md     # AI无法编码的人类原生特质（信任/品味/审美/想象/情绪）+ Hassabis微观结构
 examples/                    # fictional sample outputs (evidence map, school match, CV bullets)
 ```
 
@@ -79,6 +80,7 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/visa-compare` | 2026 founder/post-study visa routes **with official source links** |
 | `/founder-deck` | One-page venture brief + visa-evidence checklist + fundraising map |
 | `/mindset` | Reframe credential/career anxiety — the "why" behind the skill （中文原文） |
+| `/human-native` | Trust / taste / aesthetics / imagination / emotion as career moat against AI; Hassabis micro-structure argument |
 | `/cv-review` | CV revision pass: skills-evidence backing, experience-hire weight, leadership/client balance |
 | `/interview-prep` | Jargon-vs-plain-English calibration, presence for S&T/BD/founder pitches, story mechanics |
 | `/leadership-stories` | Mine evidence map for leadership stories; place on the 5-tier influence ladder; upgrade to legacy/leverage narratives |
