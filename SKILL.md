@@ -15,15 +15,16 @@ description: >-
   behavioral interview, 职业表达, 怎么讲项目), MBA/硕士文书与领导力故事 (leadership essay, MBA申请,
   领导力素材, 社团legacy, 晋升思路), founder coaching (融资辅导, 创始人特质, pitch 训练,
   创业冷启动, 早期用户, 零预算营销, PMF验证, 前100个用户, cold outreach, X/Reddit/LinkedIn,
-  UGC多渠道探索),
+  UGC多渠道探索), 创业底层逻辑/反常识 (Stanford GSB, 创业为什么会死, One-Two Punch,
+  小市场练手, 创业中间地带, 黑科技未必赢),
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.5.0
+version: 2.6.0
 last_updated: 2026-09-01
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.5)
+# Grad Apply & Overseas Career — Master Skill (v2.6)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -42,6 +43,7 @@ only when the workflow step requires it, then work from it:
 | PhD advisor sourcing / professor match check / red-list leads | `references/phd-advisor-sourcing.md` |
 | Founder venture brief / visa evidence | `templates/founder-pack-template.md` |
 | Founder cold-start / early traction (first 100 users) | `references/founder-coldstart-playbook.md` |
+| Founder strategic framing (anti-hedging, anti-incremental-market) | `references/founder-anti-hedging-principles.md` |
 | Visa policy thresholds & official links | `references/visa-policy-links.md` |
 | Founder fundraising ecosystem / investor lists | `references/founder-fundraising-ecosystem.md` |
 | Deadline tracker / offer comparison | `templates/deadline-offer-templates.md` |
@@ -86,6 +88,7 @@ only when the workflow step requires it, then work from it:
 | `/visa-compare` | `references/visa-policy-links.md` + visa summary below; print official links next to every threshold |
 | `/founder-deck` | `templates/founder-pack-template.md` + `references/founder-fundraising-ecosystem.md` (investor lists + fundable-founder self-audit traits) |
 | `/startup-coldstart` | `references/founder-coldstart-playbook.md` — X/Reddit/LinkedIn cold outreach/UGC四渠道 + subreddit→Discord funnel 漏斗设计 + 前100用户运营节奏 |
+| `/founder-antihedge` | `references/founder-anti-hedging-principles.md` — 斯坦福GSB三条反常识：阶梯式冒险谬误、创业无中间地带、黑科技未必赢；诊断 founder 叙事中的 hedging |
 | `/mindset` | `references/career-mindset-adaptability.md` — reframe credential anxiety as optionality; redirect to concrete moves |
 | `/cv-review` | Revision pass against the real-review checklist in `templates/cv-template.md` (skills backed by bullets, experience-hire visual weight, leadership vs client balance) |
 | `/interview-prep` | `references/interview-communication-notes.md` — jargon vs plain-English calibration, presence for front-office roles, story mechanics |
