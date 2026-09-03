@@ -17,15 +17,17 @@ description: >-
   创业冷启动, 早期用户, 零预算营销, PMF验证, 前100个用户, cold outreach, X/Reddit/LinkedIn,
   UGC多渠道探索), 创业底层逻辑/反常识 (Stanford GSB, 创业为什么会死, One-Two Punch,
   小市场练手, 创业中间地带, 黑科技未必赢), 链上支付/Web3基础设施 (马斯克 X 创作者稿费,
-  on-chain payments, 链上结算, 合规是门票, 结算即场景, 第一次接触Web3),
+  on-chain payments, 链上结算, 合规是门票, 结算即场景, 第一次接触Web3), AI无法编码/人类原生特质
+  (what AI can't encode, 信任品味审美想象, human native traits, Demis Hassabis 微观结构,
+  不会被AI取代),
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.7.0
+version: 2.8.0
 last_updated: 2026-09-01
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.7)
+# Grad Apply & Overseas Career — Master Skill (v2.8)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -51,6 +53,7 @@ only when the workflow step requires it, then work from it:
 | Deadline tracker / offer comparison | `templates/deadline-offer-templates.md` |
 | Expected output quality examples | `examples/` (evidence map, school match, CV bullets) |
 | Career anxiety / "why am I doing this" / re-start decisions | `references/career-mindset-adaptability.md` |
+| Career investment against AI / "what can't AI do" | `references/career-what-ai-cannot-encode.md` |
 | CV revision / experience-hire CV review | `templates/cv-template.md` §CV revision rules |
 | Interview prep / storytelling / communication register | `references/interview-communication-notes.md` |
 | SOP/MBA leadership paragraphs & impact-story mining | `references/leadership-ladder.md` |
@@ -93,6 +96,7 @@ only when the workflow step requires it, then work from it:
 | `/founder-antihedge` | `references/founder-anti-hedging-principles.md` — 斯坦福GSB三条反常识：阶梯式冒险谬误、创业无中间地带、黑科技未必赢；诊断 founder 叙事中的 hedging |
 | `/founder-onchain` | `references/founder-infrastructure-migration.md` — 链上支付案例（X/Meta/Visa/渣打）+ 三条 founder 原则：用户假设重置/结算即场景/合规是产品能力 |
 | `/mindset` | `references/career-mindset-adaptability.md` — reframe credential anxiety as optionality; redirect to concrete moves |
+| `/human-native` | `references/career-what-ai-cannot-encode.md` — trust/taste/aesthetics/imagination/emotion as career moat; Hassabis micro-structure argument; optimistic flip of long-term pessimism |
 | `/cv-review` | Revision pass against the real-review checklist in `templates/cv-template.md` (skills backed by bullets, experience-hire visual weight, leadership vs client balance) |
 | `/interview-prep` | `references/interview-communication-notes.md` — jargon vs plain-English calibration, presence for front-office roles, story mechanics |
 | `/leadership-stories` | `references/leadership-ladder.md` — place evidence-map stories on the 5-tier influence ladder; upgrade structure (broad → strong → legacy/leverage); quantify |
