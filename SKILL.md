@@ -23,14 +23,15 @@ description: >-
   Codex逆向工程美股博主指标 (codex 半公开策略 假设空间 图像吻合验证 公开的秘密),
   Oak架构/Sutton高层状态转移 (Sutton Oak high-level state transition 时间延展选项 学习颗粒度),
   姚期智-Sutton对话/AI被困在符号系统里 (姚期智 Richard Sutton 符号系统 数学范式 AI局限 自洽封闭系统),
+  applyphd.app/美国PhD导师搜索工具 (applyphd 34k records 简历匹配 关键词筛选),
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.10.0
+version: 2.10.1
 last_updated: 2026-09-01
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.10)
+# Grad Apply & Overseas Career — Master Skill (v2.10.1)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
