@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.5 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.6 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -56,6 +56,7 @@ references/                  # external data loaded on demand
   leadership-ladder.md              # 领导力叙事五档阶梯（美硕/MBA/DMBA 文书 + 活动/晋升思路）
   phd-advisor-sourcing.md           # 博士导师挖掘法（官网/Scholar/套话在读生）+ CS/AI 红榜种子
   founder-coldstart-playbook.md     # 创始人冷启动四条渠道（X/Reddit/LinkedIn/UGC）+ 前100用户漏斗
+  founder-anti-hedging-principles.md # 斯坦福GSB创业三反常识：阶梯式冒险/无中间地带/黑科技未必赢
 examples/                    # fictional sample outputs (evidence map, school match, CV bullets)
 ```
 
@@ -71,6 +72,7 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/lor-template` · `/prof-email-draft` | Recommendation outlines & professor cold emails |
 | `/phd-advisor` | Advisor sourcing: 3-dimension match, current-student vetting, CS/AI red-list leads (verify) |
 | `/startup-coldstart` | Founder zero-budget cold-start: X/Reddit/LinkedIn cold outreach + subreddit→Discord funnel + UGC multi-channel |
+| `/founder-antihedge` | Stanford GSB three anti-hedging principles: reject one-two-punch fallacy, no middle ground, tech ≠ win |
 | `/deadline-timeline` · `/offer-compare` | Deadline tracker & offer decision matrix |
 | `/visa-compare` | 2026 founder/post-study visa routes **with official source links** |
 | `/founder-deck` | One-page venture brief + visa-evidence checklist + fundraising map |
