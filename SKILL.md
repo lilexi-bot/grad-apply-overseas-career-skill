@@ -13,15 +13,17 @@ description: >-
   海外实习, 海外工作, 海外求职, 找实习, 创业签证, founder visa, 移民签证路径, startup visa, 选offer,
   DIY申请, gap plan, 简历修改/改简历 (CV review), 面试/行为面试/面试准备 (interview prep,
   behavioral interview, 职业表达, 怎么讲项目), MBA/硕士文书与领导力故事 (leadership essay, MBA申请,
-  领导力素材, 社团legacy, 晋升思路), founder coaching (融资辅导, 创始人特质, pitch 训练),
+  领导力素材, 社团legacy, 晋升思路), founder coaching (融资辅导, 创始人特质, pitch 训练,
+  创业冷启动, 早期用户, 零预算营销, PMF验证, 前100个用户, cold outreach, X/Reddit/LinkedIn,
+  UGC多渠道探索),
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.4.0
+version: 2.5.0
 last_updated: 2026-09-01
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.4)
+# Grad Apply & Overseas Career — Master Skill (v2.5)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -39,6 +41,7 @@ only when the workflow step requires it, then work from it:
 | LOR outline / professor cold email | `templates/lor-cold-email-template.md` |
 | PhD advisor sourcing / professor match check / red-list leads | `references/phd-advisor-sourcing.md` |
 | Founder venture brief / visa evidence | `templates/founder-pack-template.md` |
+| Founder cold-start / early traction (first 100 users) | `references/founder-coldstart-playbook.md` |
 | Visa policy thresholds & official links | `references/visa-policy-links.md` |
 | Founder fundraising ecosystem / investor lists | `references/founder-fundraising-ecosystem.md` |
 | Deadline tracker / offer comparison | `templates/deadline-offer-templates.md` |
@@ -82,6 +85,7 @@ only when the workflow step requires it, then work from it:
 | `/offer-compare` | `templates/deadline-offer-templates.md` part B |
 | `/visa-compare` | `references/visa-policy-links.md` + visa summary below; print official links next to every threshold |
 | `/founder-deck` | `templates/founder-pack-template.md` + `references/founder-fundraising-ecosystem.md` (investor lists + fundable-founder self-audit traits) |
+| `/startup-coldstart` | `references/founder-coldstart-playbook.md` — X/Reddit/LinkedIn cold outreach/UGC四渠道 + subreddit→Discord funnel 漏斗设计 + 前100用户运营节奏 |
 | `/mindset` | `references/career-mindset-adaptability.md` — reframe credential anxiety as optionality; redirect to concrete moves |
 | `/cv-review` | Revision pass against the real-review checklist in `templates/cv-template.md` (skills backed by bullets, experience-hire visual weight, leadership vs client balance) |
 | `/interview-prep` | `references/interview-communication-notes.md` — jargon vs plain-English calibration, presence for front-office roles, story mechanics |
