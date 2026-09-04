@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.12.0 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.12.1 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -70,6 +70,7 @@ references/                  # external data loaded on demand
   karpathy-llm-wiki-architecture.md # Karpathy LLM Wiki 架构：raw sources / wiki / schema + 4 条元洞察
   career-youngest-most-exhausted.md # 能力最强的年轻人为何最累：迭代速度 vs 社会公允速度的错位
   deepseek-mhc-hyperconnections.md # DeepSeek mHC：HC + Birkhoff 流形（双随机矩阵）约束解决梯度爆炸/消失
+  career-wealth-freedom-philosophy.md # 财富自由哲学 7 条（精神自由 / 战略>战术 / 投资自己 / 多巴胺递减 / 中彩票难善终 / 黑客帝国脚本）
 examples/                    # fictional sample outputs (evidence map, school match, CV bullets)
 ```
 
