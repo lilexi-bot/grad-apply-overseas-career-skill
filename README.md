@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.10.1 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.12.0 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -62,6 +62,14 @@ references/                  # external data loaded on demand
   investment-codex-reverse-engineering.md # Codex逆向工程美股博主半公开指标（三步法：完整摄入/已知未知分离/假设空间限定）
   career-oak-high-level-state-transition.md # Oak架构/Sutton：世界用高层状态转移描述，agent取时间延展选项
   career-ai-trapped-in-human-symbolic-system.md # 姚期智-Sutton对话：AI被困在人类符号系统/数学范式内，仅人类自身或可跳出
+  sop-meta-framework.md            # SOP 写作元框架：招生官三问（动机/计划/能力）+ 十拍写作骨架
+  sop-8h-workflow.md               # 8小时文书初稿 7 步工作流（PS/CV/RL 三位一体 / BAR 模型 / 量化 / 推荐人沟通）
+  sop-ps-regional-styles.md        # 区域 PS 风格：英国（学术）/ 香港（职业）/ 新加坡（混合）
+  sop-ps-writing-principles.md     # 通用 PS 写作原则：真实感/细节/思想深度/5段式叙事
+  sop-ai-era-writing-stance.md     # 26fall AI 文书立场：AI declaration / vibe coding / de-GPT 清单 / prompt 模板
+  karpathy-llm-wiki-architecture.md # Karpathy LLM Wiki 架构：raw sources / wiki / schema + 4 条元洞察
+  career-youngest-most-exhausted.md # 能力最强的年轻人为何最累：迭代速度 vs 社会公允速度的错位
+  deepseek-mhc-hyperconnections.md # DeepSeek mHC：HC + Birkhoff 流形（双随机矩阵）约束解决梯度爆炸/消失
 examples/                    # fictional sample outputs (evidence map, school match, CV bullets)
 ```
 
