@@ -32,14 +32,15 @@ description: >-
   Karpathy LLM Wiki架构 (raw sources / wiki / schema 复利 bookkeeping lint obsidian IDE),
   年轻人最累/迭代速度vs社会公允速度 (00后 热血意志力 privilege 社会杠杆滞后),
   DeepSeek mHC / Hyper-Connections (字节 HC 残差流 扩展率 谱范数 双随机矩阵 Birkhoff polytope Sinkhorn-Knopp),
+  财富自由哲学/孙宇晨播客 (精神自由 战略vs战术 投资自己 多巴胺递减 中彩票难善终 黑客帝国脚本),
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.12.0
+version: 2.12.1
 last_updated: 2026-09-01
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.12.0)
+# Grad Apply & Overseas Career — Master Skill (v2.12.1)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -62,6 +63,7 @@ only when the workflow step requires it, then work from it:
 | Karpathy LLM Wiki architecture — raw sources / wiki / schema + 4 meta-insights | `references/karpathy-llm-wiki-architecture.md` |
 | Youngest-most-capable = most-exhausted (iteration speed vs social 公允 speed) | `references/career-youngest-most-exhausted.md` |
 | DeepSeek mHC — Hyper-Connections + Birkhoff-manifold constraint (CS/AI deep-tech seed) | `references/deepseek-mhc-hyperconnections.md` |
+| Wealth-freedom philosophy — spiritual freedom first, strategy > tactics, invest in yourself | `references/career-wealth-freedom-philosophy.md` |
 | LOR outline / professor cold email | `templates/lor-cold-email-template.md` |
 | PhD advisor sourcing / professor match check / red-list leads | `references/phd-advisor-sourcing.md` |
 | Founder venture brief / visa evidence | `templates/founder-pack-template.md` |
