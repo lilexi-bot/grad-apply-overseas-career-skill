@@ -24,14 +24,22 @@ description: >-
   Oak架构/Sutton高层状态转移 (Sutton Oak high-level state transition 时间延展选项 学习颗粒度),
   姚期智-Sutton对话/AI被困在符号系统里 (姚期智 Richard Sutton 符号系统 数学范式 AI局限 自洽封闭系统),
   applyphd.app/美国PhD导师搜索工具 (applyphd 34k records 简历匹配 关键词筛选),
+  SOP元框架/招生官三个问题 (哈佛/斯坦福/宾大/康奈尔/UCL/爱丁堡 动机/计划/能力 三个问题 十个节拍),
+  8小时文书初稿7步工作流 (PS/CV/RL三位一体 8h sprint 7步 BAR模型 量化成果 推荐人沟通),
+  区域PS风格 (英国PS 香港PS 新加坡PS UK HK SG 学术说服 职业说服 Why School Why Hong Kong),
+  通用PS写作原则 (真实感大于高大上 细节讲故事 思想深度决定上限 5段式叙事法 哈佛前招生官),
+  26fall AI写文书立场 (AI declaration vibe coding 斯坦福 耶鲁 gpt味儿 de-GPT prompt模板),
+  Karpathy LLM Wiki架构 (raw sources / wiki / schema 复利 bookkeeping lint obsidian IDE),
+  年轻人最累/迭代速度vs社会公允速度 (00后 热血意志力 privilege 社会杠杆滞后),
+  DeepSeek mHC / Hyper-Connections (字节 HC 残差流 扩展率 谱范数 双随机矩阵 Birkhoff polytope Sinkhorn-Knopp),
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.10.1
+version: 2.12.0
 last_updated: 2026-09-01
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.10.1)
+# Grad Apply & Overseas Career — Master Skill (v2.12.0)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -45,7 +53,15 @@ only when the workflow step requires it, then work from it:
 | CV drafting (Markdown) | `templates/cv-template.md` |
 | CV drafting (LaTeX) | `templates/cv-template.tex` |
 | Research-track / PhD academic CV | `templates/cv-template-academic.md` |
-| SOP / personal statement | `templates/sop-outline-template.md` |
+| SOP / personal statement (structural outline) | `templates/sop-outline-template.md` |
+| SOP meta-framework (admissions committee 3 questions + 10 beats) | `references/sop-meta-framework.md` |
+| 8-hour SOP/CV/RL initial-draft sprint (7-step playbook) | `references/sop-8h-workflow.md` |
+| Regional PS styles — UK (academic) / HK (career) / SG (hybrid) | `references/sop-ps-regional-styles.md` |
+| Universal PS writing craft — authenticity / details / depth / 5-para arc | `references/sop-ps-writing-principles.md` |
+| 26fall AI-era SOP stance + reusable prompt template | `references/sop-ai-era-writing-stance.md` |
+| Karpathy LLM Wiki architecture — raw sources / wiki / schema + 4 meta-insights | `references/karpathy-llm-wiki-architecture.md` |
+| Youngest-most-capable = most-exhausted (iteration speed vs social 公允 speed) | `references/career-youngest-most-exhausted.md` |
+| DeepSeek mHC — Hyper-Connections + Birkhoff-manifold constraint (CS/AI deep-tech seed) | `references/deepseek-mhc-hyperconnections.md` |
 | LOR outline / professor cold email | `templates/lor-cold-email-template.md` |
 | PhD advisor sourcing / professor match check / red-list leads | `references/phd-advisor-sourcing.md` |
 | Founder venture brief / visa evidence | `templates/founder-pack-template.md` |
