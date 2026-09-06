@@ -78,6 +78,32 @@ students, disputes) via official pages.
 - UMD Furong Huang
 - UMD Tianyi Zhou
 - UIC Philip S.Yu
+
+## Part 3 — Alumni network sourcing (HUST CS case study)
+
+Your undergraduate institution's alumni network at US/HK universities is an under-used lead
+generator. The HUST CS 飞跃手册 2023 maintains a list of 35+ HUST-origin professors now at US/HK
+institutions (UIUC, Purdue, Penn State, Northwestern, UCSD, UCSC, MIT, HKU, HKUST, etc.), with
+research fields and join years. Source: https://gitee.com/zcysky_Shiroha/hust-cs-feiyue-2023
+
+### How to build your own alumni professor list
+
+1. **CS Professors Directory** (https://drafty.cs.brown.edu/csprofessors) — searchable; filter
+   by undergrad institution to find alumni in your target area.
+2. **Your school's 飞跃手册** — most Chinese universities have one (Gitee/GitHub). These typically
+   include application cases with advisor names and outcomes.
+3. **LinkedIn / Google Scholar** — search "[your university] + [target field] + professor" to
+   surface alumni who've transitioned to academia.
+
+### Why alumni outreach works
+
+- Shared institutional background dramatically increases cold-email reply rates.
+- Alumni professors understand your preparation context (coursework rigour, GPA scale, etc.).
+- They may have direct channels to your target programme's admissions committee.
+- For 暑研: alumni professors at the host institution can facilitate face-to-face meetings with
+  other local professors (面套).
+
+Full HUST alumni list with usage instructions: `references/hust-alumni-professor-network.md`
 - UT Austin Jessy Li
 - HKUST Yinghao Xu
 - HKUST Junxian He

@@ -56,6 +56,43 @@ Every paragraph can be reduced to answering one of these ten beats:
 Beats 1-5 answer Q3 (what do you bring). Beats 6-7 answer Q1 (why this field). Beats 8-10 answer
 Q2 (why this programme). The SOP is complete when every beat has been concretely addressed.
 
+
+## Pre-writing self-questioning checklist
+
+Before drafting a single paragraph, answer these questions honestly. They are derived from
+multiple admission-committee perspectives and the HUST CS 飞跃手册 writing guidance. Skipping
+this stage leads to generic, unconvincing SOPs.
+
+### Motivation & direction
+- What life event had the greatest impact on your choice of field? When, where, how did you
+  discover this direction? Why did it resonate?
+- If applying for PhD: why a PhD specifically? Are you ready for years of failure, isolation,
+  and unstable output?
+- What scientific questions genuinely interest you beyond your current coursework and publications?
+
+### Capability evidence
+- What abilities do you have (leadership, communication, collaboration, technical depth)?
+  What specific incidents prove each one?
+- What is your career goal? (Be specific: not "work in industry" but which role, which domain.)
+- How would you explain any weakness in your transcript or test scores? (Only if necessary.)
+
+### Fit & targeting
+- Which 2–3 sub-areas within your field genuinely excite you? Can you name specific papers or
+  problems in each?
+- For each target programme: which professors match your sub-area? Why them specifically — not
+  "they're famous" but "their recent work on X connects to my experience in Y."
+- What unique resources does each programme offer that you cannot get elsewhere?
+
+### The "so what" test
+- After answering all the above, ask yourself: if I removed my name from this SOP, would it
+  still be clearly distinguishable from 100 other applicants with similar GPA and research?
+- If the answer is no, you need more specific experiences, more reflection, or a different
+  narrative angle — not better vocabulary.
+
+> Source: adapted from HUST CS 飞跃手册 2023 文书撰写 section, plus MIT/UCB SOP guidelines
+> (https://web.mit.edu/msrp/myMSRP/docs/Statement%20of%20purpose%20guidelines.pdf,
+> https://grad.berkeley.edu/admissions/apply/statement-purpose).
+
 ## How this connects to the rest of the repo
 - `templates/sop-outline-template.md` — structural outline; this file is argumentative outline. Align 1:1 before drafting.
 - `references/sop-ps-regional-styles.md` — region-specific variants (UK / HK / SG).
