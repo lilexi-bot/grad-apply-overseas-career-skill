@@ -33,14 +33,17 @@ description: >-
   年轻人最累/迭代速度vs社会公允速度 (00后 热血意志力 privilege 社会杠杆滞后),
   DeepSeek mHC / Hyper-Connections (字节 HC 残差流 扩展率 谱范数 双随机矩阵 Birkhoff polytope Sinkhorn-Knopp),
   财富自由哲学/孙宇晨播客 (精神自由 战略vs战术 投资自己 多巴胺递减 中彩票难善终 黑客帝国脚本),
+  华科校友教授网络/校友套磁 (HUST alumni professors 华科校友 飞跃手册 csprofessors brown.edu 校友教授名录 面套),
+  暑研实操指南 (summer research 暑研 暑期科研 暑研套磁 MITACS UCInspire 面套行程 海外推荐信 暑研时间线 self-funded),
+  SOP写作前自我追问清单 (pre-writing checklist 动机追问 选校匹配 so-what test 飞跃手册文书指导),
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.12.1
-last_updated: 2026-09-01
+version: 2.13.0
+last_updated: 2026-09-06
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.12.1)
+# Grad Apply & Overseas Career — Master Skill (v2.13.0)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -74,6 +77,8 @@ only when the workflow step requires it, then work from it:
 | Founder fundraising ecosystem / investor lists | `references/founder-fundraising-ecosystem.md` |
 | Deadline tracker / offer comparison | `templates/deadline-offer-templates.md` |
 | Expected output quality examples | `examples/` (evidence map, school match, CV bullets) |
+| HUST alumni professor network — 35+ alumni at US/HK for warm outreach | `references/hust-alumni-professor-network.md` |
+| Summer research (暑研) practical guide — finding labs, 面套, timelines, what to do | `references/summer-research-practical-guide.md` |
 | Career anxiety / "why am I doing this" / re-start decisions | `references/career-mindset-adaptability.md` |
 | Career investment against AI / "what can't AI do" | `references/career-what-ai-cannot-encode.md` |
 | Codex reverse-engineering of semi-public craft/investment knowledge | `references/investment-codex-reverse-engineering.md` |
@@ -112,7 +117,9 @@ only when the workflow step requires it, then work from it:
 | `/sop-review` | Admissions-officer scoring + revision report |
 | `/lor-template` | `templates/lor-cold-email-template.md` |
 | `/prof-email-draft` | `templates/lor-cold-email-template.md` cold-email part (requires ≥2 papers read) |
-| `/phd-advisor` | `references/phd-advisor-sourcing.md` — advisor research method (homepage+Scholar+current-student vetting, 3-dimension match, PhD self-test) + CS/AI red-list seed; re-verify every lead |
+| `/phd-advisor` | `references/phd-advisor-sourcing.md` — advisor research method (homepage+Scholar+current-student vetting, 3-dimension match, PhD self-test) + CS/AI red-list seed + alumni network sourcing; re-verify every lead |
+| `/hust-alumni` | `references/hust-alumni-professor-network.md` — 35+ HUST alumni professors at US/HK (names, institutions, fields); warm-outreach leads for 套磁 and 暑研; VERIFY every entry |
+| `/summer-research` | `references/summer-research-practical-guide.md` — 暑研 full lifecycle: when/where/how to find lab, three paths (official/self-套磁/referral), 面套 logistics, six priorities during 暑研, timeline |
 | `/deadline-timeline` | `templates/deadline-offer-templates.md` part A |
 | `/offer-compare` | `templates/deadline-offer-templates.md` part B |
 | `/visa-compare` | `references/visa-policy-links.md` + visa summary below; print official links next to every threshold |

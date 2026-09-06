@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.12.1 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.0 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -71,6 +71,8 @@ references/                  # external data loaded on demand
   career-youngest-most-exhausted.md # 能力最强的年轻人为何最累：迭代速度 vs 社会公允速度的错位
   deepseek-mhc-hyperconnections.md # DeepSeek mHC：HC + Birkhoff 流形（双随机矩阵）约束解决梯度爆炸/消失
   career-wealth-freedom-philosophy.md # 财富自由哲学 7 条（精神自由 / 战略>战术 / 投资自己 / 多巴胺递减 / 中彩票难善终 / 黑客帝国脚本）
+  hust-alumni-professor-network.md    # 华科校友教授网络（35+ 位美国/香港 CS 教授，套磁线索+面套目标，须核验）
+  summer-research-practical-guide.md  # 暑研实操指南（三种找实验室路径/面套行程规划/暑研六优先事项/时间线）
 examples/                    # fictional sample outputs (evidence map, school match, CV bullets)
 ```
 
@@ -84,7 +86,9 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/cv-generate [fineng/cs/ece/mech/techtransfer/founder]` | Track-tailored CV (md or LaTeX) |
 | `/sop-draft` · `/sop-review` | SOP drafting + admissions-officer scoring |
 | `/lor-template` · `/prof-email-draft` | Recommendation outlines & professor cold emails |
-| `/phd-advisor` | Advisor sourcing: 3-dimension match, current-student vetting, CS/AI red-list leads + applyphd.app (34K US records, CV-match, keyword) |
+| `/phd-advisor` | Advisor sourcing: 3-dimension match, current-student vetting, CS/AI red-list leads + applyphd.app (34K US records) + alumni network sourcing |
+| `/hust-alumni` | 35+ HUST alumni professors at US/HK universities — warm-outreach leads for 套磁, 暑研面套, and referral networking; every entry must be re-verified |
+| `/summer-research` | 暑研 full lifecycle: 3 paths to find a lab (official programme / self-套磁 / professor referral), 面套 logistics, 6 priorities during 暑研, ideal timeline |
 | `/startup-coldstart` | Founder zero-budget cold-start: X/Reddit/LinkedIn cold outreach + subreddit→Discord funnel + UGC multi-channel |
 | `/founder-antihedge` | Stanford GSB three anti-hedging principles: reject one-two-punch fallacy, no middle ground, tech ≠ win |
 | `/founder-onchain` | On-chain payment infrastructure case (X/Meta/Visa/Standard Chartered) + three founder principles: user-assumption reset, settlement-as-scenario, compliance-as-product |
