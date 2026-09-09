@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.1 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.2 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -59,6 +59,7 @@ references/                  # external data loaded on demand
   founder-anti-hedging-principles.md # 斯坦福GSB创业三反常识：阶梯式冒险/无中间地带/黑科技未必赢
   founder-infrastructure-migration.md # 链上支付案例（X/Meta/Visa/渣打）+ 用户假设/结算场景/合规原则
   founder-personal-profile-building.md # 创业者个人品牌建设：profile画圆 + details扎实；真实人设≠包装；身份层护城河
+  founder-fundraising-methodology.md # 融资实战5大认知纠偏 + 融资前7问自检；投资人匹配表/决策成本/节奏/解释能力
   career-what-ai-cannot-encode.md     # AI无法编码的人类原生特质（信任/品味/审美/想象/情绪）+ Hassabis微观结构
   investment-codex-reverse-engineering.md # Codex逆向工程美股博主半公开指标（三步法：完整摄入/已知未知分离/假设空间限定）
   career-oak-high-level-state-transition.md # Oak架构/Sutton：世界用高层状态转移描述，agent取时间延展选项
@@ -94,6 +95,7 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/founder-antihedge` | Stanford GSB three anti-hedging principles: reject one-two-punch fallacy, no middle ground, tech ≠ win |
 | `/founder-onchain` | On-chain payment infrastructure case (X/Meta/Visa/Standard Chartered) + three founder principles: user-assumption reset, settlement-as-scenario, compliance-as-product |
 | `/founder-profile` | Founder personal profile building: identity-layer moat, authentic brand ≠ packaging, from single label to fully-rounded profile |
+| `/fundraising-methodology` | Fundraising 5 cognitive corrections + 7-question pre-pitch self-audit; investor matching table, decision cost, rhythm, narrative explanation |
 | `/deadline-timeline` · `/offer-compare` | Deadline tracker & offer decision matrix |
 | `/visa-compare` | 2026 founder/post-study visa routes **with official source links** |
 | `/founder-deck` | One-page venture brief + visa-evidence checklist + fundraising map |

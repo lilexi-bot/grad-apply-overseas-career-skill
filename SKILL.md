@@ -37,14 +37,15 @@ description: >-
   暑研实操指南 (summer research 暑研 暑期科研 暑研套磁 MITACS UCInspire 面套行程 海外推荐信 暑研时间线 self-funded),
   SOP写作前自我追问清单 (pre-writing checklist 动机追问 选校匹配 so-what test 飞跃手册文书指导),
   创业者个人品牌建设 (personal profile personal IP 个人IP 真实人设 build up your profile manage every detail 差异化 不可替代性 个人品牌 创业者profile),
+  融资方法论/融资实战 (fundraising methodology 融资认知 投资人匹配表 决策成本 融资节奏 解释能力 融资进展硬指标 7个关键问题 为什么融 融多少 怎么讲 让多少股份),
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.13.1
-last_updated: 2026-09-09
+version: 2.13.2
+last_updated: 2026-09-10
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.13.1)
+# Grad Apply & Overseas Career — Master Skill (v2.13.2)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -76,6 +77,7 @@ only when the workflow step requires it, then work from it:
 | Founder infrastructure-migration thinking (Web3/on-chain, settlement-as-scenario) | `references/founder-infrastructure-migration.md` |
 | Visa policy thresholds & official links | `references/visa-policy-links.md` |
 | Founder fundraising ecosystem / investor lists | `references/founder-fundraising-ecosystem.md` |
+| Founder fundraising methodology (5 corrections + 7-question self-audit) | `references/founder-fundraising-methodology.md` |
 | Founder personal profile building (identity-layer moat, 个人IP, authentic brand) | `references/founder-personal-profile-building.md` |
 | Deadline tracker / offer comparison | `templates/deadline-offer-templates.md` |
 | Expected output quality examples | `examples/` (evidence map, school match, CV bullets) |
@@ -130,6 +132,7 @@ only when the workflow step requires it, then work from it:
 | `/founder-antihedge` | `references/founder-anti-hedging-principles.md` — 斯坦福GSB三条反常识：阶梯式冒险谬误、创业无中间地带、黑科技未必赢；诊断 founder 叙事中的 hedging |
 | `/founder-onchain` | `references/founder-infrastructure-migration.md` — 链上支付案例（X/Meta/Visa/渣打）+ 三条 founder 原则：用户假设重置/结算即场景/合规是产品能力 |
 | `/founder-profile` | `references/founder-personal-profile-building.md` — 创业者个人品牌建设：build up your profile + manage every detail；真实人设≠包装；从单点标签到完整profile画圆；身份层护城河 |
+| `/fundraising-methodology` | `references/founder-fundraising-methodology.md` — 融资实战5大认知纠偏 + 融资前7问自检；投资人匹配表/决策成本/节奏管理/解释能力/硬指标 |
 | `/mindset` | `references/career-mindset-adaptability.md` — reframe credential anxiety as optionality; redirect to concrete moves |
 | `/human-native` | `references/career-what-ai-cannot-encode.md` — trust/taste/aesthetics/imagination/emotion as career moat; Hassabis micro-structure argument; optimistic flip of long-term pessimism |
 | `/codex-hack` | `references/investment-codex-reverse-engineering.md` — three-step Codex methodology: full ingestion → separate known/unknown → bounded hypothesis search against blogger images |
