@@ -59,7 +59,7 @@ references/                  # external data loaded on demand
   founder-anti-hedging-principles.md # 斯坦福GSB创业三反常识：阶梯式冒险/无中间地带/黑科技未必赢
   founder-infrastructure-migration.md # 链上支付案例（X/Meta/Visa/渣打）+ 用户假设/结算场景/合规原则
   founder-personal-profile-building.md # 创业者个人品牌建设：profile画圆 + details扎实；真实人设≠包装；身份层护城河
-  founder-fundraising-methodology.md # 融资实战5大认知纠偏 + 融资前7问自检；投资人匹配表/决策成本/节奏/解释能力
+  founder-fundraising-methodology.md # 融资实战5大认知纠偏 + 7问自检 + 估值策略（Down Round/被估值锁死/5问压力测试）
   career-what-ai-cannot-encode.md     # AI无法编码的人类原生特质（信任/品味/审美/想象/情绪）+ Hassabis微观结构
   investment-codex-reverse-engineering.md # Codex逆向工程美股博主半公开指标（三步法：完整摄入/已知未知分离/假设空间限定）
   career-oak-high-level-state-transition.md # Oak架构/Sutton：世界用高层状态转移描述，agent取时间延展选项
