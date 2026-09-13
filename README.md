@@ -61,6 +61,7 @@ references/                  # external data loaded on demand
   founder-personal-profile-building.md # 创业者个人品牌建设：profile画圆 + details扎实；真实人设≠包装；身份层护城河
   founder-fundraising-methodology.md # 融资实战5大认知纠偏 + 7问自检 + 估值策略（Down Round/被估值锁死/5问压力测试）
   returnee-employment-market-2025.md # 2025海归就业现状：回国规模/生源地/学历行业/薪资/城市下沉（智联招聘数据）
+  ecm-interview-prep-ms-hk.md      # MS香港ECM面试辅导：Placement技术面 + Why Move跳槽叙事 + Deal Experience讲述框架
   career-what-ai-cannot-encode.md     # AI无法编码的人类原生特质（信任/品味/审美/想象/情绪）+ Hassabis微观结构
   investment-codex-reverse-engineering.md # Codex逆向工程美股博主半公开指标（三步法：完整摄入/已知未知分离/假设空间限定）
   career-oak-high-level-state-transition.md # Oak架构/Sutton：世界用高层状态转移描述，agent取时间延展选项
@@ -97,6 +98,8 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/founder-onchain` | On-chain payment infrastructure case (X/Meta/Visa/Standard Chartered) + three founder principles: user-assumption reset, settlement-as-scenario, compliance-as-product |
 | `/founder-profile` | Founder personal profile building: identity-layer moat, authentic brand ≠ packaging, from single label to fully-rounded profile |
 | `/fundraising-methodology` | Fundraising 5 cognitive corrections + 7-question pre-pitch self-audit; investor matching table, decision cost, rhythm, narrative explanation |
+| `/returnee-market` | 2025 returnee employment snapshot: supply surge (1.51× since 2018), salary by sector (18k+ in new productive forces), city decentralisation; evaluate study-abroad ROI |
+| `/ecm-interview` | MS HK ECM interview mentoring: Placement technicals (Primary/Secondary/Top-up/Block Trade), "Why Move" lateral hire narrative, Deal Experience storytelling framework |
 | `/deadline-timeline` · `/offer-compare` | Deadline tracker & offer decision matrix |
 | `/visa-compare` | 2026 founder/post-study visa routes **with official source links** |
 | `/founder-deck` | One-page venture brief + visa-evidence checklist + fundraising map |

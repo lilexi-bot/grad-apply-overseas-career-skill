@@ -38,10 +38,12 @@ description: >-
   SOP写作前自我追问清单 (pre-writing checklist 动机追问 选校匹配 so-what test 飞跃手册文书指导),
   创业者个人品牌建设 (personal profile personal IP 个人IP 真实人设 build up your profile manage every detail 差异化 不可替代性 个人品牌 创业者profile),
   融资方法论/融资实战 (fundraising methodology 融资认知 投资人匹配表 决策成本 融资节奏 解释能力 融资进展硬指标 7个关键问题 为什么融 融多少 怎么讲 让多少股份 估值策略 估值陷阱 down round 降估值融资 被估值锁死 融资里程碑 稀释比例 下一轮估值 估值兑现),
+  海归就业/回国就业/留学ROI (海归就业 returnee employment 留学生回国 海归薪资 海归报告 回国找工作 留学值不值 ROI of studying abroad 海归城市选择 海归行业分布 智联招聘海归),
+  投行ECM面试/Placement (ECM interview 投行面试 Morgan Stanley 香港IB Primary Placement Secondary Placement Top-up Block Trade settlement Why Move Deal Experience equity capital markets 投行求职 跳槽动机),
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.13.3
+version: 2.13.4
 last_updated: 2026-09-13
 ---
 
