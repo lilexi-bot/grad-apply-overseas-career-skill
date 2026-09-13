@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.2 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.3 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -60,6 +60,7 @@ references/                  # external data loaded on demand
   founder-infrastructure-migration.md # 链上支付案例（X/Meta/Visa/渣打）+ 用户假设/结算场景/合规原则
   founder-personal-profile-building.md # 创业者个人品牌建设：profile画圆 + details扎实；真实人设≠包装；身份层护城河
   founder-fundraising-methodology.md # 融资实战5大认知纠偏 + 7问自检 + 估值策略（Down Round/被估值锁死/5问压力测试）
+  returnee-employment-market-2025.md # 2025海归就业现状：回国规模/生源地/学历行业/薪资/城市下沉（智联招聘数据）
   career-what-ai-cannot-encode.md     # AI无法编码的人类原生特质（信任/品味/审美/想象/情绪）+ Hassabis微观结构
   investment-codex-reverse-engineering.md # Codex逆向工程美股博主半公开指标（三步法：完整摄入/已知未知分离/假设空间限定）
   career-oak-high-level-state-transition.md # Oak架构/Sutton：世界用高层状态转移描述，agent取时间延展选项

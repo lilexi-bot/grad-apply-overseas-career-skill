@@ -41,8 +41,8 @@ description: >-
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.13.2
-last_updated: 2026-09-10
+version: 2.13.3
+last_updated: 2026-09-13
 ---
 
 # Grad Apply & Overseas Career — Master Skill (v2.13.2)
@@ -79,6 +79,7 @@ only when the workflow step requires it, then work from it:
 | Founder fundraising ecosystem / investor lists | `references/founder-fundraising-ecosystem.md` |
 | Founder fundraising methodology (5 corrections + 7-question audit + valuation strategy) | `references/founder-fundraising-methodology.md` |
 | Founder personal profile building (identity-layer moat, 个人IP, authentic brand) | `references/founder-personal-profile-building.md` |
+| 2025 returnee employment market — supply surge, salary by sector, city decentralisation | `references/returnee-employment-market-2025.md` |
 | Deadline tracker / offer comparison | `templates/deadline-offer-templates.md` |
 | Expected output quality examples | `examples/` (evidence map, school match, CV bullets) |
 | HUST alumni professor network — 35+ alumni at US/HK for warm outreach | `references/hust-alumni-professor-network.md` |
