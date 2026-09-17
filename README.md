@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.3 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.5 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -91,6 +91,7 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/sop-draft` · `/sop-review` | SOP drafting + admissions-officer scoring |
 | `/lor-template` · `/prof-email-draft` | Recommendation outlines & professor cold emails |
 | `/phd-advisor` | Advisor sourcing: 3-dimension match, current-student vetting, CS/AI red-list leads + applyphd.app (34K US records) + alumni network sourcing |
+| `/phd-cold-email` | PhD cold-email & interview tactics: match>interest (paper+future work method), ability>passion (specific gap), proactive interview questions, follow-up cadence |
 | `/hust-alumni` | 35+ HUST alumni professors at US/HK universities — warm-outreach leads for 套磁, 暑研面套, and referral networking; every entry must be re-verified |
 | `/summer-research` | 暑研 full lifecycle: 3 paths to find a lab (official programme / self-套磁 / professor referral), 面套 logistics, 6 priorities during 暑研, ideal timeline |
 | `/startup-coldstart` | Founder zero-budget cold-start: X/Reddit/LinkedIn cold outreach + subreddit→Discord funnel + UGC multi-channel |
