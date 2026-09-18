@@ -101,6 +101,9 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/fundraising-methodology` | Fundraising 5 cognitive corrections + 7-question pre-pitch self-audit; investor matching table, decision cost, rhythm, narrative explanation |
 | `/returnee-market` | 2025 returnee employment snapshot: supply surge (1.51× since 2018), salary by sector (18k+ in new productive forces), city decentralisation; evaluate study-abroad ROI |
 | `/ecm-interview` | MS HK ECM interview mentoring: Placement technicals (Primary/Secondary/Top-up/Block Trade), "Why Move" lateral hire narrative, Deal Experience storytelling framework |
+| `/phd-cold-email` | PhD cold-email & interview tactics: match>interest (paper+future work method), ability>passion (specific gap), proactive interview questions, follow-up cadence |
+| `/yale-m2m` | Yale M2M application review: candidate profile (social responsibility, critical thinking, AI optimism), ESG storyline, 1+1 alternative pathway |
+| `/ai-flywheel` | AI investment flywheel: LLM stocks as token hedge, 8-stage positive feedback loop, wealth divergence, personal positioning |
 | `/deadline-timeline` · `/offer-compare` | Deadline tracker & offer decision matrix |
 | `/visa-compare` | 2026 founder/post-study visa routes **with official source links** |
 | `/founder-deck` | One-page venture brief + visa-evidence checklist + fundraising map |
