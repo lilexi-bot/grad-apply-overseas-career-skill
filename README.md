@@ -104,6 +104,7 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/phd-cold-email` | PhD cold-email & interview tactics: match>interest (paper+future work method), ability>passion (specific gap), proactive interview questions, follow-up cadence |
 | `/yale-m2m` | Yale M2M application review: candidate profile (social responsibility, critical thinking, AI optimism), ESG storyline, 1+1 alternative pathway |
 | `/ai-flywheel` | AI investment flywheel: LLM stocks as token hedge, 8-stage positive feedback loop, wealth divergence, personal positioning |
+| `/cognitive-revolution` | Sequoia's Cognitive Revolution: AI = industrial revolution rhyme, cognitive labor outsourcing, Jevons paradox, Engels' pause, speed risk |
 | `/deadline-timeline` · `/offer-compare` | Deadline tracker & offer decision matrix |
 | `/visa-compare` | 2026 founder/post-study visa routes **with official source links** |
 | `/founder-deck` | One-page venture brief + visa-evidence checklist + fundraising map |

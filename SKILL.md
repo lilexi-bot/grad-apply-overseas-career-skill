@@ -43,8 +43,8 @@ description: >-
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.13.6
-last_updated: 2026-09-17
+version: 2.13.7
+last_updated: 2026-09-19
 ---
 
 # Grad Apply & Overseas Career — Master Skill (v2.13.7)
@@ -136,6 +136,11 @@ only when the workflow step requires it, then work from it:
 | `/founder-onchain` | `references/founder-infrastructure-migration.md` — 链上支付案例（X/Meta/Visa/渣打）+ 三条 founder 原则：用户假设重置/结算即场景/合规是产品能力 |
 | `/founder-profile` | `references/founder-personal-profile-building.md` — 创业者个人品牌建设：build up your profile + manage every detail；真实人设≠包装；从单点标签到完整profile画圆；身份层护城河 |
 | `/fundraising-methodology` | `references/founder-fundraising-methodology.md` — 融资实战5大认知纠偏 + 融资前7问自检 + 估值策略（Down Round/被估值锁死/5问压力测试） |
+| `/ecm-interview` | `references/ecm-interview-prep-ms-hk.md` — MS香港ECM面试辅导：Placement技术面(Primary/Secondary/Top-up/Block Trade) + Why Move跳槽叙事 + Deal Experience讲述框架 |
+| `/phd-cold-email` | `references/phd-cold-email-interview-tactics.md` — 套磁信四条：match>interest（paper+future work表格法）、ability>passion（具体gap+切入点）、面试主动提问不做yes-machine、follow up节奏（一周一次+进度更新） |
+| `/yale-m2m` | `references/yale-m2m-application-review.md` — Yale M2M申请复盘：candidate画像三要素、ESG故事线、1+1项目捷径策略 |
+| `/ai-flywheel` | `references/ai-investment-flywheel.md` — AI投资飞轮：用LLM股票对冲token成本、正反馈循环8阶段、财富分化与个人定位 |
+| `/cognitive-revolution` | `references/sequoia-cognitive-revolution.md` — 红杉Sequoia认知革命：AI=工业革命押韵、认知劳动外包、杰文斯悖论、Engels' pause、速度风险 |
 | `/mindset` | `references/career-mindset-adaptability.md` — reframe credential anxiety as optionality; redirect to concrete moves |
 | `/human-native` | `references/career-what-ai-cannot-encode.md` — trust/taste/aesthetics/imagination/emotion as career moat; Hassabis micro-structure argument; optimistic flip of long-term pessimism |
 | `/codex-hack` | `references/investment-codex-reverse-engineering.md` — three-step Codex methodology: full ingestion → separate known/unknown → bounded hypothesis search against blogger images |
