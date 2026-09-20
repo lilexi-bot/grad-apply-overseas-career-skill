@@ -40,6 +40,11 @@ description: >-
   融资方法论/融资实战 (fundraising methodology 融资认知 投资人匹配表 决策成本 融资节奏 解释能力 融资进展硬指标 7个关键问题 为什么融 融多少 怎么讲 让多少股份 估值策略 估值陷阱 down round 降估值融资 被估值锁死 融资里程碑 稀释比例 下一轮估值 估值兑现),
   海归就业/回国就业/留学ROI (海归就业 returnee employment 留学生回国 海归薪资 海归报告 回国找工作 留学值不值 ROI of studying abroad 海归城市选择 海归行业分布 智联招聘海归),
   投行ECM面试/Placement (ECM interview 投行面试 Morgan Stanley 香港IB Primary Placement Secondary Placement Top-up Block Trade settlement Why Move Deal Experience equity capital markets 投行求职 跳槽动机),
+  PhD套磁信与面试四条 (PhD cold email tactics 套磁信怎么写 要match不要interest 要ability不要passion PhD面试主动提问 follow up节奏 导师选人细节 paper+future work方法),
+  Yale M2M申请复盘 (Yale SOM M2M 管理类项目申请 社会责任感 人本位 AI态度 1+1项目 GBS info session ESG经历 candidate画像 校友reach out),
+  AI投资飞轮/LLM股票对冲 (AI investment flywheel LLM股票 对冲token成本 正反馈循环 科技通胀传导 capex溢出 财富分化 左脚踩右脚 大爆炸时代),
+  红杉认知革命/AI世界观 (Sequoia Cognitive Revolution Konstantine Buhler 认知劳动外包 工业革命押韵 杰文斯悖论 Engels pause 每瓦智能 珍妮纺纱机 编程 汽车 认知工作自动化),
+  高性价比人生指南 (HowToLiveBetter 552条循证建议 人生性价比 留学身份 法律红线 急救 创业手续 没钱怎么活 程序员红线 技能回报),
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
@@ -82,6 +87,12 @@ only when the workflow step requires it, then work from it:
 | Founder fundraising methodology (5 corrections + 7-question audit + valuation strategy) | `references/founder-fundraising-methodology.md` |
 | Founder personal profile building (identity-layer moat, 个人IP, authentic brand) | `references/founder-personal-profile-building.md` |
 | 2025 returnee employment market — supply surge, salary by sector, city decentralisation | `references/returnee-employment-market-2025.md` |
+| ECM interview prep — Placement types, Why Move narrative, Deal Experience storytelling (MS HK mentoring) | `references/ecm-interview-prep-ms-hk.md` |
+| PhD cold-email & interview tactics — match>interest, ability>passion, proactive interview, follow-up cadence | `references/phd-cold-email-interview-tactics.md` |
+| Yale M2M application review — candidate profile, ESG storyline, 1+1 alternative pathway | `references/yale-m2m-application-review.md` |
+| AI investment flywheel — LLM stocks as token hedge, positive feedback loop, wealth divergence | `references/ai-investment-flywheel.md` |
+| Sequoia Cognitive Revolution — AI = industrial revolution rhyme, cognitive labor outsourcing, Engels' pause, speed risk | `references/sequoia-cognitive-revolution.md` |
+| High cost-performance life guide — 552 evidence-based tips across 32 chapters (health, legal, career, finance, study abroad) | `references/how-to-live-better-guide.md` |
 | Deadline tracker / offer comparison | `templates/deadline-offer-templates.md` |
 | Expected output quality examples | `examples/` (evidence map, school match, CV bullets) |
 | HUST alumni professor network — 35+ alumni at US/HK for warm outreach | `references/hust-alumni-professor-network.md` |
@@ -141,6 +152,7 @@ only when the workflow step requires it, then work from it:
 | `/yale-m2m` | `references/yale-m2m-application-review.md` — Yale M2M申请复盘：candidate画像三要素、ESG故事线、1+1项目捷径策略 |
 | `/ai-flywheel` | `references/ai-investment-flywheel.md` — AI投资飞轮：用LLM股票对冲token成本、正反馈循环8阶段、财富分化与个人定位 |
 | `/cognitive-revolution` | `references/sequoia-cognitive-revolution.md` — 红杉Sequoia认知革命：AI=工业革命押韵、认知劳动外包、杰文斯悖论、Engels' pause、速度风险 |
+| `/life-guide` | `references/how-to-live-better-guide.md` — 高性价比人生指南入口：552条循证建议、32章索引（留学/法律/创业/急救/技能/财务）、在线检索链接 |
 | `/mindset` | `references/career-mindset-adaptability.md` — reframe credential anxiety as optionality; redirect to concrete moves |
 | `/human-native` | `references/career-what-ai-cannot-encode.md` — trust/taste/aesthetics/imagination/emotion as career moat; Hassabis micro-structure argument; optimistic flip of long-term pessimism |
 | `/codex-hack` | `references/investment-codex-reverse-engineering.md` — three-step Codex methodology: full ingestion → separate known/unknown → bounded hypothesis search against blogger images |

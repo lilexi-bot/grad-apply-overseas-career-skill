@@ -62,6 +62,11 @@ references/                  # external data loaded on demand
   founder-fundraising-methodology.md # 融资实战5大认知纠偏 + 7问自检 + 估值策略（Down Round/被估值锁死/5问压力测试）
   returnee-employment-market-2025.md # 2025海归就业现状：回国规模/生源地/学历行业/薪资/城市下沉（智联招聘数据）
   ecm-interview-prep-ms-hk.md      # MS香港ECM面试辅导：Placement技术面 + Why Move跳槽叙事 + Deal Experience讲述框架
+  phd-cold-email-interview-tactics.md # PhD套磁信四条：match>interest/ability>passion/主动提问/follow up节奏
+  yale-m2m-application-review.md    # Yale M2M申请复盘：candidate画像/ESG故事线/1+1捷径
+  ai-investment-flywheel.md         # AI投资飞轮：LLM股票对冲token成本/正反馈循环/财富分化
+  sequoia-cognitive-revolution.md   # 红杉认知革命：AI=工业革命押韵/Engels' pause/速度风险
+  how-to-live-better-guide.md       # 高性价比人生指南入口：552条循证建议/32章索引/在线检索
   career-what-ai-cannot-encode.md     # AI无法编码的人类原生特质（信任/品味/审美/想象/情绪）+ Hassabis微观结构
   investment-codex-reverse-engineering.md # Codex逆向工程美股博主半公开指标（三步法：完整摄入/已知未知分离/假设空间限定）
   career-oak-high-level-state-transition.md # Oak架构/Sutton：世界用高层状态转移描述，agent取时间延展选项
@@ -105,6 +110,7 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/yale-m2m` | Yale M2M application review: candidate profile (social responsibility, critical thinking, AI optimism), ESG storyline, 1+1 alternative pathway |
 | `/ai-flywheel` | AI investment flywheel: LLM stocks as token hedge, 8-stage positive feedback loop, wealth divergence, personal positioning |
 | `/cognitive-revolution` | Sequoia's Cognitive Revolution: AI = industrial revolution rhyme, cognitive labor outsourcing, Jevons paradox, Engels' pause, speed risk |
+| `/life-guide` | High cost-performance life guide: 552 evidence-based tips across 32 chapters (health, legal, career, finance, study abroad), online search link |
 | `/deadline-timeline` · `/offer-compare` | Deadline tracker & offer decision matrix |
 | `/visa-compare` | 2026 founder/post-study visa routes **with official source links** |
 | `/founder-deck` | One-page venture brief + visa-evidence checklist + fundraising map |
