@@ -45,6 +45,8 @@ description: >-
   AI投资飞轮/LLM股票对冲 (AI investment flywheel LLM股票 对冲token成本 正反馈循环 科技通胀传导 capex溢出 财富分化 左脚踩右脚 大爆炸时代),
   红杉认知革命/AI世界观 (Sequoia Cognitive Revolution Konstantine Buhler 认知劳动外包 工业革命押韵 杰文斯悖论 Engels pause 每瓦智能 珍妮纺纱机 编程 汽车 认知工作自动化),
   高性价比人生指南 (HowToLiveBetter 552条循证建议 人生性价比 留学身份 法律红线 急救 创业手续 没钱怎么活 程序员红线 技能回报),
+  硅谷AI行业观察/一线见闻 (Silicon Valley AI observations 教授 大厂 风投 对话 中美AI格局 AI制药 长生药 泡沫破裂 Google FDE 个人英雄主义 AI提效vs颠覆),
+  Cold Email Networking模板 (cold email模板 networking邮件 冷邮件 回复率 refer邮件 校友networking 职业社交 LinkedIn outreach how to write cold email 四块结构),
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT

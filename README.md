@@ -111,6 +111,8 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/ai-flywheel` | AI investment flywheel: LLM stocks as token hedge, 8-stage positive feedback loop, wealth divergence, personal positioning |
 | `/cognitive-revolution` | Sequoia's Cognitive Revolution: AI = industrial revolution rhyme, cognitive labor outsourcing, Jevons paradox, Engels' pause, speed risk |
 | `/life-guide` | High cost-performance life guide: 552 evidence-based tips across 32 chapters (health, legal, career, finance, study abroad), online search link |
+| `/sv-ai-observations` | Silicon Valley AI industry observations: China-US AI landscape, AI pharma directions, bubble risk, Google FDE, personal heroism vs efficiency |
+| `/cold-email` | Cold email networking template: 4-part structure for 95% reply rate (source → purpose → strengths → next step) |
 | `/deadline-timeline` · `/offer-compare` | Deadline tracker & offer decision matrix |
 | `/visa-compare` | 2026 founder/post-study visa routes **with official source links** |
 | `/founder-deck` | One-page venture brief + visa-evidence checklist + fundraising map |
