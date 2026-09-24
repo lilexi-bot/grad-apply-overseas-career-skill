@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.9 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.10 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -68,6 +68,7 @@ references/                  # external data loaded on demand
   sequoia-cognitive-revolution.md   # 红杉认知革命：AI=工业革命押韵/Engels' pause/速度风险
   how-to-live-better-guide.md       # 高性价比人生指南入口：552条循证建议/32章索引/在线检索
   type-safe-jev-decision-model.md   # TypeSafe Jev判断模型：并行决策/RLCD校准/Agent高频检查降本
+  silicon-valley-incubator-guide.md # 硅谷孵化器指南+Startup Compass匹配工具
   career-what-ai-cannot-encode.md     # AI无法编码的人类原生特质（信任/品味/审美/想象/情绪）+ Hassabis微观结构
   investment-codex-reverse-engineering.md # Codex逆向工程美股博主半公开指标（三步法：完整摄入/已知未知分离/假设空间限定）
   career-oak-high-level-state-transition.md # Oak架构/Sutton：世界用高层状态转移描述，agent取时间延展选项
@@ -112,6 +113,8 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/ai-flywheel` | AI investment flywheel: LLM stocks as token hedge, 8-stage positive feedback loop, wealth divergence, personal positioning |
 | `/cognitive-revolution` | Sequoia's Cognitive Revolution: AI = industrial revolution rhyme, cognitive labor outsourcing, Jevons paradox, Engels' pause, speed risk |
 | `/life-guide` | High cost-performance life guide: 552 evidence-based tips across 32 chapters (health, legal, career, finance, study abroad), online search link |
+| `/jev-decision-model` | TypeSafe Jev decision model: parallel judgments, RLCD calibration, agent cost reduction, browser-use integration |
+| `/incubator-guide` | Silicon Valley incubator guide + Startup Compass: non-YC incubators, residency matching for Chinese founders |
 | `/sv-ai-observations` | Silicon Valley AI industry observations: China-US AI landscape, AI pharma directions, bubble risk, Google FDE, personal heroism vs efficiency |
 | `/cold-email` | Cold email networking template: 4-part structure for 95% reply rate (source → purpose → strengths → next step) |
 | `/deadline-timeline` · `/offer-compare` | Deadline tracker & offer decision matrix |
