@@ -1,9 +1,9 @@
-# PhD 套磁信与面试实战四条
+# PhD 套磁信与面试实战四条 + 本科生科研套磁模板
 
 > **English导读 · When to load**
-> Trigger: user asks about 套磁信怎么写 / cold email professor for PhD / PhD面试怎么表现 / 导师回信 / follow up 导师 / PhD interview mock / 怎么让教授记住我 / 套磁技巧 / PhD application email tips / how to follow up with potential advisor.
-> Context: 一位在读博士生的套磁与面试实战复盘，四条核心原则，来自申请阶段的经验和导师筛选视角。
-> Key use: PhD套磁信写作指导、PhD面试行为指导、follow-up策略。与 `phd-advisor-sourcing.md`（如何找到导师）互补——本文件聚焦找到之后怎么打、怎么聊、怎么跟。
+> Trigger: user asks about 套磁信怎么写 / cold email professor for PhD / PhD面试怎么表现 / 导师回信 / follow up 导师 / PhD interview mock / 怎么让教授记住我 / 套磁技巧 / PhD application email tips / how to follow up with potential advisor / 本科生套磁 / undergrad research email / RA申请邮件 / 科研套磁 / 本科生联系教授.
+> Context: 两部分实战经验——(1) 在读博士生的套磁与面试四条原则；(2) 回复率80%的本科生科研套磁邮件大纲+实例。
+> Key use: PhD套磁信写作指导、PhD面试行为指导、follow-up策略、本科生科研套磁邮件模板。与 `phd-advisor-sourcing.md`（如何找到导师）互补——本文件聚焦找到之后怎么打、怎么聊、怎么跟。
 
 ---
 

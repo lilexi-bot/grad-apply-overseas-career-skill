@@ -50,8 +50,8 @@ description: >-
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.13.10
-last_updated: 2026-09-22
+version: 2.13.11
+last_updated: 2026-09-25
 ---
 
 # Grad Apply & Overseas Career — Master Skill (v2.13.10)
