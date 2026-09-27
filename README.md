@@ -115,6 +115,7 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/life-guide` | High cost-performance life guide: 552 evidence-based tips across 32 chapters (health, legal, career, finance, study abroad), online search link |
 | `/jev-decision-model` | TypeSafe Jev decision model: parallel judgments, RLCD calibration, agent cost reduction, browser-use integration |
 | `/incubator-guide` | Silicon Valley incubator guide + Startup Compass: non-YC incubators, residency matching for Chinese founders |
+| `/capability-system` | Young people's "version answer": language + skill + AI + internet + globalization = capability system |
 | `/sv-ai-observations` | Silicon Valley AI industry observations: China-US AI landscape, AI pharma directions, bubble risk, Google FDE, personal heroism vs efficiency |
 | `/cold-email` | Cold email networking template: 4-part structure for 95% reply rate (source → purpose → strengths → next step) |
 | `/deadline-timeline` · `/offer-compare` | Deadline tracker & offer decision matrix |

@@ -47,6 +47,8 @@ description: >-
   高性价比人生指南 (HowToLiveBetter 552条循证建议 人生性价比 留学身份 法律红线 急救 创业手续 没钱怎么活 程序员红线 技能回报),
   硅谷AI行业观察/一线见闻 (Silicon Valley AI observations 教授 大厂 风投 对话 中美AI格局 AI制药 长生药 泡沫破裂 Google FDE 个人英雄主义 AI提效vs颠覆),
   Cold Email Networking模板 (cold email模板 networking邮件 冷邮件 回复率 refer邮件 校友networking 职业社交 LinkedIn outreach how to write cold email 四块结构),
+  本科生科研套磁邮件 (undergrad research cold email 本科生套磁 RA申请邮件 科研套磁 本科生联系教授 套磁邮件大纲 5-part structure contribution CV transcript 回复率80%),
+  年轻人版本答案/全球化能力系统 (career version answer capability system 语言 专业技能 AI 互联网 全球化 跨市场 geographic arbitrage 能力系统 earn globally live locally 购买力 选择权),
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
@@ -54,7 +56,7 @@ version: 2.13.11
 last_updated: 2026-09-25
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.13.10)
+# Grad Apply & Overseas Career — Master Skill (v2.13.12)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -150,7 +152,8 @@ only when the workflow step requires it, then work from it:
 | `/founder-profile` | `references/founder-personal-profile-building.md` — 创业者个人品牌建设：build up your profile + manage every detail；真实人设≠包装；从单点标签到完整profile画圆；身份层护城河 |
 | `/fundraising-methodology` | `references/founder-fundraising-methodology.md` — 融资实战5大认知纠偏 + 融资前7问自检 + 估值策略（Down Round/被估值锁死/5问压力测试） |
 | `/ecm-interview` | `references/ecm-interview-prep-ms-hk.md` — MS香港ECM面试辅导：Placement技术面(Primary/Secondary/Top-up/Block Trade) + Why Move跳槽叙事 + Deal Experience讲述框架 |
-| `/phd-cold-email` | `references/phd-cold-email-interview-tactics.md` — 套磁信四条：match>interest（paper+future work表格法）、ability>passion（具体gap+切入点）、面试主动提问不做yes-machine、follow up节奏（一周一次+进度更新） |
+| `/phd-cold-email` | `references/phd-cold-email-interview-tactics.md` — 套磁信四条（PhD）+ 本科生科研套磁5-part结构（回复率80%）：match>interest/ability>passion/主动提问/follow up节奏/contribution原则 |
+| `/capability-system` | `references/career-global-capability-system.md` — 年轻人版本答案：语言+专业技能+AI+互联网+全球化=能力系统，跨市场/地理套利/earn globally live locally |
 | `/yale-m2m` | `references/yale-m2m-application-review.md` — Yale M2M申请复盘：candidate画像三要素、ESG故事线、1+1项目捷径策略 |
 | `/ai-flywheel` | `references/ai-investment-flywheel.md` — AI投资飞轮：用LLM股票对冲token成本、正反馈循环8阶段、财富分化与个人定位 |
 | `/cognitive-revolution` | `references/sequoia-cognitive-revolution.md` — 红杉Sequoia认知革命：AI=工业革命押韵、认知劳动外包、杰文斯悖论、Engels' pause、速度风险 |
