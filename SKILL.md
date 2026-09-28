@@ -49,14 +49,15 @@ description: >-
   Cold Email Networking模板 (cold email模板 networking邮件 冷邮件 回复率 refer邮件 校友networking 职业社交 LinkedIn outreach how to write cold email 四块结构),
   本科生科研套磁邮件 (undergrad research cold email 本科生套磁 RA申请邮件 科研套磁 本科生联系教授 套磁邮件大纲 5-part structure contribution CV transcript 回复率80%),
   年轻人版本答案/全球化能力系统 (career version answer capability system 语言 专业技能 AI 互联网 全球化 跨市场 geographic arbitrage 能力系统 earn globally live locally 购买力 选择权),
+  灰产认知对冲 (grey market cognition hedge VC语境 非共识判断 钻空子 投机者 cofake talk 模型掺水 号池 生命周期管理 索罗斯反身性 庙堂江湖 AI灰产),
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.13.11
-last_updated: 2026-09-25
+version: 2.13.14
+last_updated: 2026-09-29
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.13.12)
+# Grad Apply & Overseas Career — Master Skill (v2.13.14)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -106,6 +107,12 @@ only when the workflow step requires it, then work from it:
 | Codex reverse-engineering of semi-public craft/investment knowledge | `references/investment-codex-reverse-engineering.md` |
 | World-description granularity / learning from experience / option-level policies | `references/career-oak-high-level-state-transition.md` |
 | Deepest AI boundary — symbolic-system trap (Yao Qiqi / Sutton exchange) | `references/career-ai-trapped-in-human-symbolic-system.md` |
+| SV AI industry observations — China-US AI landscape, AI pharma, bubble risk, Google FDE, personal heroism vs efficiency | `references/sv-ai-industry-observations.md` |
+| Cold email networking — 4-part structure for 95% reply rate (source → purpose → strengths → next step) | `references/cold-email-networking-template.md` |
+| TypeSafe Jev decision model — parallel judgments, RLCD calibration, agent cost reduction, browser-use integration | `references/type-safe-jev-decision-model.md` |
+| Silicon Valley incubator guide + Startup Compass — non-YC incubators, residency matching for Chinese founders | `references/silicon-valley-incubator-guide.md` |
+| Young people's "version answer" — language + skill + AI + internet + globalization = capability system, geographic arbitrage | `references/career-global-capability-system.md` |
+| Grey market cognition hedge — 灰产哥认知对冲: non-consensus judgment, exploit lifecycle, Soros reflexivity, VC vs 江湖 | `references/grey-market-cognition-hedge.md` |
 | CV revision / experience-hire CV review | `templates/cv-template.md` §CV revision rules |
 | Interview prep / storytelling / communication register | `references/interview-communication-notes.md` |
 | SOP/MBA leadership paragraphs & impact-story mining | `references/leadership-ladder.md` |
@@ -166,6 +173,11 @@ only when the workflow step requires it, then work from it:
 | `/cv-review` | Revision pass against the real-review checklist in `templates/cv-template.md` (skills backed by bullets, experience-hire visual weight, leadership vs client balance) |
 | `/interview-prep` | `references/interview-communication-notes.md` — jargon vs plain-English calibration, presence for front-office roles, story mechanics |
 | `/leadership-stories` | `references/leadership-ladder.md` — place evidence-map stories on the 5-tier influence ladder; upgrade structure (broad → strong → legacy/leverage); quantify |
+| `/sv-ai-observations` | Silicon Valley AI industry observations: China-US AI landscape, AI pharma directions, bubble risk, Google FDE, personal heroism vs efficiency |
+| `/cold-email` | Cold email networking template: 4-part structure for 95% reply rate (source → purpose → strengths → next step) |
+| `/jev-decision-model` | TypeSafe Jev decision model: parallel judgments, RLCD calibration, agent cost reduction, browser-use integration |
+| `/incubator-guide` | Silicon Valley incubator guide + Startup Compass: non-YC incubators, residency matching for Chinese founders |
+| `/grey-market` | 灰产认知对冲：灰产哥的非共识判断、钻空子思维、空子生命周期管理、索罗斯反身性、庙堂与江湖 |
 
 ## 4. Founder track (summary — details live in references/)
 - **Goal profile:** hard-tech venture raising VC globally — overseas YC / Silicon Valley / California / Middle East sovereign capital (Mubadala, PIF/Sanabil, Hub71); domestic China 红杉中国 HongShan, 硬科技基金 (中科创星/深创投/线性), PE (高瓴/CPE/国调). Full lists & accelerator names: `references/founder-fundraising-ecosystem.md`.

@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.11 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.14 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -73,6 +73,11 @@ references/                  # external data loaded on demand
   investment-codex-reverse-engineering.md # Codex逆向工程美股博主半公开指标（三步法：完整摄入/已知未知分离/假设空间限定）
   career-oak-high-level-state-transition.md # Oak架构/Sutton：世界用高层状态转移描述，agent取时间延展选项
   career-ai-trapped-in-human-symbolic-system.md # 姚期智-Sutton对话：AI被困在人类符号系统/数学范式内，仅人类自身或可跳出
+  sv-ai-industry-observations.md               # 硅谷AI一线观察：中美AI格局/AI制药/泡沫预警/Google FDE
+  cold-email-networking-template.md             # Cold Email Networking模板：4块结构回复率95%
+  career-global-capability-system.md            # 年轻人版本答案：语言+专业技能+AI+互联网+全球化=能力系统
+  grey-market-cognition-hedge.md                # 灰产认知对冲：非共识判断/钻空子思维/索罗斯反身性/庙堂与江湖
+  quant-weekly-compute-flow-hft.md              # Quant周报：Jane Street算力军备/Systematic Flow/HFT扩张/大宗电子化/指数分化
   sop-meta-framework.md            # SOP 写作元框架：招生官三问（动机/计划/能力）+ 十拍写作骨架
   sop-8h-workflow.md               # 8小时文书初稿 7 步工作流（PS/CV/RL 三位一体 / BAR 模型 / 量化 / 推荐人沟通）
   sop-ps-regional-styles.md        # 区域 PS 风格：英国（学术）/ 香港（职业）/ 新加坡（混合）
@@ -129,6 +134,8 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/cv-review` | CV revision pass: skills-evidence backing, experience-hire weight, leadership/client balance |
 | `/interview-prep` | Jargon-vs-plain-English calibration, presence for S&T/BD/founder pitches, story mechanics |
 | `/leadership-stories` | Mine evidence map for leadership stories; place on the 5-tier influence ladder; upgrade to legacy/leverage narratives |
+| `/grey-market` | 灰产认知对冲：灰产哥的非共识判断、钻空子思维、空子生命周期管理、索罗斯反身性、庙堂与江湖 |
+| `/quant-weekly` | Quant行业周报：Jane Street算力军备、Systematic Flow影响、HFT基础设施扩张、大宗交易电子化、指数与市场分化 |
 
 ## Founder track at a glance
 Hard-tech fundraising paths built in: **YC / Silicon Valley / California / Middle East sovereign capital
