@@ -50,6 +50,7 @@ description: >-
   本科生科研套磁邮件 (undergrad research cold email 本科生套磁 RA申请邮件 科研套磁 本科生联系教授 套磁邮件大纲 5-part structure contribution CV transcript 回复率80%),
   年轻人版本答案/全球化能力系统 (career version answer capability system 语言 专业技能 AI 互联网 全球化 跨市场 geographic arbitrage 能力系统 earn globally live locally 购买力 选择权),
   灰产认知对冲 (grey market cognition hedge VC语境 非共识判断 钻空子 投机者 cofake talk 模型掺水 号池 生命周期管理 索罗斯反身性 庙堂江湖 AI灰产),
+  硅谷国内两周信息差 (SV China info gap VC FOMO Neo Lab Jev Instinct 融资 泡沫 correction 应用层ARR 模型层ARR AMD World Lab positioning startup 机器人 新芯片 Pre-Train开源 Post Train TML Fireworks RL as service Qiao Lin RSI 研究员出路 OAI 机器人数据),
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
