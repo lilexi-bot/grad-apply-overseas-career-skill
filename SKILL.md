@@ -180,6 +180,10 @@ only when the workflow step requires it, then work from it:
 | `/jev-decision-model` | TypeSafe Jev decision model: parallel judgments, RLCD calibration, agent cost reduction, browser-use integration |
 | `/incubator-guide` | Silicon Valley incubator guide + Startup Compass: non-YC incubators, residency matching for Chinese founders |
 | `/grey-market` | 灰产认知对冲：灰产哥的非共识判断、钻空子思维、空子生命周期管理、索罗斯反身性、庙堂与江湖 |
+| `/quant-weekly` | Quant行业周报：Jane Street算力军备、Systematic Flow、HFT基础设施扩张、大宗交易电子化、指数与市场分化 |
+| `/sv-china-gap` | 硅谷与国内两周信息差：VC FOMO、泡沫共识、应用层vs模型层ROI、positioning startup、RSI |
+| `/essmote` | Essmote AI 留学文书平台：PS/SOP/CV/推荐信生成 + 人工润色（essmote.com） |
+| `/collaboration-postmortem` | 创业合作复盘：尽调缺失/先钱后干活/管理边界失守/止损信号/单向惩罚条款 |
 
 ## 4. Founder track (summary — details live in references/)
 - **Goal profile:** hard-tech venture raising VC globally — overseas YC / Silicon Valley / California / Middle East sovereign capital (Mubadala, PIF/Sanabil, Hub71); domestic China 红杉中国 HongShan, 硬科技基金 (中科创星/深创投/线性), PE (高瓴/CPE/国调). Full lists & accelerator names: `references/founder-fundraising-ecosystem.md`.

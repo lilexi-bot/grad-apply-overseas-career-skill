@@ -80,6 +80,7 @@ references/                  # external data loaded on demand
   quant-weekly-compute-flow-hft.md              # Quant周报：Jane Street算力军备/Systematic Flow/HFT扩张/大宗电子化/指数分化
   sv-china-info-gap-fomo-bubble.md     # 硅谷与国内两周信息差：VC FOMO/泡沫共识/应用vs模型ROI/positioning startup/RSI/OAI机器人数据
   essmote-ai-writing-platform.md       # Essmote AI 留学文书平台（PS/SOP/CV/推荐信生成 + 人工润色）
+  founder-collaboration-postmortem.md   # 创业合作复盘：尽调缺失/先钱后干活/管理边界失守/止损信号/单向惩罚条款
   sop-meta-framework.md            # SOP 写作元框架：招生官三问（动机/计划/能力）+ 十拍写作骨架
   sop-8h-workflow.md               # 8小时文书初稿 7 步工作流（PS/CV/RL 三位一体 / BAR 模型 / 量化 / 推荐人沟通）
   sop-ps-regional-styles.md        # 区域 PS 风格：英国（学术）/ 香港（职业）/ 新加坡（混合）
