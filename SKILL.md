@@ -114,6 +114,7 @@ only when the workflow step requires it, then work from it:
 | Silicon Valley incubator guide + Startup Compass — non-YC incubators, residency matching for Chinese founders | `references/silicon-valley-incubator-guide.md` |
 | Young people's "version answer" — language + skill + AI + internet + globalization = capability system, geographic arbitrage | `references/career-global-capability-system.md` |
 | Grey market cognition hedge — 灰产哥认知对冲: non-consensus judgment, exploit lifecycle, Soros reflexivity, VC vs 江湖 | `references/grey-market-cognition-hedge.md` |
+| Essmote AI — AI writing platform for study abroad (PS/SOP/CV/cover letter + human polishing) | `references/essmote-ai-writing-platform.md` |
 | CV revision / experience-hire CV review | `templates/cv-template.md` §CV revision rules |
 | Interview prep / storytelling / communication register | `references/interview-communication-notes.md` |
 | SOP/MBA leadership paragraphs & impact-story mining | `references/leadership-ladder.md` |

@@ -78,6 +78,8 @@ references/                  # external data loaded on demand
   career-global-capability-system.md            # 年轻人版本答案：语言+专业技能+AI+互联网+全球化=能力系统
   grey-market-cognition-hedge.md                # 灰产认知对冲：非共识判断/钻空子思维/索罗斯反身性/庙堂与江湖
   quant-weekly-compute-flow-hft.md              # Quant周报：Jane Street算力军备/Systematic Flow/HFT扩张/大宗电子化/指数分化
+  sv-china-info-gap-fomo-bubble.md     # 硅谷与国内两周信息差：VC FOMO/泡沫共识/应用vs模型ROI/positioning startup/RSI/OAI机器人数据
+  essmote-ai-writing-platform.md       # Essmote AI 留学文书平台（PS/SOP/CV/推荐信生成 + 人工润色）
   sop-meta-framework.md            # SOP 写作元框架：招生官三问（动机/计划/能力）+ 十拍写作骨架
   sop-8h-workflow.md               # 8小时文书初稿 7 步工作流（PS/CV/RL 三位一体 / BAR 模型 / 量化 / 推荐人沟通）
   sop-ps-regional-styles.md        # 区域 PS 风格：英国（学术）/ 香港（职业）/ 新加坡（混合）
@@ -136,6 +138,8 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/leadership-stories` | Mine evidence map for leadership stories; place on the 5-tier influence ladder; upgrade to legacy/leverage narratives |
 | `/grey-market` | 灰产认知对冲：灰产哥的非共识判断、钻空子思维、空子生命周期管理、索罗斯反身性、庙堂与江湖 |
 | `/quant-weekly` | Quant行业周报：Jane Street算力军备、Systematic Flow影响、HFT基础设施扩张、大宗交易电子化、指数与市场分化 |
+| `/sv-china-gap` | 硅谷与国内两周信息差：VC FOMO、泡沫共识、应用层vs模型层ROI、positioning startup、RSI、OAI机器人数据 |
+| `/essmote` | Essmote AI 留学文书平台：PS/SOP/CV/推荐信生成 + 人工润色（essmote.com） |
 
 ## Founder track at a glance
 Hard-tech fundraising paths built in: **YC / Silicon Valley / California / Middle East sovereign capital
