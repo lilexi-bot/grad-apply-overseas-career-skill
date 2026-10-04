@@ -51,11 +51,14 @@ description: >-
   年轻人版本答案/全球化能力系统 (career version answer capability system 语言 专业技能 AI 互联网 全球化 跨市场 geographic arbitrage 能力系统 earn globally live locally 购买力 选择权),
   灰产认知对冲 (grey market cognition hedge VC语境 非共识判断 钻空子 投机者 cofake talk 模型掺水 号池 生命周期管理 索罗斯反身性 庙堂江湖 AI灰产),
   硅谷国内两周信息差 (SV China info gap VC FOMO Neo Lab Jev Instinct 融资 泡沫 correction 应用层ARR 模型层ARR AMD World Lab positioning startup 机器人 新芯片 Pre-Train开源 Post Train TML Fireworks RL as service Qiao Lin RSI 研究员出路 OAI 机器人数据),
+  essmote AI文书 AI简历 PS生成 SOP生成 留学文书工具 文书润色 人工精修 essmote,
+  创业合作复盘 (founder collaboration postmortem 尽调缺失 资金断供 代招用工 先钱后干活 共同办公 管理边界 止损信号 单向惩罚条款 创业踩坑 合作方违约),
+  免费网络安全自学 (awesome cyber security university red team blue team TryHackMe pentesting 渗透测试 红队 蓝队 CTF OWASP 逆向 取证),
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.13.14
-last_updated: 2026-09-29
+version: 2.13.17
+last_updated: 2026-10-05
 ---
 
 # Grad Apply & Overseas Career — Master Skill (v2.13.14)
