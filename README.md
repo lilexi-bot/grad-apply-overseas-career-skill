@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.17 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.18 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -81,6 +81,9 @@ references/                  # external data loaded on demand
   sv-china-info-gap-fomo-bubble.md     # 硅谷与国内两周信息差：VC FOMO/泡沫共识/应用vs模型ROI/positioning startup/RSI/OAI机器人数据
   essmote-ai-writing-platform.md       # Essmote AI 留学文书平台（PS/SOP/CV/推荐信生成 + 人工润色）
   founder-collaboration-postmortem.md   # 创业合作复盘：尽调缺失/先钱后干活/管理边界失守/止损信号/单向惩罚条款
+  awesome-cyber-security-university.md # 免费网络安全自学课程体系：Red Team/Blue Team/CTF/OWASP/逆向/取证（TryHackMe）
+  immigration-visa-resource-collection.md # 移民/签证/海外工作开源资源合集：awesome-immigration/H1B数据/高技能求职/Five Flags/DiasporaAI
+  perm-suspension-tech-impact.md       # PERM暂停与科技行业留美影响：8家公司暂停、量化投行转型、加拿大香港替代
   sop-meta-framework.md            # SOP 写作元框架：招生官三问（动机/计划/能力）+ 十拍写作骨架
   sop-8h-workflow.md               # 8小时文书初稿 7 步工作流（PS/CV/RL 三位一体 / BAR 模型 / 量化 / 推荐人沟通）
   sop-ps-regional-styles.md        # 区域 PS 风格：英国（学术）/ 香港（职业）/ 新加坡（混合）
@@ -141,6 +144,9 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/quant-weekly` | Quant行业周报：Jane Street算力军备、Systematic Flow影响、HFT基础设施扩张、大宗交易电子化、指数与市场分化 |
 | `/sv-china-gap` | 硅谷与国内两周信息差：VC FOMO、泡沫共识、应用层vs模型层ROI、positioning startup、RSI、OAI机器人数据 |
 | `/essmote` | Essmote AI 留学文书平台：PS/SOP/CV/推荐信生成 + 人工润色（essmote.com） |
+| `/collaboration-postmortem` | 创业合作复盘：尽调缺失/先钱后干活/管理边界失守/止损信号/单向惩罚条款 |
+| `/immigration-resources` | 移民/签证/海外工作开源资源合集：awesome-immigration/H1B数据/高技能求职/Five Flags/DiasporaAI |
+| `/perm-suspension` | PERM暂停与科技行业留美影响：8家公司暂停、量化投行转型、加拿大香港替代 |
 
 ## Founder track at a glance
 Hard-tech fundraising paths built in: **YC / Silicon Valley / California / Middle East sovereign capital

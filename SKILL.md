@@ -54,14 +54,16 @@ description: >-
   essmote AI文书 AI简历 PS生成 SOP生成 留学文书工具 文书润色 人工精修 essmote,
   创业合作复盘 (founder collaboration postmortem 尽调缺失 资金断供 代招用工 先钱后干活 共同办公 管理边界 止损信号 单向惩罚条款 创业踩坑 合作方违约),
   免费网络安全自学 (awesome cyber security university red team blue team TryHackMe pentesting 渗透测试 红队 蓝队 CTF OWASP 逆向 取证),
+  移民签证海外工作资源 (immigration visa H1B O1 awesome-immigration highly-skilled-job-offers five-flags diaspora 移民 签证 长期签证 海外工作 高技能 跨国生活),
+  PERM暂停 科技大厂绿卡 (PERM suspension Microsoft Adobe Cognizant Infosys TCS Wipro HCL Capgemini 裁员 H-1B 绿卡 科技行业 SDE 留美 量化 投行 加拿大 香港 签证政策),
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.13.17
-last_updated: 2026-10-05
+version: 2.13.19
+last_updated: 2026-10-06
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.13.14)
+# Grad Apply & Overseas Career — Master Skill (v2.13.19)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -118,6 +120,7 @@ only when the workflow step requires it, then work from it:
 | Young people's "version answer" — language + skill + AI + internet + globalization = capability system, geographic arbitrage | `references/career-global-capability-system.md` |
 | Grey market cognition hedge — 灰产哥认知对冲: non-consensus judgment, exploit lifecycle, Soros reflexivity, VC vs 江湖 | `references/grey-market-cognition-hedge.md` |
 | Essmote AI — AI writing platform for study abroad (PS/SOP/CV/cover letter + human polishing) | `references/essmote-ai-writing-platform.md` |
+| PERM suspension & tech industry impact — 8 companies PERM halted, H-1B/green card conflict, quant/investment banking pivot, Canada/HK alternatives | `references/perm-suspension-tech-impact.md` |
 | CV revision / experience-hire CV review | `templates/cv-template.md` §CV revision rules |
 | Interview prep / storytelling / communication register | `references/interview-communication-notes.md` |
 | SOP/MBA leadership paragraphs & impact-story mining | `references/leadership-ladder.md` |
@@ -187,6 +190,9 @@ only when the workflow step requires it, then work from it:
 | `/sv-china-gap` | 硅谷与国内两周信息差：VC FOMO、泡沫共识、应用层vs模型层ROI、positioning startup、RSI |
 | `/essmote` | Essmote AI 留学文书平台：PS/SOP/CV/推荐信生成 + 人工润色（essmote.com） |
 | `/collaboration-postmortem` | 创业合作复盘：尽调缺失/先钱后干活/管理边界失守/止损信号/单向惩罚条款 |
+| `/cyber-security-university` | 免费网络安全自学课程体系：Red Team/Blue Team/CTF/OWASP/逆向/取证（TryHackMe） |
+| `/immigration-resources` | 移民/签证/海外工作开源资源合集：awesome-immigration/H1B数据/高技能求职/Five Flags/DiasporaAI |
+| `/perm-suspension` | PERM暂停与科技行业留美影响：8家公司暂停、量化投行转型、加拿大香港替代 |
 
 ## 4. Founder track (summary — details live in references/)
 - **Goal profile:** hard-tech venture raising VC globally — overseas YC / Silicon Valley / California / Middle East sovereign capital (Mubadala, PIF/Sanabil, Hub71); domestic China 红杉中国 HongShan, 硬科技基金 (中科创星/深创投/线性), PE (高瓴/CPE/国调). Full lists & accelerator names: `references/founder-fundraising-ecosystem.md`.
