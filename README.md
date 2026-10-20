@@ -86,6 +86,7 @@ references/                  # external data loaded on demand
   perm-suspension-tech-impact.md       # PERM暂停与科技行业留美影响：8家公司暂停、量化投行转型、加拿大香港替代
   return-vs-stay-decision-framework.md # 回国or留美10条决策框架：储蓄速度/家庭/身份/性格/躺平/子女教育/人生目标
   dinq-ai-job-map.md                  # 中国AI岗位地图：279家公司/12895+岗位、按城市区域分类（jobs.dinq.me）
+  industry-phd-programs-guide.md      # 海外企业联培博士指南：CIFRE/MSCA/Industrial PhD、6国路径、12家目标企业
   sop-meta-framework.md            # SOP 写作元框架：招生官三问（动机/计划/能力）+ 十拍写作骨架
   sop-8h-workflow.md               # 8小时文书初稿 7 步工作流（PS/CV/RL 三位一体 / BAR 模型 / 量化 / 推荐人沟通）
   sop-ps-regional-styles.md        # 区域 PS 风格：英国（学术）/ 香港（职业）/ 新加坡（混合）

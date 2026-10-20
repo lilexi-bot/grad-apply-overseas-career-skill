@@ -64,7 +64,7 @@ version: 2.13.20
 last_updated: 2026-10-06
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.13.21)
+# Grad Apply & Overseas Career — Master Skill (v2.13.22)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -123,6 +123,8 @@ only when the workflow step requires it, then work from it:
 | Essmote AI — AI writing platform for study abroad (PS/SOP/CV/cover letter + human polishing) | `references/essmote-ai-writing-platform.md` |
 | PERM suspension & tech industry impact — 8 companies PERM halted, H-1B/green card conflict, quant/investment banking pivot, Canada/HK alternatives | `references/perm-suspension-tech-impact.md` |
 | Return vs stay decision framework — 回国or留美10条决策框架：储蓄速度/家庭/身份/性格/躺平/子女教育/人生目标 | `references/return-vs-stay-decision-framework.md` |
+| DINQ AI job map — 中国AI岗位地图：279家公司/12895+岗位、按城市区域分类、大模型/芯片/机器人/应用全景 | `references/dinq-ai-job-map.md` |
+| Industry PhD programs guide — 海外企业联培博士：CIFRE/MSCA/Industrial PhD、6国路径、12家目标企业、申请平台 | `references/industry-phd-programs-guide.md` |
 | CV revision / experience-hire CV review | `templates/cv-template.md` §CV revision rules |
 | Interview prep / storytelling / communication register | `references/interview-communication-notes.md` |
 | SOP/MBA leadership paragraphs & impact-story mining | `references/leadership-ladder.md` |
@@ -196,6 +198,8 @@ only when the workflow step requires it, then work from it:
 | `/immigration-resources` | 移民/签证/海外工作开源资源合集：awesome-immigration/H1B数据/高技能求职/Five Flags/DiasporaAI |
 | `/perm-suspension` | PERM暂停与科技行业留美影响：8家公司暂停、量化投行转型、加拿大香港替代 |
 | `/return-vs-stay` | 回国or留美10条决策框架：储蓄速度/家庭/身份/性格/躺平/子女教育/人生目标 |
+| `/ai-job-map` | 中国AI岗位地图：279家公司/12895+岗位、按城市区域分类（jobs.dinq.me） |
+| `/industry-phd` | 海外企业联培博士指南：CIFRE/MSCA/Industrial PhD、6国路径、申请平台 |
 
 ## 4. Founder track (summary — details live in references/)
 - **Goal profile:** hard-tech venture raising VC globally — overseas YC / Silicon Valley / California / Middle East sovereign capital (Mubadala, PIF/Sanabil, Hub71); domestic China 红杉中国 HongShan, 硬科技基金 (中科创星/深创投/线性), PE (高瓴/CPE/国调). Full lists & accelerator names: `references/founder-fundraising-ecosystem.md`.
