@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.21 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.23 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -87,6 +87,7 @@ references/                  # external data loaded on demand
   return-vs-stay-decision-framework.md # 回国or留美10条决策框架：储蓄速度/家庭/身份/性格/躺平/子女教育/人生目标
   dinq-ai-job-map.md                  # 中国AI岗位地图：279家公司/12895+岗位、按城市区域分类（jobs.dinq.me）
   industry-phd-programs-guide.md      # 海外企业联培博士指南：CIFRE/MSCA/Industrial PhD、6国路径、12家目标企业
+  student-profiles-research-method.md # 官网学生分享(Meet the Class)研究法：问题框架反推录取偏好、why program逻辑链、diversity贡献
   sop-meta-framework.md            # SOP 写作元框架：招生官三问（动机/计划/能力）+ 十拍写作骨架
   sop-8h-workflow.md               # 8小时文书初稿 7 步工作流（PS/CV/RL 三位一体 / BAR 模型 / 量化 / 推荐人沟通）
   sop-ps-regional-styles.md        # 区域 PS 风格：英国（学术）/ 香港（职业）/ 新加坡（混合）
@@ -150,6 +151,10 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/collaboration-postmortem` | 创业合作复盘：尽调缺失/先钱后干活/管理边界失守/止损信号/单向惩罚条款 |
 | `/immigration-resources` | 移民/签证/海外工作开源资源合集：awesome-immigration/H1B数据/高技能求职/Five Flags/DiasporaAI |
 | `/perm-suspension` | PERM暂停与科技行业留美影响：8家公司暂停、量化投行转型、加拿大香港替代 |
+| `/return-vs-stay` | 回国or留美10条决策框架：储蓄速度/家庭/身份/性格/躺平/子女教育/人生目标 |
+| `/ai-job-map` | 中国AI岗位地图：279家公司/12895+岗位、按城市区域分类（jobs.dinq.me） |
+| `/industry-phd` | 海外企业联培博士指南：CIFRE/MSCA/Industrial PhD、6国路径、申请平台 |
+| `/student-profiles` | 官网学生分享研究法（MIT MBAn Meet the Class）：问题框架反推录取偏好、why program逻辑链、diversity贡献、简历文书自检 |
 
 ## Founder track at a glance
 Hard-tech fundraising paths built in: **YC / Silicon Valley / California / Middle East sovereign capital

@@ -60,11 +60,11 @@ description: >-
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.13.20
-last_updated: 2026-10-06
+version: 2.13.23
+last_updated: 2026-10-21
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.13.22)
+# Grad Apply & Overseas Career — Master Skill (v2.13.23)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -125,6 +125,7 @@ only when the workflow step requires it, then work from it:
 | Return vs stay decision framework — 回国or留美10条决策框架：储蓄速度/家庭/身份/性格/躺平/子女教育/人生目标 | `references/return-vs-stay-decision-framework.md` |
 | DINQ AI job map — 中国AI岗位地图：279家公司/12895+岗位、按城市区域分类、大模型/芯片/机器人/应用全景 | `references/dinq-ai-job-map.md` |
 | Industry PhD programs guide — 海外企业联培博士：CIFRE/MSCA/Industrial PhD、6国路径、12家目标企业、申请平台 | `references/industry-phd-programs-guide.md` |
+| Student profiles research method — 官网学生分享（Meet the Class）研究法：问题框架反推录取偏好；已有基础→能力缺口→项目资源；课程问题驱动；diversity增量贡献；简历/文书自检 | `references/student-profiles-research-method.md` |
 | CV revision / experience-hire CV review | `templates/cv-template.md` §CV revision rules |
 | Interview prep / storytelling / communication register | `references/interview-communication-notes.md` |
 | SOP/MBA leadership paragraphs & impact-story mining | `references/leadership-ladder.md` |
@@ -200,6 +201,7 @@ only when the workflow step requires it, then work from it:
 | `/return-vs-stay` | 回国or留美10条决策框架：储蓄速度/家庭/身份/性格/躺平/子女教育/人生目标 |
 | `/ai-job-map` | 中国AI岗位地图：279家公司/12895+岗位、按城市区域分类（jobs.dinq.me） |
 | `/industry-phd` | 海外企业联培博士指南：CIFRE/MSCA/Industrial PhD、6国路径、申请平台 |
+| `/student-profiles` | 官网学生分享研究法（MIT MBAn Meet the Class）：问题框架反推录取偏好、why program逻辑链、diversity贡献、简历文书自检 |
 
 ## 4. Founder track (summary — details live in references/)
 - **Goal profile:** hard-tech venture raising VC globally — overseas YC / Silicon Valley / California / Middle East sovereign capital (Mubadala, PIF/Sanabil, Hub71); domestic China 红杉中国 HongShan, 硬科技基金 (中科创星/深创投/线性), PE (高瓴/CPE/国调). Full lists & accelerator names: `references/founder-fundraising-ecosystem.md`.
