@@ -57,6 +57,8 @@ description: >-
   移民签证海外工作资源 (immigration visa H1B O1 awesome-immigration highly-skilled-job-offers five-flags diaspora 移民 签证 长期签证 海外工作 高技能 跨国生活),
   PERM暂停 科技大厂绿卡 (PERM suspension Microsoft Adobe Cognizant Infosys TCS Wipro HCL Capgemini 裁员 H-1B 绿卡 科技行业 SDE 留美 量化 投行 加拿大 香港 签证政策),
   回国留美决策 (return vs stay 回国 留美 去留 储蓄速度 H1B slave 身份 躺平 原生家庭 子女教育 事业批 岁月静好 面子 实地考察),
+  官网学生分享/Meet the Class研究法 (student profiles Meet the Class 学生故事 官网学生 项目研究 录取偏好 why program 已有基础 能力缺口 项目资源 diversity contribution 社区贡献 课程选择 next steps MBAn 商业分析 简历只罗列工具 文书只想获得),
+  LetsMigrate欧洲居留路线 (letsmigrate.org 欧洲移民 研究居留 欧盟蓝卡 EU Blue Card 数字游民签证 欧洲创业签证 黄金签证 投资居留 被动居留 海牙认证 apostille 中国材料准备 马耳他 葡萄牙 西班牙数字游民 德国蓝卡 欧洲Plan B),
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
@@ -64,7 +66,7 @@ version: 2.13.23
 last_updated: 2026-10-21
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.13.23)
+# Grad Apply & Overseas Career — Master Skill (v2.13.24)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -202,6 +204,7 @@ only when the workflow step requires it, then work from it:
 | `/ai-job-map` | 中国AI岗位地图：279家公司/12895+岗位、按城市区域分类（jobs.dinq.me） |
 | `/industry-phd` | 海外企业联培博士指南：CIFRE/MSCA/Industrial PhD、6国路径、申请平台 |
 | `/student-profiles` | 官网学生分享研究法（MIT MBAn Meet the Class）：问题框架反推录取偏好、why program逻辑链、diversity贡献、简历文书自检 |
+| `/letsmigrate` | LetsMigrate.org欧洲居留路线：蓝卡/数字游民/创业/投资5类路线93+项目、18国对比、中国签证材料准备清单 |
 
 ## 4. Founder track (summary — details live in references/)
 - **Goal profile:** hard-tech venture raising VC globally — overseas YC / Silicon Valley / California / Middle East sovereign capital (Mubadala, PIF/Sanabil, Hub71); domestic China 红杉中国 HongShan, 硬科技基金 (中科创星/深创投/线性), PE (高瓴/CPE/国调). Full lists & accelerator names: `references/founder-fundraising-ecosystem.md`.
