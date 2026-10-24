@@ -62,8 +62,8 @@ description: >-
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.13.23
-last_updated: 2026-10-21
+version: 2.13.24
+last_updated: 2026-10-25
 ---
 
 # Grad Apply & Overseas Career — Master Skill (v2.13.24)
@@ -128,6 +128,7 @@ only when the workflow step requires it, then work from it:
 | DINQ AI job map — 中国AI岗位地图：279家公司/12895+岗位、按城市区域分类、大模型/芯片/机器人/应用全景 | `references/dinq-ai-job-map.md` |
 | Industry PhD programs guide — 海外企业联培博士：CIFRE/MSCA/Industrial PhD、6国路径、12家目标企业、申请平台 | `references/industry-phd-programs-guide.md` |
 | Student profiles research method — 官网学生分享（Meet the Class）研究法：问题框架反推录取偏好；已有基础→能力缺口→项目资源；课程问题驱动；diversity增量贡献；简历/文书自检 | `references/student-profiles-research-method.md` |
+| LetsMigrate EU residence routes — 欧洲移民居留路线数据库：5类路线93+项目（数字游民15/蓝卡50/创业16/投资10/边缘2）、18国hub、中国申请者材料准备（apostille/翻译/无犯罪/姓名一致）、官方来源+核实日期 | `references/letsmigrate-eu-residence-routes.md` |
 | CV revision / experience-hire CV review | `templates/cv-template.md` §CV revision rules |
 | Interview prep / storytelling / communication register | `references/interview-communication-notes.md` |
 | SOP/MBA leadership paragraphs & impact-story mining | `references/leadership-ladder.md` |
