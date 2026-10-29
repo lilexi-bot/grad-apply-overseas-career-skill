@@ -64,11 +64,11 @@ description: >-
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.13.26
-last_updated: 2026-10-29
+version: 2.13.27
+last_updated: 2026-10-30
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.13.26)
+# Grad Apply & Overseas Career — Master Skill (v2.13.27)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -132,7 +132,7 @@ only when the workflow step requires it, then work from it:
 | Student profiles research method — 官网学生分享（Meet the Class）研究法：问题框架反推录取偏好；已有基础→能力缺口→项目资源；课程问题驱动；diversity增量贡献；简历/文书自检 | `references/student-profiles-research-method.md` |
 | LetsMigrate EU residence routes — 欧洲移民居留路线数据库：5类路线93+项目（数字游民15/蓝卡50/创业16/投资10/边缘2）、18国hub、中国申请者材料准备（apostille/翻译/无犯罪/姓名一致）、官方来源+核实日期 | `references/letsmigrate-eu-residence-routes.md` |
 | US PhD fee waiver guide — 美国PhD申请费减免：四档学校（勾选即免/材料申请/早鸟宣讲会/不免）、邮件模板、15申12中的实战命中率、申请季预算 | `references/us-phd-fee-waiver-guide.md` |
-| Study-abroad ROI & internship playbook — 留学预算回报率三维测算（父母攒钱月数/回本月数/代际公平比值）、12国对照、留当地杠杆、避坑；海外实习时间线、CPT/OPT/PGWP/co-op合规、替代路径、CSC国际组织实习 | `references/study-abroad-roi-and-internship-playbook.md` |
+| Study-abroad ROI & internship playbook — 留学预算与回报率大表：ROI四逻辑+四反直觉、10目的地总表、9专业组回本排序、CS/AI十国横比、五类预算画像；海外实习全攻略：CPT/Co-op/OPT/PGWP/485/Graduate Route/IANG制度差异、秋招时间线、H-1B三次抽签57%落空、4案例PR路径、Plan B | `references/study-abroad-roi-and-internship-playbook.md` |
 | CV revision / experience-hire CV review | `templates/cv-template.md` §CV revision rules |
 | Interview prep / storytelling / communication register | `references/interview-communication-notes.md` |
 | SOP/MBA leadership paragraphs & impact-story mining | `references/leadership-ladder.md` |
