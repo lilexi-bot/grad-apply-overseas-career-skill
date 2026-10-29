@@ -60,14 +60,15 @@ description: >-
   官网学生分享/Meet the Class研究法 (student profiles Meet the Class 学生故事 官网学生 项目研究 录取偏好 why program 已有基础 能力缺口 项目资源 diversity contribution 社区贡献 课程选择 next steps MBAn 商业分析 简历只罗列工具 文书只想获得),
   LetsMigrate欧洲居留路线 (letsmigrate.org 欧洲移民 研究居留 欧盟蓝卡 EU Blue Card 数字游民签证 欧洲创业签证 黄金签证 投资居留 被动居留 海牙认证 apostille 中国材料准备 马耳他 葡萄牙 西班牙数字游民 德国蓝卡 欧洲Plan B),
   美国PhD申请费减免 (fee waiver application fee waiver 免申请费 申请费减免 PhD申请费 申请费太贵 waiver邮件模板 经济困难说明 银行流水 早鸟免费 info session宣讲会免申请费 哈佛普林斯顿勾选免 耶鲁哥大waiver 红州公立 UT Austin 威斯康星),
+  留学预算与回报率/海外实习全攻略 (study abroad ROI 留学预算 回报率 回本周期 留学值不值 性价比 父母攒钱月数 回本月数 代际公平 学费对比 留学费用一览 海外实习 实习全攻略 CPT OPT co-op PGWP spring week 实习时间线 国际组织实习 CSC实习),
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.13.25
-last_updated: 2026-10-28
+version: 2.13.26
+last_updated: 2026-10-29
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.13.25)
+# Grad Apply & Overseas Career — Master Skill (v2.13.26)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -131,6 +132,7 @@ only when the workflow step requires it, then work from it:
 | Student profiles research method — 官网学生分享（Meet the Class）研究法：问题框架反推录取偏好；已有基础→能力缺口→项目资源；课程问题驱动；diversity增量贡献；简历/文书自检 | `references/student-profiles-research-method.md` |
 | LetsMigrate EU residence routes — 欧洲移民居留路线数据库：5类路线93+项目（数字游民15/蓝卡50/创业16/投资10/边缘2）、18国hub、中国申请者材料准备（apostille/翻译/无犯罪/姓名一致）、官方来源+核实日期 | `references/letsmigrate-eu-residence-routes.md` |
 | US PhD fee waiver guide — 美国PhD申请费减免：四档学校（勾选即免/材料申请/早鸟宣讲会/不免）、邮件模板、15申12中的实战命中率、申请季预算 | `references/us-phd-fee-waiver-guide.md` |
+| Study-abroad ROI & internship playbook — 留学预算回报率三维测算（父母攒钱月数/回本月数/代际公平比值）、12国对照、留当地杠杆、避坑；海外实习时间线、CPT/OPT/PGWP/co-op合规、替代路径、CSC国际组织实习 | `references/study-abroad-roi-and-internship-playbook.md` |
 | CV revision / experience-hire CV review | `templates/cv-template.md` §CV revision rules |
 | Interview prep / storytelling / communication register | `references/interview-communication-notes.md` |
 | SOP/MBA leadership paragraphs & impact-story mining | `references/leadership-ladder.md` |
@@ -209,6 +211,7 @@ only when the workflow step requires it, then work from it:
 | `/student-profiles` | 官网学生分享研究法（MIT MBAn Meet the Class）：问题框架反推录取偏好、why program逻辑链、diversity贡献、简历文书自检 |
 | `/letsmigrate` | LetsMigrate.org欧洲居留路线：蓝卡/数字游民/创业/投资5类路线93+项目、18国对比、中国签证材料准备清单 |
 | `/fee-waiver` | 美国PhD申请费减免：四档学校机制、waiver邮件模板、15申12中命中率、申请季费用预算 |
+| `/study-roi` | 留学预算与回报率测算 + 海外实习全攻略：三维指标（父母攒钱月数/回本月数/代际公平）、12国对照、留当地杠杆、实习时间线与合规 |
 
 ## 4. Founder track (summary — details live in references/)
 - **Goal profile:** hard-tech venture raising VC globally — overseas YC / Silicon Valley / California / Middle East sovereign capital (Mubadala, PIF/Sanabil, Hub71); domestic China 红杉中国 HongShan, 硬科技基金 (中科创星/深创投/线性), PE (高瓴/CPE/国调). Full lists & accelerator names: `references/founder-fundraising-ecosystem.md`.
