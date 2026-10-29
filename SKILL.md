@@ -211,7 +211,7 @@ only when the workflow step requires it, then work from it:
 | `/student-profiles` | 官网学生分享研究法（MIT MBAn Meet the Class）：问题框架反推录取偏好、why program逻辑链、diversity贡献、简历文书自检 |
 | `/letsmigrate` | LetsMigrate.org欧洲居留路线：蓝卡/数字游民/创业/投资5类路线93+项目、18国对比、中国签证材料准备清单 |
 | `/fee-waiver` | 美国PhD申请费减免：四档学校机制、waiver邮件模板、15申12中命中率、申请季费用预算 |
-| `/study-roi` | 留学预算与回报率测算 + 海外实习全攻略：三维指标（父母攒钱月数/回本月数/代际公平）、12国对照、留当地杠杆、实习时间线与合规 |
+| `/study-roi` | 留学预算与回报率大表 + 海外实习全攻略：ROI四逻辑、10目的地/9专业组回本表、五类预算画像、工签与PR路径、秋招时间线 |
 
 ## 4. Founder track (summary — details live in references/)
 - **Goal profile:** hard-tech venture raising VC globally — overseas YC / Silicon Valley / California / Middle East sovereign capital (Mubadala, PIF/Sanabil, Hub71); domestic China 红杉中国 HongShan, 硬科技基金 (中科创星/深创投/线性), PE (高瓴/CPE/国调). Full lists & accelerator names: `references/founder-fundraising-ecosystem.md`.
