@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.27 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.28 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -91,6 +91,7 @@ references/                  # external data loaded on demand
   letsmigrate-eu-residence-routes.md  # LetsMigrate.org欧洲居留路线：蓝卡/数字游民/创业/投资93+项目、18国、中国材料准备(apostille)
   us-phd-fee-waiver-guide.md          # 美国PhD申请费fee waiver：四档学校机制、邮件模板、15申12中、申请季预算
   study-abroad-roi-and-internship-playbook.md  # 留学预算与回报率大表（10目的地/9专业组/五类画像）；海外实习全攻略（CPT/OPT/PGWP/485/IANG+PR路径）
+  us-ai-masters-30-programs.md         # 全美Top50 AI硕士30项目：四类分型、首届项目风险、CMU MSAII/MSML差异
   sop-meta-framework.md            # SOP 写作元框架：招生官三问（动机/计划/能力）+ 十拍写作骨架
   sop-8h-workflow.md               # 8小时文书初稿 7 步工作流（PS/CV/RL 三位一体 / BAR 模型 / 量化 / 推荐人沟通）
   sop-ps-regional-styles.md        # 区域 PS 风格：英国（学术）/ 香港（职业）/ 新加坡（混合）
@@ -161,6 +162,7 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/letsmigrate` | LetsMigrate.org欧洲居留路线：蓝卡/数字游民/创业/投资5类路线93+项目、18国对比、中国签证材料准备清单 |
 | `/fee-waiver` | 美国PhD申请费减免：四档学校机制、waiver邮件模板、15申12中命中率、申请季费用预算 |
 | `/study-roi` | 留学预算与回报率大表 + 海外实习全攻略：ROI四逻辑、10目的地/9专业组回本表、五类预算画像、工签与PR路径、秋招时间线 |
+| `/ai-masters` | 全美AI硕士30项目清单：四类分型、独立AI学位vs CS-AI方向、首届项目风险、同校不同学院门槛 |
 
 ## Founder track at a glance
 Hard-tech fundraising paths built in: **YC / Silicon Valley / California / Middle East sovereign capital
