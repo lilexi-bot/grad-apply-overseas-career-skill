@@ -63,14 +63,15 @@ description: >-
   留学预算与回报率/海外实习全攻略 (study abroad ROI 留学预算 回报率 回本周期 留学值不值 性价比 父母攒钱月数 回本月数 代际公平 学费对比 留学费用一览 海外实习 实习全攻略 CPT OPT co-op PGWP spring week 实习时间线 国际组织实习 CSC实习),
   美国AI硕士30项目/选校清单 (AI硕士 人工智能硕士 MSAI MSML MSAII AI项目清单 美国AI项目 AI选校 计算机硕士AI方向 独立AI学位 首届项目 Co-op实习项目 机器人硕士 应用数据科学),
   AI生意三类分型/AI native判断 (AI生意 AI业务分类 AI创业方向 AI native 硬塞AI chatbot套壳 AI产品定位 大厂all in ai 负一屏 行业AI AI赛道判断 技术革命周期 killer app),
+  半小时出SOP/文书提示词 (SOP Statement of Purpose 目的陈述 个人陈述 PS 文书 半小时写SOP 文书提示词 提示词模板 迁移文书 改文书 GPT味 AI味 要点对齐 research interest why program),
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.13.29
-last_updated: 2026-11-03
+version: 2.13.30
+last_updated: 2026-11-04
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.13.29)
+# Grad Apply & Overseas Career — Master Skill (v2.13.30)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -137,6 +138,7 @@ only when the workflow step requires it, then work from it:
 | Study-abroad ROI & internship playbook — 留学预算与回报率大表：ROI四逻辑+四反直觉、10目的地总表、9专业组回本排序、CS/AI十国横比、五类预算画像；海外实习全攻略：CPT/Co-op/OPT/PGWP/485/Graduate Route/IANG制度差异、秋招时间线、H-1B三次抽签57%落空、4案例PR路径、Plan B | `references/study-abroad-roi-and-internship-playbook.md` |
 | US AI master's 30-programme list — 全美Top50 AI硕士30项目全景：四类分型（独立AI学位/CS-AI方向/交叉商业化/邻接学位）、首届项目风险、同校不同学院门槛差异、CMU MSAII vs MSML 路径差异 | `references/us-ai-masters-30-programs.md` |
 | AI business three tiers — AI生意三类分型：硬塞AI/chatbot补位/AI native；识别信号、第二类天花板与护城河、第三类机会与陷阱、去AI反向检验法 | `references/ai-business-three-tiers.md` |
+| SOP in 30 minutes — 半小时出可提交SOP：四要素提示词（给材料/给迁移任务/给锚点/给顺序+闸门）、四步执行（提取要求→段落大纲→人对齐→成文去味）、GPT味七特征改写表、迁移文书禁忌 | `references/sop-30min-prompt-workflow.md` |
 | CV revision / experience-hire CV review | `templates/cv-template.md` §CV revision rules |
 | Interview prep / storytelling / communication register | `references/interview-communication-notes.md` |
 | SOP/MBA leadership paragraphs & impact-story mining | `references/leadership-ladder.md` |
@@ -218,6 +220,7 @@ only when the workflow step requires it, then work from it:
 | `/study-roi` | 留学预算与回报率大表 + 海外实习全攻略：ROI四逻辑、10目的地/9专业组回本表、五类预算画像、工签与PR路径、秋招时间线 |
 | `/ai-masters` | 全美AI硕士30项目清单：四类分型、独立AI学位vs CS-AI方向、首届项目风险、CMU MSAII/MSML差异、同校不同学院门槛 |
 | `/ai-business` | AI生意三类分型：硬塞AI vs chatbot补位 vs AI native、识别信号、第二类天花板、第三类机会与陷阱、去AI检验法 |
+| `/sop-prompt` | 半小时出可提交SOP：提示词模板、四步执行顺序（要求→大纲→对齐→成文）、去GPT味改写表、迁移文书避坑 |
 
 ## 4. Founder track (summary — details live in references/)
 - **Goal profile:** hard-tech venture raising VC globally — overseas YC / Silicon Valley / California / Middle East sovereign capital (Mubadala, PIF/Sanabil, Hub71); domestic China 红杉中国 HongShan, 硬科技基金 (中科创星/深创投/线性), PE (高瓴/CPE/国调). Full lists & accelerator names: `references/founder-fundraising-ecosystem.md`.
