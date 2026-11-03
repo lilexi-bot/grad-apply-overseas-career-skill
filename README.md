@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.30 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.31 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -94,6 +94,7 @@ references/                  # external data loaded on demand
   us-ai-masters-30-programs.md         # 全美Top50 AI硕士30项目：四类分型、首届项目风险、CMU MSAII/MSML差异
   ai-business-three-tiers.md           # AI生意三类分型：硬塞AI/chatbot补位/AI native、识别信号、去AI检验法
   sop-30min-prompt-workflow.md         # 半小时出可提交SOP：提示词模板、四步执行、去GPT味改写表
+  niche-overseas-routes-10.md          # 10条冷门出国路径 + 逐条官方口径核查与人群匹配
   sop-meta-framework.md            # SOP 写作元框架：招生官三问（动机/计划/能力）+ 十拍写作骨架
   sop-8h-workflow.md               # 8小时文书初稿 7 步工作流（PS/CV/RL 三位一体 / BAR 模型 / 量化 / 推荐人沟通）
   sop-ps-regional-styles.md        # 区域 PS 风格：英国（学术）/ 香港（职业）/ 新加坡（混合）
@@ -167,6 +168,7 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/ai-masters` | 全美AI硕士30项目清单：四类分型、独立AI学位vs CS-AI方向、首届项目风险、同校不同学院门槛 |
 | `/ai-business` | AI生意三类分型：硬塞AI vs chatbot补位 vs AI native、识别信号、第二类天花板、第三类机会与陷阱 |
 | `/sop-prompt` | 半小时出可提交SOP：提示词模板、四步执行顺序、去GPT味改写表、迁移文书避坑 |
+| `/niche-routes` | 10条冷门出国路径 + 官方核查：RCIP、芬兰PR新规、冰岛18个月、瑞典科研签3年 |
 
 ## Founder track at a glance
 Hard-tech fundraising paths built in: **YC / Silicon Valley / California / Middle East sovereign capital
