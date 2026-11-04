@@ -65,14 +65,15 @@ description: >-
   AI生意三类分型/AI native判断 (AI生意 AI业务分类 AI创业方向 AI native 硬塞AI chatbot套壳 AI产品定位 大厂all in ai 负一屏 行业AI AI赛道判断 技术革命周期 killer app),
   半小时出SOP/文书提示词 (SOP Statement of Purpose 目的陈述 个人陈述 PS 文书 半小时写SOP 文书提示词 提示词模板 迁移文书 改文书 GPT味 AI味 要点对齐 research interest why program),
   冷门出国路径10条/官方核查 (冷门出国路径 小众移民 出国发展路径 农村试点移民 RCIP 法人签 劳工配额 技术工移民 科研签 留学拿永居 跨国校招 访学签 红白红卡 冰岛留学 芬兰永居 瑞典博士后 挪威蓝领),
+  Top30一年制/一年半硕士总表 (1-1.5年硕士 一年制硕士 短学制硕士 Top30项目 2027 Fall 截止日期 deadline汇总 申请截止 分轮申请 Round 1 Early Action 滚动录取 rolling 项目时长 9个月硕士 12个月硕士 18个月硕士 GRE optional GRE不需要 春季入学 spring intake 暑期实习窗口 OPT窗口 选校时间线),
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.13.31
-last_updated: 2026-11-05
+version: 2.13.32
+last_updated: 2026-11-06
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.13.31)
+# Grad Apply & Overseas Career — Master Skill (v2.13.32)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -141,6 +142,7 @@ only when the workflow step requires it, then work from it:
 | AI business three tiers — AI生意三类分型：硬塞AI/chatbot补位/AI native；识别信号、第二类天花板与护城河、第三类机会与陷阱、去AI反向检验法 | `references/ai-business-three-tiers.md` |
 | SOP in 30 minutes — 半小时出可提交SOP：四要素提示词（给材料/给迁移任务/给锚点/给顺序+闸门）、四步执行（提取要求→段落大纲→人对齐→成文去味）、GPT味七特征改写表、迁移文书禁忌 | `references/sop-30min-prompt-workflow.md` |
 | Niche overseas routes (10) + official verification — 10条冷门出国路径原文 + 逐条官方口径核查（6条准确/2条需重要补充/2条需谨慎）、冷门≠容易的判断、按人群匹配表 | `references/niche-overseas-routes-10.md` |
+| Top30 US 1–1.5 year master's map (292 programmes / 31 schools) — 292条项目×2027 Fall截止日期总表（12月83条+1月71条=53%）、GRE三分格局（不需要123/可选113/要求53）、五种时长结构的真实差别（9/10/12/15-16/18-20个月与暑期实习窗口）、四种截止语义（单轮/Early/多轮/滚动）、置信度列用法、春季入学第二赛道 | `references/top30-us-1-1.5yr-programs-2027fall.md`（数据：`references/data/top30-us-masters-1-1.5yr-2027fall.xlsx`） |
 | CV revision / experience-hire CV review | `templates/cv-template.md` §CV revision rules |
 | Interview prep / storytelling / communication register | `references/interview-communication-notes.md` |
 | SOP/MBA leadership paragraphs & impact-story mining | `references/leadership-ladder.md` |
@@ -224,6 +226,7 @@ only when the workflow step requires it, then work from it:
 | `/ai-business` | AI生意三类分型：硬塞AI vs chatbot补位 vs AI native、识别信号、第二类天花板、第三类机会与陷阱、去AI检验法 |
 | `/sop-prompt` | 半小时出可提交SOP：提示词模板、四步执行顺序（要求→大纲→对齐→成文）、去GPT味改写表、迁移文书避坑 |
 | `/niche-routes` | 10条冷门出国路径 + 官方核查：RCIP/Finnish PR新规/Iceland 18个月/瑞典科研签3年，及按人群匹配 |
+| `/top30-short-programs` | Top30 一年/一年半硕士 292 项目 × 2027 Fall 截止日期：按 12/01、12/15、1月、2月+ 聚类排申请组合，GRE 与时长结构判断 |
 
 ## 4. Founder track (summary — details live in references/)
 - **Goal profile:** hard-tech venture raising VC globally — overseas YC / Silicon Valley / California / Middle East sovereign capital (Mubadala, PIF/Sanabil, Hub71); domestic China 红杉中国 HongShan, 硬科技基金 (中科创星/深创投/线性), PE (高瓴/CPE/国调). Full lists & accelerator names: `references/founder-fundraising-ecosystem.md`.
