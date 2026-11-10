@@ -66,17 +66,18 @@ description: >-
   半小时出SOP/文书提示词 (SOP Statement of Purpose 目的陈述 个人陈述 PS 文书 半小时写SOP 文书提示词 提示词模板 迁移文书 改文书 GPT味 AI味 要点对齐 research interest why program),
   冷门出国路径10条/官方核查 (冷门出国路径 小众移民 出国发展路径 农村试点移民 RCIP 法人签 劳工配额 技术工移民 科研签 留学拿永居 跨国校招 访学签 红白红卡 冰岛留学 芬兰永居 瑞典博士后 挪威蓝领),
   求职工具栈与移民检索工具 (求职工具 投简历工具 北美找工作 LinkedIn搜Posts We're hiring Handshake Glassdoor JobWizard Teal Huntr Levels.fyi 网申自动填写 投递进度管理 薪资查询 移民数据库 wheretoemigrate WhereNext 润手册 run-abroad Atlas 政策图谱 路径检索 条件筛选 政策影响分析 英国永居 Earned Settlement),
+  EURES欧盟官方招聘门户 (EURES 欧盟招聘 欧洲找工作 欧洲就业服务网 31国雇主 European Employment Services 欧盟官方招聘 EURES顾问 Adviser 欧洲职位搜索 欧盟蓝卡找工作 欧洲语言B1 学德语找工作 欧洲缺工职业 European Job Days 跨境通勤),
   RUN润手册与欧洲移居路线 (RUN 润 润手册 海外移居手册 BryceYuuu 欧洲移民 欧洲36国 数字游民签证 欧盟蓝卡 蓝卡门槛 创业自雇 被动收入居留 投资居留 黄金签证 毕业后找工作签证 找工作居留 永居年限对比 入籍年限 双重国籍 中国护照不适用 programmes.csv),
   冷门奖学金与资助渠道 (奖学金 冷门奖学金 留学资助 助教 TA 中文助教 宿舍助理 RA宿舍长 财团奖学金 民间财团 本庄财团 浦项财团 学会奖学金 美国混凝土学会 ACI 女性奖学金 AAUW 华人捐赠 王宽城基金会 信托基金 救急补助 企业奖学金 英伟达奖学金 谷歌奖学金 宝马项目 职校奖学金 政府奖学金 介护 奖学金叠加 提名制 scholarship fellowship assistantship),
   Top30一年制/一年半硕士总表 (1-1.5年硕士 一年制硕士 短学制硕士 Top30项目 2027 Fall 截止日期 deadline汇总 申请截止 分轮申请 Round 1 Early Action 滚动录取 rolling 项目时长 9个月硕士 12个月硕士 18个月硕士 GRE optional GRE不需要 春季入学 spring intake 暑期实习窗口 OPT窗口 选校时间线),
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.13.35
-last_updated: 2026-11-10
+version: 2.13.36
+last_updated: 2026-11-11
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.13.35)
+# Grad Apply & Overseas Career — Master Skill (v2.13.36)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -145,6 +146,7 @@ only when the workflow step requires it, then work from it:
 | AI business three tiers — AI生意三类分型：硬塞AI/chatbot补位/AI native；识别信号、第二类天花板与护城河、第三类机会与陷阱、去AI反向检验法 | `references/ai-business-three-tiers.md` |
 | SOP in 30 minutes — 半小时出可提交SOP：四要素提示词（给材料/给迁移任务/给锚点/给顺序+闸门）、四步执行（提取要求→段落大纲→人对齐→成文去味）、GPT味七特征改写表、迁移文书禁忌 | `references/sop-30min-prompt-workflow.md` |
 | Niche overseas routes (10) + official verification — 10条冷门出国路径原文 + 逐条官方口径核查（6条准确/2条需重要补充/2条需谨慎）、冷门≠容易的判断、按人群匹配表 | `references/niche-overseas-routes-10.md` |
+| EURES — 欧盟官方跨境招聘门户，31 国（EU27+冰岛/列支敦士登/挪威/瑞士）、约 300 万职位、1000+ 顾问、免费；核心判断=它是**匹配平台不是移民通道**（岗位靠 EURES，工作权靠各国许可）；B1 拆成四档场景（英语团队/B2 本地岗/C1 受监管/B1 缺工行业）；「任意一国语言」有杠杆差——德语 ROI 最高，荷兰语北欧语边际收益最小；TMS 补贴（语言课 €2,200 等）只对 EU/EEA 公民或欧盟长期居留者开放 | `references/eures-eu-job-mobility-portal.md` |
 | RUN manual (BryceYuuu/RUN) — 欧洲 36 国 / 110 条路线 / 13 全球目的地 / 380+ 官方链接的中文开源手册；本文件给结构化导读 + 可靠边界判定：数据血缘（99 条来自 LetsMigrate + 11 条补充，故是二手聚合）、2025–2026 政策变化 17 条（5 关闭 / 4 收紧，先读关闭再读开放）、中国大陆护照直接不可用的 5 条路线、门槛三榜、英国 Earned Settlement 档位表（£125,141/£50,271/£12,571 三档 + 3 年 NI + B2）及「十年长居关闭」属已宣布待写入的时限说明 | `references/run-manual-europe-36-countries.md` |
 | Niche scholarships & funding channels (9 + 3 + 1) — 按获取逻辑重排为四类（劳动换资助 TA/宿管/介护 · 身份换资助 女性/华人/国别 · 专业换资助 学会/财团 · 稀缺性换资助 职校/冷门国别）；含提名制与叠加限制两大隐形杀手、逐条官方核查（本庄只给生活费不含学费、谷歌$85k仅限北美而东亚$10k、NVIDIA需提名+暑期实习、AAUW四条硬门槛），及 8 条可执行清单 | `references/niche-scholarships-12-channels.md` |
 | Job search stack (5 tools by stage) + immigration path-finding tools (5 layers) — 五环节各一工具（LinkedIn Posts 搜"We're hiring"/Handshake visa字段/Glassdoor近半年面经/JobWizard只压重复字段/Teal或Huntr二选一/Levels.fyi看level不看title）+ 移民工具五层（广度库/条件筛选/国家横比/时效手册/影响解读）及正确使用顺序；附英国 Earned Settlement 官方核查（确认10年/£125k三年/£50,271五年/四条硬门槛；否认"学签不计入"与"长居路线关闭"两处社区说法） | `references/job-search-and-immigration-tools-stack.md` |
@@ -232,6 +234,7 @@ only when the workflow step requires it, then work from it:
 | `/ai-business` | AI生意三类分型：硬塞AI vs chatbot补位 vs AI native、识别信号、第二类天花板、第三类机会与陷阱、去AI检验法 |
 | `/sop-prompt` | 半小时出可提交SOP：提示词模板、四步执行顺序（要求→大纲→对齐→成文）、去GPT味改写表、迁移文书避坑 |
 | `/niche-routes` | 10条冷门出国路径 + 官方核查：RCIP/Finnish PR新规/Iceland 18个月/瑞典科研签3年，及按人群匹配 |
+| `/eures` | EURES 欧盟官方招聘：31 国岗位池 + 顾问用法 + B1 真实门槛 + 中国护照打法 |
 | `/run-manual` | RUN 润手册导读：数据血缘与可靠边界 + 政策变化 17 条 + 中国护照排除清单 + 英国 Earned Settlement 档位表 |
 | `/scholarships` | 冷门奖学金十二类：四类获取逻辑 + 提名制/叠加限制 + 官方核查表 + 奖学金日历 |
 | `/tool-stack` | 求职五环节工具栈 + 移民检索五层工具 + 英国 Earned Settlement 官方核查 |

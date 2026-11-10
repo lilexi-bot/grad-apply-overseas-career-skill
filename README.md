@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.35 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.36 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -99,6 +99,7 @@ references/                  # external data loaded on demand
   job-search-and-immigration-tools-stack.md # 求职五环节工具栈（LinkedIn Posts/Handshake/Glassdoor/JobWizard/Teal-Huntr/Levels.fyi）+ 移民检索五层工具 + 英国Earned Settlement官方核查
   niche-scholarships-12-channels.md # 冷门奖学金十二类（9类奖学金+3类低门槛渠道+介护兜底），按获取逻辑重排为四类，含提名制/叠加限制与逐条官方核查
   run-manual-europe-36-countries.md # RUN润手册导读：数据血缘与可靠边界 + 2025-26政策变化17条 + 中国护照排除5条 + 英国Earned Settlement档位表
+  eures-eu-job-mobility-portal.md # EURES欧盟官方招聘：31国岗位池 + 顾问/招聘会/落地指南三大用法 + B1四档门槛 + 语言选择杠杆差 + 中国护照打法
   data/top30-us-masters-1-1.5yr-2027fall.xlsx  # 原始数据表（排版/全 双工作表，292条项目记录）
   sop-meta-framework.md            # SOP 写作元框架：招生官三问（动机/计划/能力）+ 十拍写作骨架
   sop-8h-workflow.md               # 8小时文书初稿 7 步工作流（PS/CV/RL 三位一体 / BAR 模型 / 量化 / 推荐人沟通）
@@ -174,6 +175,7 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/ai-business` | AI生意三类分型：硬塞AI vs chatbot补位 vs AI native、识别信号、第二类天花板、第三类机会与陷阱 |
 | `/sop-prompt` | 半小时出可提交SOP：提示词模板、四步执行顺序、去GPT味改写表、迁移文书避坑 |
 | `/niche-routes` | 10条冷门出国路径 + 官方核查：RCIP、芬兰PR新规、冰岛18个月、瑞典科研签3年 |
+| `/eures` | EURES 欧盟官方招聘：31 国岗位池 + 顾问用法 + B1 真实门槛 + 中国护照打法 |
 | `/run-manual` | RUN 润手册导读：数据血缘/可靠边界 + 政策变化 17 条 + 中国护照排除清单 + 英国 Earned Settlement 档位表 |
 | `/scholarships` | 冷门奖学金十二类：四类获取逻辑（劳动/身份/专业/稀缺性）+ 提名制与叠加限制 + 官方核查表 + 奖学金日历 |
 | `/tool-stack` | 求职五环节工具栈 + 移民检索五层工具（广度/筛选/横比/时效/解读）+ 英国 Earned Settlement 核查 |
