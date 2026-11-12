@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.37 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.38 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -99,6 +99,7 @@ references/                  # external data loaded on demand
   job-search-and-immigration-tools-stack.md # 求职五环节工具栈（LinkedIn Posts/Handshake/Glassdoor/JobWizard/Teal-Huntr/Levels.fyi）+ 移民检索五层工具 + 英国Earned Settlement官方核查
   niche-scholarships-12-channels.md # 冷门奖学金十二类（9类奖学金+3类低门槛渠道+介护兜底），按获取逻辑重排为四类，含提名制/叠加限制与逐条官方核查
   run-manual-europe-36-countries.md # RUN润手册导读：数据血缘与可靠边界 + 2025-26政策变化17条 + 中国护照排除5条 + 英国Earned Settlement档位表
+  program-intel-community-search.md # 项目情报搜集：Rustle五平台扒风评/面经 + 搜索词构造 + 44篇之后的偏差处理 + 三层信息源分工
   eu-application-platform-routing.md # 欧洲申请平台路由：Studielink/uni-assist VPD/瑞典统招/EEF/Mon Master 走哪个 + 四种「截止日定义」+ 联盟校两列法
   eures-eu-job-mobility-portal.md # EURES欧盟官方招聘：31国岗位池 + 顾问/招聘会/落地指南三大用法 + B1四档门槛 + 语言选择杠杆差 + 中国护照打法
   data/top30-us-masters-1-1.5yr-2027fall.xlsx  # 原始数据表（排版/全 双工作表，292条项目记录）
@@ -179,6 +180,7 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/eures` | EURES 欧盟官方招聘：31 国岗位池 + 顾问用法 + B1 真实门槛 + 中国护照打法 |
 | `/run-manual` | RUN 润手册导读：数据血缘/可靠边界 + 政策变化 17 条 + 中国护照排除清单 + 英国 Earned Settlement 档位表 |
 | `/scholarships` | 冷门奖学金十二类：四类获取逻辑（劳动/身份/专业/稀缺性）+ 提名制与叠加限制 + 官方核查表 + 奖学金日历 |
+| `/program-intel` | 项目情报搜集：Rustle（X/TikTok/Reddit/小红书/抖音）扒风评与面经 + 搜索词构造表 + 社区情报偏差处理 + 官方/社区/一手三层分工 |
 | `/eu-platforms` | 欧洲申请平台路由：Studielink / uni-assist VPD / 瑞典统招 / EEF / Mon Master 分别什么时候用 + 四个国家对「截止日」的四种定义 + 联盟校两列法 |
 | `/tool-stack` | 求职五环节工具栈 + 移民检索五层工具（广度/筛选/横比/时效/解读）+ 英国 Earned Settlement 核查 |
 | `/top30-short-programs` | Top30 一年/一年半硕士 292 项目 × 2027 Fall 截止日期：按 12/01、12/15、1月、2月+ 聚类排组合，含 GRE 与时长结构判断 |
