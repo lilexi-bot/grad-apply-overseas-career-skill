@@ -70,17 +70,18 @@ description: >-
   RUN润手册与欧洲移居路线 (RUN 润 润手册 海外移居手册 BryceYuuu 欧洲移民 欧洲36国 数字游民签证 欧盟蓝卡 蓝卡门槛 创业自雇 被动收入居留 投资居留 黄金签证 毕业后找工作签证 找工作居留 永居年限对比 入籍年限 双重国籍 中国护照不适用 programmes.csv),
   冷门奖学金与资助渠道 (奖学金 冷门奖学金 留学资助 助教 TA 中文助教 宿舍助理 RA宿舍长 财团奖学金 民间财团 本庄财团 浦项财团 学会奖学金 美国混凝土学会 ACI 女性奖学金 AAUW 华人捐赠 王宽城基金会 信托基金 救急补助 企业奖学金 英伟达奖学金 谷歌奖学金 宝马项目 职校奖学金 政府奖学金 介护 奖学金叠加 提名制 scholarship fellowship assistantship),
   丹麦SIRI政策更新 (丹麦 Danmark Denmark SIRI nyidanmark 哥本哈根 DTU 奥胡斯 丹麦学签 丹麦工签 求职期 job seeking 家属随行 集体协议 Collective Agreement Scheme overenskomst DKK322000 薪酬门槛 Pay Limit Scheme 正列清单 Positive List 医护暂停 2026-10-01 2027-01-01),
+  HUST光电/工程科学飞跃手册 (飞跃手册 光电 OEISES OEI&SES 华科光电 工程科学学院 本院去向 学院去向统计 转码 转CS 光电转码 暑研 MITACS CSST 游学项目 黑推 推荐信造假 反套 F-1 J-1 DS-160 SEVIS 敏感专业 check 面试 学术面 代面 90分以上 90分以下 校际交流班 3+2项目),
   项目情报搜集/全网攻略 (Rustle askrustle 全网攻略 项目风评 项目口碑 面经 面试经验 就读体验 劝退 水不水 值不值 bar高不高 小红书搜项目 Reddit搜项目 一亩三分地 信息搜集 查校工具 低GPA 27fall),
   欧洲申请平台路由 (Studielink 荷兰申请 代尔夫特 NetID Osiaan uni-assist VPD Vorprüfungsdokumentation 德国申请 柏林自由大学 universityadmissions.se 瑞典申请 志愿排序 last day to rank EEF Études en France 我要申请录取通知书 Campus France Mon Master Parcoursup INCEPTION MyCandidature PSL 巴黎萨克雷 Dauphine Erasmus Mundus EIT 联盟校 申请平台 走哪个系统 截止日以哪天为准),
   Top30一年制/一年半硕士总表 (1-1.5年硕士 一年制硕士 短学制硕士 Top30项目 2027 Fall 截止日期 deadline汇总 申请截止 分轮申请 Round 1 Early Action 滚动录取 rolling 项目时长 9个月硕士 12个月硕士 18个月硕士 GRE optional GRE不需要 春季入学 spring intake 暑期实习窗口 OPT窗口 选校时间线),
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.13.39
-last_updated: 2026-11-11
+version: 2.13.40
+last_updated: 2026-11-15
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.13.39)
+# Grad Apply & Overseas Career — Master Skill (v2.13.40)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -155,6 +156,7 @@ only when the workflow step requires it, then work from it:
 | Denmark SIRI 2026–2027 — **两条方向相反的变化**：2026-10-01 起学签求职期 3 年→1 年、家属随行关闭（PhD 豁免、按提交日判定、非国家批准项目 2025-05-02 后无工作权）；2027-01-01 起集体协议工签生效 DKK 322,000（比 Pay Limit 552,000 低 42%），**16 国名单含中国及香港**；瓶颈在雇主认证（≥10 全职/2 年经营/serviceattest/工会代表，Fast-track 认证不算）；失业率上行可关闭通道；医护许可暂停至 2026-12-31；策略含义=丹麦硕士性价比降但未归零、博士成唯一保留旧规的读书通道 | `references/denmark-siri-2026-2027-updates.md` |
 | Program intel community search (Rustle) — 社区情报层：Rustle 实测（5 平台 X/TikTok/Reddit/小红书/抖音，2–5 分钟，原帖+评论+来源链接，导出 MD/HTML，官方自述「非代表性抽样」）；搜索词构造（学校+项目+维度词、兄弟项目打包搜、中英双语各跑一遍）；**44 篇之后怎么读**——两端发声偏差 + AI 检索选择偏差审计数据（92% top-level / 91st 百分位 / 1.2 小时早评 / 第一人称代词 3.3%→0.06%，即摘要会抹掉「我 GPA3.3 我录了」这类最关键经验）+ 三层信息源分工（官方定边界→社区找疑点→一手验疑点） | `references/program-intel-community-search.md` |
 | EU application platform routing — 六套系统 / 三种拓扑：荷兰 Studielink（登记→校 portal→`enrolled` 才算完成）· 德国 uni-assist VPD（不转送，必须自己上传；4–6 周需按 6–8 周、1 年有效期是下限、按校开具 €75+€30/份）· 瑞典 universityadmissions.se（4 志愿单 offer、1/15 排序锁定、900 SEK 一学期一次、第二轮对非欧基本不可用）· 法国 EEF（中国在 75 国名单内、2026-10-01→12-15、2,100 元、7 志愿含 L1≤3 子限、1 月退件窗口）/ Mon Master（按居住地分流）/ 校方自有 portal 双轨；PSL 一校四线、萨克雷先 INCEPTION 后 EEF、Erasmus Mundus 第三层；核心框架=四个国家对「截止日」有四种定义 | `references/eu-application-platform-routing.md` |
+| HUST OEI&SES 飞跃手册 2023 — 487 页 / 六版沿革 / **版权声明禁止复制发行，故本文件只做结构索引 + 方法论重述，不搬运正文**；七块可复用方法论（名词层·PhD vs MS 是需求之差非难度之差·**光电转CS课程迁移率≈0 且本院 System/AI/Theory 教授为 0**·暑研三路径与「游学项目作用为零」·**黑推两案例与推荐信拉黑**·三类面试与「问细节是为了验证 SoP/CV 真实性」·**85 分=4.0 的 GPA 套利及其加州系统反制**）；第十章 8 届 60 校去向表**怎么读与不能怎么读**（非录取率/不完全统计/硕博混计/跨疫情平均）；**2023→2026 五处修正**（签证费 $160→$185、SEVIS $200→$350、隐藏 CS 背景属 212(a)(6)(c)(i) 高风险、PP10043 仍有效且 2026 加社媒审查+D/S 规则 2026-09-14 被禁、GRE 降级为逐校核查、美国重心假设失效） | `references/hust-oeises-feiyue-2023-guide.md` |
 | Job search stack (5 tools by stage) + immigration path-finding tools (5 layers) — 五环节各一工具（LinkedIn Posts 搜"We're hiring"/Handshake visa字段/Glassdoor近半年面经/JobWizard只压重复字段/Teal或Huntr二选一/Levels.fyi看level不看title）+ 移民工具五层（广度库/条件筛选/国家横比/时效手册/影响解读）及正确使用顺序；附英国 Earned Settlement 官方核查（确认10年/£125k三年/£50,271五年/四条硬门槛；否认"学签不计入"与"长居路线关闭"两处社区说法） | `references/job-search-and-immigration-tools-stack.md` |
 | Top30 US 1–1.5 year master's map (292 programmes / 31 schools) — 292条项目×2027 Fall截止日期总表（12月83条+1月71条=53%）、GRE三分格局（不需要123/可选113/要求53）、五种时长结构的真实差别（9/10/12/15-16/18-20个月与暑期实习窗口）、四种截止语义（单轮/Early/多轮/滚动）、置信度列用法、春季入学第二赛道 | `references/top30-us-1-1.5yr-programs-2027fall.md`（数据：`references/data/top30-us-masters-1-1.5yr-2027fall.xlsx`） |
 | CV revision / experience-hire CV review | `templates/cv-template.md` §CV revision rules |
@@ -246,6 +248,7 @@ only when the workflow step requires it, then work from it:
 | `/denmark-siri` | 丹麦 2026–2027 政策：学签出口砍短（3年→1年、家属关闭）+ 集体协议工签开门（DKK 322,000、含中国）+ 雇主认证瓶颈 + 三条策略含义 |
 | `/program-intel` | 项目情报搜集：Rustle 五平台扒风评/面经 + 搜索词构造 + 44 篇之后的偏差处理 + 三层信息源分工 |
 | `/eu-platforms` | 欧洲申请平台路由：Studielink/uni-assist VPD/瑞典统招/EEF/Mon Master 走哪个 + 四种「截止日定义」+ 联盟校两列法 |
+| `/feiyue-oei` | HUST 光电/工程科学飞跃手册 2023：结构索引 + 七块方法论（转码/暑研/推荐信/面试/GPA 套利）+ 去向表读法 + 五处已过期修正（签证费、PP10043、隐藏 CS 背景风险、GRE、美国重心） |
 | `/tool-stack` | 求职五环节工具栈 + 移民检索五层工具 + 英国 Earned Settlement 官方核查 |
 | `/top30-short-programs` | Top30 一年/一年半硕士 292 项目 × 2027 Fall 截止日期：按 12/01、12/15、1月、2月+ 聚类排申请组合，GRE 与时长结构判断 |
 
