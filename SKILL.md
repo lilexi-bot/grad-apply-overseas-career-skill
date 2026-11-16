@@ -77,11 +77,11 @@ description: >-
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.13.40
-last_updated: 2026-11-15
+version: 2.13.41
+last_updated: 2026-11-16
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.13.40)
+# Grad Apply & Overseas Career — Master Skill (v2.13.41)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -153,7 +153,7 @@ only when the workflow step requires it, then work from it:
 | EURES — 欧盟官方跨境招聘门户，31 国（EU27+冰岛/列支敦士登/挪威/瑞士）、约 300 万职位、1000+ 顾问、免费；核心判断=它是**匹配平台不是移民通道**（岗位靠 EURES，工作权靠各国许可）；B1 拆成四档场景（英语团队/B2 本地岗/C1 受监管/B1 缺工行业）；「任意一国语言」有杠杆差——德语 ROI 最高，荷兰语北欧语边际收益最小；TMS 补贴（语言课 €2,200 等）只对 EU/EEA 公民或欧盟长期居留者开放 | `references/eures-eu-job-mobility-portal.md` |
 | RUN manual (BryceYuuu/RUN) — 欧洲 36 国 / 110 条路线 / 13 全球目的地 / 380+ 官方链接的中文开源手册；本文件给结构化导读 + 可靠边界判定：数据血缘（99 条来自 LetsMigrate + 11 条补充，故是二手聚合）、2025–2026 政策变化 17 条（5 关闭 / 4 收紧，先读关闭再读开放）、中国大陆护照直接不可用的 5 条路线、门槛三榜、英国 Earned Settlement 档位表（£125,141/£50,271/£12,571 三档 + 3 年 NI + B2）及「十年长居关闭」属已宣布待写入的时限说明 | `references/run-manual-europe-36-countries.md` |
 | Niche scholarships & funding channels (9 + 3 + 1) — 按获取逻辑重排为四类（劳动换资助 TA/宿管/介护 · 身份换资助 女性/华人/国别 · 专业换资助 学会/财团 · 稀缺性换资助 职校/冷门国别）；含提名制与叠加限制两大隐形杀手、逐条官方核查（本庄只给生活费不含学费、谷歌$85k仅限北美而东亚$10k、NVIDIA需提名+暑期实习、AAUW四条硬门槛），及 8 条可执行清单 | `references/niche-scholarships-12-channels.md` |
-| Denmark SIRI 2026–2027 — **两条方向相反的变化**：2026-10-01 起学签求职期 3 年→1 年、家属随行关闭（PhD 豁免、按提交日判定、非国家批准项目 2025-05-02 后无工作权）；2027-01-01 起集体协议工签生效 DKK 322,000（比 Pay Limit 552,000 低 42%），**16 国名单含中国及香港**；瓶颈在雇主认证（≥10 全职/2 年经营/serviceattest/工会代表，Fast-track 认证不算）；失业率上行可关闭通道；医护许可暂停至 2026-12-31；策略含义=丹麦硕士性价比降但未归零、博士成唯一保留旧规的读书通道 | `references/denmark-siri-2026-2027-updates.md` |
+| Denmark SIRI 2026–2027 — **两条方向相反的变化**：2026-10-01 起学签求职期 3 年→1 年、家属随行关闭（PhD 豁免、按提交日判定、非国家批准项目 2025-05-02 后无工作权）；2027-01-01 起集体协议工签生效 DKK 322,000（比 Pay Limit 552,000 低 42%），**16 国名单含中国及香港**；瓶颈在雇主认证（≥10 全职/2 年经营/serviceattest/工会代表，**Fast-track 认证不算**；**认证申请 2026-12-01 开放**，比原计划提前一个月；违规低付可被吊销担保资格）；失业率上行可关闭通道；医护许可暂停至 2026-12-31；策略含义=丹麦硕士性价比降但未归零、博士成唯一保留旧规的读书通道 | `references/denmark-siri-2026-2027-updates.md` |
 | Program intel community search (Rustle) — 社区情报层：Rustle 实测（5 平台 X/TikTok/Reddit/小红书/抖音，2–5 分钟，原帖+评论+来源链接，导出 MD/HTML，官方自述「非代表性抽样」）；搜索词构造（学校+项目+维度词、兄弟项目打包搜、中英双语各跑一遍）；**44 篇之后怎么读**——两端发声偏差 + AI 检索选择偏差审计数据（92% top-level / 91st 百分位 / 1.2 小时早评 / 第一人称代词 3.3%→0.06%，即摘要会抹掉「我 GPA3.3 我录了」这类最关键经验）+ 三层信息源分工（官方定边界→社区找疑点→一手验疑点） | `references/program-intel-community-search.md` |
 | EU application platform routing — 六套系统 / 三种拓扑：荷兰 Studielink（登记→校 portal→`enrolled` 才算完成）· 德国 uni-assist VPD（不转送，必须自己上传；4–6 周需按 6–8 周、1 年有效期是下限、按校开具 €75+€30/份）· 瑞典 universityadmissions.se（4 志愿单 offer、1/15 排序锁定、900 SEK 一学期一次、第二轮对非欧基本不可用）· 法国 EEF（中国在 75 国名单内、2026-10-01→12-15、2,100 元、7 志愿含 L1≤3 子限、1 月退件窗口）/ Mon Master（按居住地分流）/ 校方自有 portal 双轨；PSL 一校四线、萨克雷先 INCEPTION 后 EEF、Erasmus Mundus 第三层；核心框架=四个国家对「截止日」有四种定义 | `references/eu-application-platform-routing.md` |
 | HUST OEI&SES 飞跃手册 2023 — 487 页 / 六版沿革 / **版权声明禁止复制发行，故本文件只做结构索引 + 方法论重述，不搬运正文**；七块可复用方法论（名词层·PhD vs MS 是需求之差非难度之差·**光电转CS课程迁移率≈0 且本院 System/AI/Theory 教授为 0**·暑研三路径与「游学项目作用为零」·**黑推两案例与推荐信拉黑**·三类面试与「问细节是为了验证 SoP/CV 真实性」·**85 分=4.0 的 GPA 套利及其加州系统反制**）；第十章 8 届 60 校去向表**怎么读与不能怎么读**（非录取率/不完全统计/硕博混计/跨疫情平均）；**2023→2026 五处修正**（签证费 $160→$185、SEVIS $200→$350、隐藏 CS 背景属 212(a)(6)(c)(i) 高风险、PP10043 仍有效且 2026 加社媒审查+D/S 规则 2026-09-14 被禁、GRE 降级为逐校核查、美国重心假设失效） | `references/hust-oeises-feiyue-2023-guide.md` |
@@ -245,7 +245,7 @@ only when the workflow step requires it, then work from it:
 | `/eures` | EURES 欧盟官方招聘：31 国岗位池 + 顾问用法 + B1 真实门槛 + 中国护照打法 |
 | `/run-manual` | RUN 润手册导读：数据血缘与可靠边界 + 政策变化 17 条 + 中国护照排除清单 + 英国 Earned Settlement 档位表 |
 | `/scholarships` | 冷门奖学金十二类：四类获取逻辑 + 提名制/叠加限制 + 官方核查表 + 奖学金日历 |
-| `/denmark-siri` | 丹麦 2026–2027 政策：学签出口砍短（3年→1年、家属关闭）+ 集体协议工签开门（DKK 322,000、含中国）+ 雇主认证瓶颈 + 三条策略含义 |
+| `/denmark-siri` | 丹麦 2026–2027 政策：学签出口砍短（3年→1年、家属关闭）+ 集体协议工签开门（DKK 322,000、含中国、认证申请 2026-12-01 开放）+ 雇主认证瓶颈与反剥削吊销条款 + 三条策略含义 |
 | `/program-intel` | 项目情报搜集：Rustle 五平台扒风评/面经 + 搜索词构造 + 44 篇之后的偏差处理 + 三层信息源分工 |
 | `/eu-platforms` | 欧洲申请平台路由：Studielink/uni-assist VPD/瑞典统招/EEF/Mon Master 走哪个 + 四种「截止日定义」+ 联盟校两列法 |
 | `/feiyue-oei` | HUST 光电/工程科学飞跃手册 2023：结构索引 + 七块方法论（转码/暑研/推荐信/面试/GPA 套利）+ 去向表读法 + 五处已过期修正（签证费、PP10043、隐藏 CS 背景风险、GRE、美国重心） |
