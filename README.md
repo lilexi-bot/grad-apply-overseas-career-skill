@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.41 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.42 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -102,6 +102,7 @@ references/                  # external data loaded on demand
   denmark-siri-2026-2027-updates.md # 丹麦SIRI 2026-2027：学签求职期3年→1年+家属关闭、集体协议工签DKK322,000含中国、雇主认证瓶颈
   program-intel-community-search.md # 项目情报搜集：Rustle五平台扒风评/面经 + 搜索词构造 + 44篇之后的偏差处理 + 三层信息源分工
   eu-application-platform-routing.md # 欧洲申请平台路由：Studielink/uni-assist VPD/瑞典统招/EEF/Mon Master 走哪个 + 四种「截止日定义」+ 联盟校两列法
+  silicon-valley-founder-storytelling.md # Lulu Cheng Meservey 叙事方法论：Go Direct / Narrative Arc / Underdog / 宁可被低估 + 四工具 + 迁移到 SOP·套磁·面试
   hust-oeises-feiyue-2023-guide.md # HUST光电/工程科学飞跃手册2023：结构索引+七块方法论（转码/暑研/推荐信/面试/GPA套利）+去向表读法+五处过期修正
   eures-eu-job-mobility-portal.md # EURES欧盟官方招聘：31国岗位池 + 顾问/招聘会/落地指南三大用法 + B1四档门槛 + 语言选择杠杆差 + 中国护照打法
   data/top30-us-masters-1-1.5yr-2027fall.xlsx  # 原始数据表（排版/全 双工作表，292条项目记录）
@@ -185,6 +186,7 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/denmark-siri` | 丹麦 2026–2027：学签出口砍短（3年→1年、家属随行关闭、PhD豁免）+ 集体协议工签开门（DKK 322,000、16国含中国、需认证雇主）+ 三条策略含义 |
 | `/program-intel` | 项目情报搜集：Rustle（X/TikTok/Reddit/小红书/抖音）扒风评与面经 + 搜索词构造表 + 社区情报偏差处理 + 官方/社区/一手三层分工 |
 | `/eu-platforms` | 欧洲申请平台路由：Studielink / uni-assist VPD / 瑞典统招 / EEF / Mon Master 分别什么时候用 + 四个国家对「截止日」的四种定义 + 联盟校两列法 |
+| `/storytelling` | Lulu Cheng Meservey 叙事方法论：Go Direct + Narrative Arc + Underdog 五段式 + 宁可被低估不可被高估 + prebuttal/压强/同心圆/文化敏感区 + 迁移到申请与求职 + 三条失效边界 |
 | `/feiyue-oei` | HUST 光电/工程科学飞跃手册 2023：结构索引 + 七块方法论（转码路径/暑研三路径/推荐信黑推风险/三类面试/GPA 套利）+ 8 届去向表读法 + 五处已过期修正 |
 | `/tool-stack` | 求职五环节工具栈 + 移民检索五层工具（广度/筛选/横比/时效/解读）+ 英国 Earned Settlement 核查 |
 | `/top30-short-programs` | Top30 一年/一年半硕士 292 项目 × 2027 Fall 截止日期：按 12/01、12/15、1月、2月+ 聚类排组合，含 GRE 与时长结构判断 |

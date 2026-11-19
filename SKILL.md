@@ -73,15 +73,16 @@ description: >-
   HUST光电/工程科学飞跃手册 (飞跃手册 光电 OEISES OEI&SES 华科光电 工程科学学院 本院去向 学院去向统计 转码 转CS 光电转码 暑研 MITACS CSST 游学项目 黑推 推荐信造假 反套 F-1 J-1 DS-160 SEVIS 敏感专业 check 面试 学术面 代面 90分以上 90分以下 校际交流班 3+2项目),
   项目情报搜集/全网攻略 (Rustle askrustle 全网攻略 项目风评 项目口碑 面经 面试经验 就读体验 劝退 水不水 值不值 bar高不高 小红书搜项目 Reddit搜项目 一亩三分地 信息搜集 查校工具 低GPA 27fall),
   欧洲申请平台路由 (Studielink 荷兰申请 代尔夫特 NetID Osiaan uni-assist VPD Vorprüfungsdokumentation 德国申请 柏林自由大学 universityadmissions.se 瑞典申请 志愿排序 last day to rank EEF Études en France 我要申请录取通知书 Campus France Mon Master Parcoursup INCEPTION MyCandidature PSL 巴黎萨克雷 Dauphine Erasmus Mundus EIT 联盟校 申请平台 走哪个系统 截止日以哪天为准),
+  founder storytelling / 讲故事 / 叙事 / narrative arc / go direct / 传播 / PR / 公关 / Lulu Cheng Meservey / Rostra / underdog / 逆袭 / 被低估 / overrated / 定位 / 个人品牌 / 个人IP / prebuttal / 套磁顺序 / 为什么我的材料读起来平 / storytelling (Storytelling 叙事 讲故事 go direct 个人品牌 pitch 自我介绍 underdog 被低估 传播),
   Top30一年制/一年半硕士总表 (1-1.5年硕士 一年制硕士 短学制硕士 Top30项目 2027 Fall 截止日期 deadline汇总 申请截止 分轮申请 Round 1 Early Action 滚动录取 rolling 项目时长 9个月硕士 12个月硕士 18个月硕士 GRE optional GRE不需要 春季入学 spring intake 暑期实习窗口 OPT窗口 选校时间线),
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.13.41
-last_updated: 2026-11-16
+version: 2.13.42
+last_updated: 2026-11-19
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.13.41)
+# Grad Apply & Overseas Career — Master Skill (v2.13.42)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -115,6 +116,7 @@ only when the workflow step requires it, then work from it:
 | Founder fundraising ecosystem / investor lists | `references/founder-fundraising-ecosystem.md` |
 | Founder fundraising methodology (5 corrections + 7-question audit + valuation strategy) | `references/founder-fundraising-methodology.md` |
 | Founder personal profile building (identity-layer moat, 个人IP, authentic brand) | `references/founder-personal-profile-building.md` |
+| Founder storytelling / narrative (Lulu Cheng Meservey · Rostra) — **Go Direct 不是营销技巧而是反叛乱式的敌后分发**（方法论源自海军陆战队条令：找影响力中心 + 建非常规分发网络；Anduril 直接走进 Quantico/Pendleton/国防大学/CIA）；**没有 tension 就只是信息**（起点→阻力→冲突→转折→progress；先讲你在曲线哪个位置而非要去哪）；**Underdog = Obstacle→Attempt→Failure→Insight→Breakthrough**（结果让人羡慕，过程才产生连接）；**宁可被低估不可被高估**（人会把你的价值拉到他们以为的位置；包装成冲刺档=邀请对方把你拉下来）；四个配套工具（prebuttal 先说最狠的批评 / 压强=力÷面积 收窄受众 / 同心圆不能跳圈 套磁顺序 / cultural erogenous zone 从对方在意处进入）；**三条失效边界**（必须有真实 tension、不能卖惨、深度依赖美国语境） | `references/silicon-valley-founder-storytelling.md` |
 | 2025 returnee employment market — supply surge, salary by sector, city decentralisation | `references/returnee-employment-market-2025.md` |
 | ECM interview prep — Placement types, Why Move narrative, Deal Experience storytelling (MS HK mentoring) | `references/ecm-interview-prep-ms-hk.md` |
 | PhD cold-email & interview tactics — match>interest, ability>passion, proactive interview, follow-up cadence | `references/phd-cold-email-interview-tactics.md` |
@@ -203,6 +205,7 @@ only when the workflow step requires it, then work from it:
 | `/founder-antihedge` | `references/founder-anti-hedging-principles.md` — 斯坦福GSB三条反常识：阶梯式冒险谬误、创业无中间地带、黑科技未必赢；诊断 founder 叙事中的 hedging |
 | `/founder-onchain` | `references/founder-infrastructure-migration.md` — 链上支付案例（X/Meta/Visa/渣打）+ 三条 founder 原则：用户假设重置/结算即场景/合规是产品能力 |
 | `/founder-profile` | `references/founder-personal-profile-building.md` — 创业者个人品牌建设：build up your profile + manage every detail；真实人设≠包装；从单点标签到完整profile画圆；身份层护城河 |
+| `/storytelling` | Lulu Cheng Meservey 叙事方法论：Go Direct（别把故事外包给中介/PR）+ Narrative Arc（没 tension 就是信息）+ Underdog 五段式 + 宁可被低估不可被高估 + prebuttal/压强/同心圆/文化敏感区四工具 + 迁移到 SOP·套磁·面试·个人 IP + 三条失效边界 |
 | `/fundraising-methodology` | `references/founder-fundraising-methodology.md` — 融资实战5大认知纠偏 + 融资前7问自检 + 估值策略（Down Round/被估值锁死/5问压力测试） |
 | `/ecm-interview` | `references/ecm-interview-prep-ms-hk.md` — MS香港ECM面试辅导：Placement技术面(Primary/Secondary/Top-up/Block Trade) + Why Move跳槽叙事 + Deal Experience讲述框架 |
 | `/phd-cold-email` | `references/phd-cold-email-interview-tactics.md` — 套磁信四条（PhD）+ 本科生科研套磁5-part结构（回复率80%）：match>interest/ability>passion/主动提问/follow up节奏/contribution原则 |
