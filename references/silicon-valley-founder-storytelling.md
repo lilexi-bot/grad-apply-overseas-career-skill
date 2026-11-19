@@ -5,6 +5,8 @@
 >
 > **English abstract**：Notes from a podcast with Lulu Cheng Meservey (founder of Rostra, ex-Activision Blizzard and Substack), the most-cited communications advisor among Silicon Valley founders. Four frameworks are covered — **Go Direct** (founders must own their narrative rather than outsource it to agencies), **Narrative Arc** (a story needs tension, not a list of facts), **Underdog Narrative** (obstacles are the content), and **positioning psychology** (prefer being underrated over overrated). This file preserves the notes, then adds four adjacent tools from the same body of work that the notes omit (prebuttal, pressure = force ÷ surface area, concentric circles, cultural erogenous zones), and translates the whole thing into graduate-application and job-search practice — where it turns out to be far more directly applicable than it first appears.
 
+> **第二批笔记（同日追加，第 5–7 节）**：Message-Market Fit（技术存在 ≠ 产生影响；Eric Schmidt 2026 亚利桑那大学毕业典礼演讲被嘘的两个「说错对象」；Shopify 双层叙事）、初创公司背离人性的风险厌恶错误（独木舟比喻；把风险留给自己、把确定性给对方；Barclays 式「卖不改变的代价」）。这两节把前面的叙事框架推到了**受众心理**层面——前面讲怎么讲，这里讲**听的人会怎么反应**。
+
 ---
 
 ## When to load
@@ -15,8 +17,12 @@
 - 用户在纠结 **要不要找中介/代写**，或已经被中介改得没有个人味道
 - 用户在 **低 GPA / 转专业 / 非名校** 处境，需要把"劣势"变成叙事资产
 - 用户问"为什么我的申请材料读起来平"、"怎么讲自己的故事"
+- 用户在写 **"为什么选我们"段**，通篇都是学校排名、实验室、诺奖数——主角放错了位置
+- 用户在 **说服别人改变**（换方案、换方向、换公司），对方明显在犹豫
+- 用户在 **在职 / 转专业**，被问"为什么现在读"，答不上"不改变的代价"
+- 用户想理解 **Eric Schmidt 毕业典礼翻车**、AI 演讲为什么在 2026 年系统性被嘘
 
-**Trigger words**：storytelling / 讲故事 / 叙事 / narrative / go direct / 传播 / PR / 公关 / Lulu Cheng / Meservey / Rostra / underdog / 逆袭 / 被低估 / 定位 / 个人品牌 / 个人 IP / 创始人叙事 / pitch / 自我介绍 / 为什么是我
+**Trigger words**：storytelling / 讲故事 / 叙事 / narrative / go direct / 传播 / PR / 公关 / Lulu Cheng / Meservey / Rostra / underdog / 逆袭 / 被低估 / 定位 / 个人品牌 / 个人 IP / 创始人叙事 / pitch / 自我介绍 / 为什么是我 / message-market fit / 信息市场匹配 / Eric Schmidt / 毕业典礼演讲 / 主角 / 技术当背景 / Shopify / Toby / 风险厌恶 / 独木舟 / 不改变的代价 / Barclays / 示弱
 
 ---
 
@@ -221,6 +227,142 @@ Lulu 的方法建立在两件事上：美国社会对"反建制/挑战巨头"的
 
 ---
 
+## 九、Message-Market Fit：技术存在 ≠ 技术产生影响
+
+### 用户笔记原文（verbatim）
+
+> 5.Message-Market Fit（信息与市场匹配）在对的地方说对的话-为什么要建立-依靠怎么样的内容来建立联系-关系如何支持业务对于科技行业：The greatest and most understimulated barrier between technology existing and actually having an impact：its people understanding that, welcoming them into their lives and wanting to go walk on it
+>
+> 【反面案例：谷歌前CEOEric Schmidt 在毕业典礼的发言:】-mispoken audience: The vibe of it was it's taking away jobs and deal with that, get on the train or on the tracks. One is at the center of the story, the protagonism as a human and it wasn't the person he was speaking to, He didn't say you can go change the world and you have the world's most mir reckless technology to use. Instead the technology, the protagonist is coming whether you like it or not, in probably in his way or you can get on the banquet with me -mispoken audience: The second thing says Think about the other humans reaction to this opinion when sharing information. he didn't seem upstairs, He didn't even recognize what it it, and all the assign he the graduate student could have arise from that.
+>
+> 4. 科技作为背景服务于人这个主角：Talk about the changes in you with the product, with showing technology in the backgrounds of the human story
+>
+> 5.产品使用后带来的变化：以shopify为例：守护创业精神+为商家的服务 what will occur after using a product? -Toby from shopify does this perfectly, like the way he convey what shopify is. It's like trying to create more entrepreneur in the world. Eg: Two level of Shopify, one level is this wondrous technology and what it means to this world, and in some way it is technology backing internship, and entrepreneurship is gonna be the last bastion of human economy value. If they take everything from us, will always have an entrepreneurship. So Shopify is like a hedge against every job taken from us because they cannot take from us our agency And our ability to start new things shopifys infrastructure for intership The second one is merchants. By telling stories of what it has done for merchants schemes. How to individually do a web portal, PayMents and design all of this and pack it together, How many people have it has insurmountable obstacle before they are able to bring their businesses online, So story of one merchant going from someone' dream, and it might be someone in small town who is retiring and has always wanted to open a shop or something, turning into what is now a thriving business. its the best way to talk about Shopify because even though they are not the hero of the story. None of this would be possible in its current form, but you' are not bludgeon people with this【6.跟上我们】
+
+### 核心命题
+
+Lulu 的表述大意是：**技术存在，和技术真正产生影响，之间最大的、也最没有被充分激发的障碍，是人们要理解它、欢迎它进入自己的生活、并且愿意走上去。**
+
+产品有 PMF，不等于信息有 MMF。这一节讲的就是**信息层面的 product-market fit**：在对的地方、对的时间、对的人说对的话。
+
+### 反面案例：Eric Schmidt 的毕业典礼演讲
+
+**核实过的事实（2026-11-19 联网确认）**：2026 年 5 月，前谷歌 CEO Eric Schmidt 在亚利桑那大学（University of Arizona）毕业典礼对约 9,000 名毕业生演讲。他提到《时代》周刊 2025 年度人物是「AI 的缔造者们」，台下随即爆发嘘声；讲到「另一场更大、更快、影响更深远的技术变革」时再次被嘘。他确实说了「我知道你们很多人在想什么，我听得见」「这种恐惧是理性的」，也说了「未来不是自动到来的，它是在实验室、宿舍、创业公司、教室里被建造出来的，建造它的人就是你们」。**但这些都没能挽回现场。**
+
+这才是这一节的锋利之处：**他并不是没有共情，而是框架在最开始三十秒就已经设错了，后面的补救无济于事。**
+
+**笔记拆出的两个「说错对象」（mispoken audience）**：
+
+**① 主角位置错了。** 整段话里，处在故事中心的是**技术**，不是台下的人。他没有说「你可以去改变世界，你手里有史上最强的工具」；他说的是「技术要来，不管你喜不喜欢，要么上车，要么被碾」。**当技术是主角、听众是乘客时，任何「你可以参与塑造它」的补充都只是把乘客升舱，不改变身份。**
+
+**② 没有预演听众的反应。** 笔记的原话是「he didn't seem [to empathize], he didn't even recognize what it is」——他没有意识到这句话在毕业生耳朵里是什么。一个刚毕业、正在找工作、已经投了几十份简历的人，听到「技术不可避免」，接收到的不是愿景，是**宣判**。
+
+**一个值得单独记下的旁证**：2026 年不止他一个。同期多起毕业典礼上谈 AI「不可避免」的演讲者都被嘘；演员 Reese Witherspoon 发帖劝女性尽快学会用 AI，同样遭到反噬。**说明这不是个别人讲砸了，是「不可避免论」这个框架本身已经和市场脱节。** 当一个框架被反复使用到听众能预判你下一句要说什么时，它就从说服变成了噪音。
+
+### 正确做法一：技术放在背景，人放在前景
+
+笔记的原话：**Talk about the changes in you with the product, with showing technology in the background of the human story.**
+
+翻译成操作：**不要讲技术能做什么，要讲用了它之后，人发生了什么变化。** 技术是布景，人是主角。这一条和前面 Narrative Arc 是同一件事的两面——技术做主角时，故事没有 tension，因为它不会失败、不会犹豫、不会付代价。
+
+### 正确做法二：Shopify 的双层叙事
+
+笔记认为 Tobias Lütke（Toby）是这方面做得最好的，他讲 Shopify 的方式分两层：
+
+**第一层：技术对世界的意义。** Shopify 是「创业精神的基础设施」。这里的论证很漂亮——**创业精神是人类经济价值的最后堡垒**。如果 AI 把一切都拿走了，还有一件事拿不走：**agency，以及开创新事物的能力**。所以 Shopify 本质上是**对「每一份工作都被夺走」的对冲**。
+
+注意这一层的高明之处：它没有说「我们的技术很强」，它说的是**「有些东西不能被夺走，我们守的是那个东西」**。技术退到背景，人在前景。
+
+**第二层：商家的故事。** 讲 Shopify 具体为商家做了什么——建站、支付、设计，过去是普通人不可逾越的障碍。然后落到一个人：可能是小镇上一位即将退休的人，一直想开一家店，现在变成了一个在运转的生意。
+
+**最关键的收尾**：Shopify 不是这个故事的主角。但没有它，这一切不可能以现在的形式存在——**然而你不能拿这句话去砸人（you're not bludgeoning people with this）。**
+
+这个分寸感是整节最值得学的：**你的贡献可以很大，但一旦你说出来，它就变小了。** 让事实替你说，不要替事实说话。
+
+---
+
+## 十、初创公司最容易犯的错误：背离人性
+
+### 用户笔记原文（verbatim）
+
+> 6.初创公司容易犯的错误： Most startup companies are going against the grain of human psychology
+>
+> 【7.背离人性】----risk adverSiOn. They are saying that to their audience that we get something much more better if you switch, we can offer you better service. However, you basically just ask them to take on risk on this newer unproven a business model IN exchange of that is they might get something that's better than what they have. They measure will be there in a solid land and you' are rolling by in this riskety canoe, If you' are getting my canoe, I will roll you somewhere really awesome正确的做法：The reverse of it is to let them in the canoe and you' are on a solid land saying:" Now it's not bad, but you are missing out a lot of opportunity." Instead of inviting them to somewhere that they can only picture by their imagination, it would be better off to state that you are in a losing status【8.不稳定的】
+>
+> 7. 而大公司如Barclay：It's much harder to inside news stories in those company who consider themselves as safety statement one. But a more effective way to doing this is what you are using Right Now is gonna be outdated in five years, and what we are offer you is not only keep what you have, but also have to cement the grip on this on this field. If you cannot hire a bunch of excellent people your mortgage your future
+
+### 独木舟比喻：为什么「我们更好」这句话没用
+
+笔记里那个画面非常准确：**客户站在坚实的陆地上，你划着一艘摇摇晃晃的独木舟过去，说「上船吧，我带你去很棒的地方」。**
+
+这句话的问题不在于「很棒的地方」不够棒，而在于**风险由谁承担**。你在要求对方拿确定的东西，去换一个**未经验证的商业模式**可能带来的东西。
+
+行为经济学里这叫损失厌恶（loss aversion）——**同样量级的损失，痛感大约是收益快感的两倍**。所以「可能更好」在结构上就打不过「确定不差」。**这不是文案问题，是算术问题。**
+
+### 正确做法：把风险留给自己，把确定性给对方
+
+笔记的原话是「反过来做」：**让对方留在船上（或让局面反过来），你站在坚实的陆地上说：「现在这样不差，但你正在错过很多机会。」**
+
+核心机制是：**你先承担不确定性，对方后享受确定性。** 不是邀请对方去一个只能靠想象力看见的地方，而是**由你先去、先验证、先付代价，然后回来告诉他那里是什么样**。
+
+笔记最后那句「it would be better off to state that you are in a losing status」——**承认自己正处在输的位置**。这在传播上有效，因为：
+
+- 推销触发防御，**示警不触发防御**
+- 承认自己在输，说明你**已经付过代价**，你的信息因此变贵
+- 一个正在赢的人劝你改变，你怀疑他图什么；一个正在输的人告诉你哪里错了，你会听
+
+### 大公司版本：Barclays 这类「安全感声明」
+
+笔记指出：把自己定位成**安全感声明（safety statement）**的公司，很难进入新闻叙事——因为新闻需要冲突，而「我们很稳」没有冲突。
+
+**更有效的说法是**：「你现在用的东西，五年后就过时了。我们给你的不只是保住你现有的，而是加固你在这个领域的抓地力。**如果你招不到一批优秀的人，你就是在抵押你的未来。**」
+
+这条的力量在于它**调换了风险的方向**：不再说「改变有风险」，而是说**「不改变才是风险」**。它没有要求对方承担任何新东西，只是把「维持现状的风险」摆到台面上——而那个风险原本是隐形的。
+
+**对申请者最直接的一句翻译**：面试被问「为什么现在读硕士」，答「我想提升自己」= 请对方投资你的潜力（风险在对方）；答「我现在做的东西两年内会被自动化，我需要换一个更难被替代的位置」= 指出不改变的代价（风险在你这边，而且你已经想清楚了）。
+
+---
+
+## 十一、迁移到申请与求职（续）
+
+| Lulu 的框架 | 创始人场景 | 申请/求职场景 |
+| --- | --- | --- |
+| **Message-Market Fit** | 技术存在 ≠ 产生影响 | 你的经历存在 ≠ 招生官会认可。中间隔着「他能不能理解、能不能代入」 |
+| **主角位置** | 技术不能当主角 | **不要把学校/项目当主角**。写「贵校有世界顶尖的 XX 实验室」= 主角是学校。写「我在 XX 问题上卡住，贵校的 YY 让我看到解法」= 主角是你 |
+| **预演听众反应** | 想想听众听到这句话会怎么想 | 想想招生官读到这一句会怎么想。写「我 GPA 低但潜力大」——他读到的是「需要我冒险」 |
+| **不要 bludgeon** | 不拿贡献砸人 | 不堆排名、诺奖数、录取率。事实自己会说话，你替它说话它就变小了 |
+| **Shopify 第二层** | 讲商家发生了什么变化 | 推荐信/PS 写「因为我的工作，谁发生了什么变化」，而不是「我完成了什么」 |
+| **独木舟** | 别让客户承担未验证的风险 | **别让招生官赌你的潜力**。给出已完成的、可核查的证据，让风险留在你这边 |
+| **losing status** | 承认自己在输更有说服力 | 可以说「我原来的方法错了」，不要说「我能力不行」——**示弱的对象必须是方法/旧范式，不能是能力** |
+| **Barclays 反向** | 卖「不改变的代价」 | 「我现在做的事两年后会被自动化」比「我想提升自己」强得多——前者是风险陈述，后者是请求 |
+
+### 一个改写示例（同一段动机，两种写法）
+
+> ❌ 「贵校在人工智能领域享有世界级声誉，拥有顶尖的实验室和师资，我希望能在这样的环境中继续深造，提升自己的科研能力。」
+>
+> ✅ 「我上一份工作做的是推荐系统的离线评估，做到第三个月我发现一件事：我们所有指标都在涨，但线上转化在跌。后来查出来是评估集被历史策略污染了。这件事让我意识到我不缺工程能力，我缺的是判断'什么值得被优化'的方法——而这恰好是我读论文时反复卡住的地方。贵校 XX 组 2025 年那篇关于反事实评估的工作，是我第一次看到有人把这个问题正面处理。」
+
+第二段里，学校退到背景，人是主角；没有一句形容词；风险留在写作者这边（先承认自己的短板）；而且它做了 prebuttal——主动说出「我不缺工程能力，我缺的是方法」，把「你只是个工程师」这个潜在质疑提前消化了。
+
+---
+
+## 十二、两条补充边界
+
+### 1. 「示弱」在融资和申请里的效果不同
+
+投资人喜欢 underdog，因为有 upside；**招生官更在意你能不能完成**。所以同一种示弱，在两个场景里的剂量不一样：
+
+- 对投资人：可以说「这个市场还没人做成」，因为 upside 在那里
+- 对招生官：只能说「我的方法错了」，不能说「我可能做不完」
+
+**判断标准**：你示弱的是**方法**还是**能力**。方法在输，是洞察；能力在输，是风险。
+
+### 2. 「不改变的代价」不能虚构
+
+Barclays 那句话之所以成立，是因为「五年后过时」在金融基础设施领域是真的。如果你对一个刚入行的应届生说「你现在做的事五年后会消失」，他不一定信，因为他还没有可失去的东西。
+
+**这条只对「已经拥有某种确定性的人」有效**——在职者、转专业者、有存量技能的人。对应届生，正确的钩子不是「你会失去什么」，而是「你可以先拿到什么」。
+
 ## English Key Takeaways
 
 1. **Go Direct is not a marketing tactic — it is a distribution strategy borrowed from counterinsurgency.** Lulu Cheng Meservey studied counterinsurgency in graduate school and builds on US Marine Corps warfighting doctrine: find centers of influence, build unconventional distribution networks. When the conventional supply line (company → PR → reporter → media → user) is cut or hostile, the only viable move is to bypass it and walk into the building. Anduril's founders went to Quantico, Camp Pendleton, the National Defense University and the CIA directly, because no mainstream channel and no community goodwill were available to them.
@@ -235,7 +377,15 @@ Lulu 的方法建立在两件事上：美国社会对"反建制/挑战巨头"的
 
 6. **Four adjacent tools matter as much as the frameworks**: prebuttal (state the harshest criticism yourself, Eminem-style, so it becomes known information rather than an accusation); pressure = force ÷ surface area (narrow the audience, sharpen the message); concentric circles (you cannot skip a circle — build inward credibility before reaching outward); cultural erogenous zones (enter through what the audience already cares about, not through what you care about).
 
-7. **Three failure modes**: the framework presupposes you have real tension — do not invent it, reorder the setbacks you already have; underdog narrative overdone becomes complaint — every difficulty must be followed by a verifiable insight and breakthrough; and the whole method is deeply dependent on American adversarial, individualist framing, which does not transfer cleanly to Chinese-language personal branding.
+7. **Message-Market Fit: technology existing and technology having an impact are separated by whether people understand it, welcome it into their lives, and want to walk on it.** Eric Schmidt's 2026 University of Arizona commencement speech is the canonical failure. He did express empathy ("I can hear you… that fear is rational") and did say the future would be built by the audience — and it still failed, because the frame was set in the first thirty seconds: technology was the protagonist and the graduates were passengers. Even a well-intentioned empathy paragraph cannot repair a frame that was wrong from the opening line. The same "inevitability" frame was booed at multiple 2026 commencements, which suggests the frame itself, not the speaker, has decoupled from the market.
+
+8. **Put technology in the background and the human in the foreground.** Do not describe what the technology does; describe what changed for the person who used it. Shopify's two-layer narrative is the model: layer one, entrepreneurship is the last bastion of human economic value and Shopify is the hedge against every job being taken, because agency cannot be taken; layer two, the story of one retiring small-town merchant whose lifelong wish became a working business. Shopify is not the hero of that story — and you do not bludgeon people with the fact that none of it would exist without you.
+
+9. **Most startups fight human psychology, and risk aversion is where they lose.** Telling a customer "switch, we're better" asks them to trade something certain for an unproven model — they stand on solid land, you arrive in a rickety canoe. Loss aversion makes "possibly better" structurally weaker than "certainly not bad," so better copy cannot fix it; only a different risk allocation can. The reversal: take the risk yourself first, then report back from solid ground — "what you have isn't bad, but you're missing a lot." Admitting you are in a losing position works because it converts a pitch into a warning, and warnings do not trigger defensiveness.
+
+10. **For incumbents positioned as safety, sell the cost of not changing.** "What you use now will be outdated in five years; we don't just preserve what you have, we cement your grip — and if you cannot hire excellent people, you are mortgaging your future." This flips the direction of risk: it never asks the audience to accept a new risk, it makes the invisible risk of standing still visible.
+
+11. **Three failure modes**: the framework presupposes you have real tension — do not invent it, reorder the setbacks you already have; underdog narrative overdone becomes complaint — every difficulty must be followed by a verifiable insight and breakthrough; and the whole method is deeply dependent on American adversarial, individualist framing, which does not transfer cleanly to Chinese-language personal branding.
 
 ---
 
@@ -247,4 +397,6 @@ Lulu 的方法建立在两件事上：美国社会对"反建制/挑战巨头"的
 - **`founder-fundraising-methodology.md`** — the "prefer underrated over overrated" rule is the same logic as valuation strategy: valuation is a promise for the next round, not a trophy. Overpricing yourself creates a correction you cannot control.
 - **`founder-personal-profile-building.md`** — Go Direct is the strategic rationale underneath personal-profile building: the channel choice matters less than whether the conviction survives transmission.
 - **Low-GPA main line of this repo** — the Underdog structure is the single most useful thing here for applicants with weak numbers. It converts a liability into the spine of the essay, and the prebuttal tool tells you to raise the GPA issue yourself rather than hope it goes unnoticed.
+- **`founder-coldstart-playbook.md`** — the canoe/risk-allocation rule is the messaging counterpart of cold-start trust building: in both cases you front-load your own risk to lower the other side's perceived cost of trying.
+- **`career-youngest-most-exhausted.md`** — the "sell the cost of not changing" move is the strongest available argument for someone whose existing skill set has a visible expiry date.
 - **`career-global-capability-system.md`** — the concentric-circles rule explains why cold outreach to distant VIPs underperforms warm paths through your own institution.

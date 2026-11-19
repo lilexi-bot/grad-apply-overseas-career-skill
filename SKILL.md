@@ -78,11 +78,11 @@ description: >-
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.13.42
+version: 2.13.43
 last_updated: 2026-11-19
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.13.42)
+# Grad Apply & Overseas Career — Master Skill (v2.13.43)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -116,7 +116,7 @@ only when the workflow step requires it, then work from it:
 | Founder fundraising ecosystem / investor lists | `references/founder-fundraising-ecosystem.md` |
 | Founder fundraising methodology (5 corrections + 7-question audit + valuation strategy) | `references/founder-fundraising-methodology.md` |
 | Founder personal profile building (identity-layer moat, 个人IP, authentic brand) | `references/founder-personal-profile-building.md` |
-| Founder storytelling / narrative (Lulu Cheng Meservey · Rostra) — **Go Direct 不是营销技巧而是反叛乱式的敌后分发**（方法论源自海军陆战队条令：找影响力中心 + 建非常规分发网络；Anduril 直接走进 Quantico/Pendleton/国防大学/CIA）；**没有 tension 就只是信息**（起点→阻力→冲突→转折→progress；先讲你在曲线哪个位置而非要去哪）；**Underdog = Obstacle→Attempt→Failure→Insight→Breakthrough**（结果让人羡慕，过程才产生连接）；**宁可被低估不可被高估**（人会把你的价值拉到他们以为的位置；包装成冲刺档=邀请对方把你拉下来）；四个配套工具（prebuttal 先说最狠的批评 / 压强=力÷面积 收窄受众 / 同心圆不能跳圈 套磁顺序 / cultural erogenous zone 从对方在意处进入）；**三条失效边界**（必须有真实 tension、不能卖惨、深度依赖美国语境） | `references/silicon-valley-founder-storytelling.md` |
+| Founder storytelling / narrative **完整版（1–7 节）** (Lulu Cheng Meservey · Rostra) — **Go Direct 不是营销技巧而是反叛乱式的敌后分发**（方法论源自海军陆战队条令：找影响力中心 + 建非常规分发网络；Anduril 直接走进 Quantico/Pendleton/国防大学/CIA）；**没有 tension 就只是信息**（起点→阻力→冲突→转折→progress；先讲你在曲线哪个位置而非要去哪）；**Underdog = Obstacle→Attempt→Failure→Insight→Breakthrough**（结果让人羡慕，过程才产生连接）；**宁可被低估不可被高估**（人会把你的价值拉到他们以为的位置；包装成冲刺档=邀请对方把你拉下来）；四个配套工具（prebuttal 先说最狠的批评 / 压强=力÷面积 收窄受众 / 同心圆不能跳圈 套磁顺序 / cultural erogenous zone 从对方在意处进入）；**三条失效边界**（必须有真实 tension、不能卖惨、深度依赖美国语境）；**Message-Market Fit**（技术存在≠产生影响；Eric Schmidt 2026 亚利桑那毕业演讲被嘘——他确实说了「我听得见、这种恐惧是理性的」仍然翻车，因为**框架在前三十秒就设错了：技术是主角、听众是乘客**，后面共情救不回来；2026 多起 AI 毕业演讲被嘘说明是框架失效而非个例）；**技术放背景、人放前景**（Shopify 双层：创业精神是最后堡垒/小镇退休店主的故事；「你不是故事主角，但不能拿这个去砸人」）；**背离人性=风险厌恶**（客户在陆地、你在独木舟；损失厌恶让「可能更好」打不过「确定不差」；正解=把风险留给自己、把确定性给对方、承认自己在输；Barclays 式「卖不改变的代价」）；迁移到 SOP 主角位置/推荐信/在职转专业动机 | `references/silicon-valley-founder-storytelling.md` |
 | 2025 returnee employment market — supply surge, salary by sector, city decentralisation | `references/returnee-employment-market-2025.md` |
 | ECM interview prep — Placement types, Why Move narrative, Deal Experience storytelling (MS HK mentoring) | `references/ecm-interview-prep-ms-hk.md` |
 | PhD cold-email & interview tactics — match>interest, ability>passion, proactive interview, follow-up cadence | `references/phd-cold-email-interview-tactics.md` |
@@ -205,7 +205,7 @@ only when the workflow step requires it, then work from it:
 | `/founder-antihedge` | `references/founder-anti-hedging-principles.md` — 斯坦福GSB三条反常识：阶梯式冒险谬误、创业无中间地带、黑科技未必赢；诊断 founder 叙事中的 hedging |
 | `/founder-onchain` | `references/founder-infrastructure-migration.md` — 链上支付案例（X/Meta/Visa/渣打）+ 三条 founder 原则：用户假设重置/结算即场景/合规是产品能力 |
 | `/founder-profile` | `references/founder-personal-profile-building.md` — 创业者个人品牌建设：build up your profile + manage every detail；真实人设≠包装；从单点标签到完整profile画圆；身份层护城河 |
-| `/storytelling` | Lulu Cheng Meservey 叙事方法论：Go Direct（别把故事外包给中介/PR）+ Narrative Arc（没 tension 就是信息）+ Underdog 五段式 + 宁可被低估不可被高估 + prebuttal/压强/同心圆/文化敏感区四工具 + 迁移到 SOP·套磁·面试·个人 IP + 三条失效边界 |
+| `/storytelling` | Lulu Cheng Meservey 叙事方法论全套（1–7 节）：Go Direct + Narrative Arc + Underdog 五段式 + 宁可被低估 + prebuttal/压强/同心圆/文化敏感区 + **Message-Market Fit（主角位置/Eric Schmidt 翻车/Shopify 双层）** + **风险厌恶与独木舟（把风险留给自己、卖不改变的代价）** + 迁移到 SOP·套磁·面试·个人 IP + 失效边界 |
 | `/fundraising-methodology` | `references/founder-fundraising-methodology.md` — 融资实战5大认知纠偏 + 融资前7问自检 + 估值策略（Down Round/被估值锁死/5问压力测试） |
 | `/ecm-interview` | `references/ecm-interview-prep-ms-hk.md` — MS香港ECM面试辅导：Placement技术面(Primary/Secondary/Top-up/Block Trade) + Why Move跳槽叙事 + Deal Experience讲述框架 |
 | `/phd-cold-email` | `references/phd-cold-email-interview-tactics.md` — 套磁信四条（PhD）+ 本科生科研套磁5-part结构（回复率80%）：match>interest/ability>passion/主动提问/follow up节奏/contribution原则 |
