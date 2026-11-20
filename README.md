@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.44 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.45 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -100,6 +100,7 @@ references/                  # external data loaded on demand
   niche-scholarships-12-channels.md # 冷门奖学金十二类（9类奖学金+3类低门槛渠道+介护兜底），按获取逻辑重排为四类，含提名制/叠加限制与逐条官方核查
   run-manual-europe-36-countries.md # RUN润手册导读：数据血缘与可靠边界 + 2025-26政策变化17条 + 中国护照排除5条 + 英国Earned Settlement档位表
   denmark-siri-2026-2027-updates.md # 丹麦SIRI 2026-2027：学签求职期3年→1年+家属关闭、集体协议工签DKK322,000含中国、雇主认证瓶颈
+  us-grad-program-difficulty-tiers-6-majors.md # 美研六专业难度分档（CS/EE/BA/DS/金融/MFE）：资格vs难度 + 跨表矩阵 + 名校洼地 + 缺失七维度
   us-college-due-diligence-7-sources.md # 选校尽调七源：CDS C7（仅本科）/ Scorecard 第4年口径 / Clery 四地理 / Niche / RMP + 信息五级模型 + 必补五源
   program-intel-community-search.md # 项目情报搜集：Rustle五平台扒风评/面经 + 搜索词构造 + 44篇之后的偏差处理 + 三层信息源分工
   eu-application-platform-routing.md # 欧洲申请平台路由：Studielink/uni-assist VPD/瑞典统招/EEF/Mon Master 走哪个 + 四种「截止日定义」+ 联盟校两列法
@@ -185,6 +186,7 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/run-manual` | RUN 润手册导读：数据血缘/可靠边界 + 政策变化 17 条 + 中国护照排除清单 + 英国 Earned Settlement 档位表 |
 | `/scholarships` | 冷门奖学金十二类：四类获取逻辑（劳动/身份/专业/稀缺性）+ 提名制与叠加限制 + 官方核查表 + 奖学金日历 |
 | `/denmark-siri` | 丹麦 2026–2027：学签出口砍短（3年→1年、家属随行关闭、PhD豁免）+ 集体协议工签开门（DKK 322,000、16国含中国、需认证雇主）+ 三条策略含义 |
+| `/tiers` | 美研六专业难度分档：CS / EE / 商业分析 / 数据科学 / 金融 / 金工金数五档表，含「先读注意栏」读法、资格 vs 难度区分、学校×专业跨表矩阵、名校洼地三查、四个结构性缺陷与缺失七维度 |
 | `/school-dd` | 选校尽调七源：Common Data Set C7 + College Scorecard + Clery ASR + 官网四角 + Niche + Reddit + Rate My Professors + RateMyDorm，含口径修正、信息五级模型、必补五源、时间盒流程与五红旗 |
 | `/program-intel` | 项目情报搜集：Rustle（X/TikTok/Reddit/小红书/抖音）扒风评与面经 + 搜索词构造表 + 社区情报偏差处理 + 官方/社区/一手三层分工 |
 | `/eu-platforms` | 欧洲申请平台路由：Studielink / uni-assist VPD / 瑞典统招 / EEF / Mon Master 分别什么时候用 + 四个国家对「截止日」的四种定义 + 联盟校两列法 |
