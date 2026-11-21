@@ -78,11 +78,11 @@ description: >-
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.13.46
-last_updated: 2026-11-19
+version: 2.13.47
+last_updated: 2026-11-21
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.13.46)
+# Grad Apply & Overseas Career — Master Skill (v2.13.47)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -156,6 +156,7 @@ only when the workflow step requires it, then work from it:
 | RUN manual (BryceYuuu/RUN) — 欧洲 36 国 / 110 条路线 / 13 全球目的地 / 380+ 官方链接的中文开源手册；本文件给结构化导读 + 可靠边界判定：数据血缘（99 条来自 LetsMigrate + 11 条补充，故是二手聚合）、2025–2026 政策变化 17 条（5 关闭 / 4 收紧，先读关闭再读开放）、中国大陆护照直接不可用的 5 条路线、门槛三榜、英国 Earned Settlement 档位表（£125,141/£50,271/£12,571 三档 + 3 年 NI + B2）及「十年长居关闭」属已宣布待写入的时限说明 | `references/run-manual-europe-36-countries.md` |
 | Niche scholarships & funding channels (9 + 3 + 1) — 按获取逻辑重排为四类（劳动换资助 TA/宿管/介护 · 身份换资助 女性/华人/国别 · 专业换资助 学会/财团 · 稀缺性换资助 职校/冷门国别）；含提名制与叠加限制两大隐形杀手、逐条官方核查（本庄只给生活费不含学费、谷歌$85k仅限北美而东亚$10k、NVIDIA需提名+暑期实习、AAUW四条硬门槛），及 8 条可执行清单 | `references/niche-scholarships-12-channels.md` |
 | Denmark SIRI 2026–2027 — **两条方向相反的变化**：2026-10-01 起学签求职期 3 年→1 年、家属随行关闭（PhD 豁免、按提交日判定、非国家批准项目 2025-05-02 后无工作权）；2027-01-01 起集体协议工签生效 DKK 322,000（比 Pay Limit 552,000 低 42%），**16 国名单含中国及香港**；瓶颈在雇主认证（≥10 全职/2 年经营/serviceattest/工会代表，**Fast-track 认证不算**；**认证申请 2026-12-01 开放**，比原计划提前一个月；违规低付可被吊销担保资格）；失业率上行可关闭通道；医护许可暂停至 2026-12-31；策略含义=丹麦硕士性价比降但未归零、博士成唯一保留旧规的读书通道 | `references/denmark-siri-2026-2027-updates.md` |
+| **AI 时代稀缺转移与个人定位**（前智谱 COO 播客 13 条 takeaway）——**判据：你的能力能不能被写成一个 benchmark？**能 → 一定会被优化掉（benchmark 一旦公共，模型就能对它做梯度下降）；不能 → 才可能是你的位置。**「垂直」不是垂直领域，是衡量标准不可公共化**（三档筛子：能否写成带标准答案的题 / 有无公认排行榜 / 十个专家会不会达成一致）→ 通用模型只能收敛到「公共的人」，所以模型越强，「像某个人」越值钱。**价值迁到两端**（分发 / 模型），中间层塌陷 → 五问自查（通用指标评价？可拆 10 步？靠信息差？一句话说得出为何是你？模型翻倍后你变好还是变得不必要？）。**中国难卖的不是 to B 是软件** → 卖劳动力不卖软件、10 步里挑 2 步全交出去（账算得清）。**人+软件 = 模型+Harness**，差距放大在判断/调度/验证/设计。**数字核实**：回本率＜1.3%（每 77 部 1 部）≠ ROI 1.03–1.07，原话「1.03%」是两指标串了；「各占 80%」无来源；马化腾原话有「阿凡达时代」与「几百年一千年」两版 | `references/ai-era-scarcity-shift-and-positioning.md` |
 | **人生路径套利透镜**（七维：教育/劳动力市场/地理/制度/资本/网络/技术 + 选择权三问 + 资格六门 + 反事实强制项 + 事实衰减日期纪律）——**诊断：仓库不缺内容，缺可寻址性**（69 个 reference 全部能被七维吸收，但按主题组织 → 只有已知该问什么的人能用）；**选择权不写公式**（λ/μ/O_P/C* 全部不可测，写出来是虚假精度）→ 改为三问：失败能回原轨吗 / 成功后可选路径变多还是变少 / 锁死几年；**先筛资格再打分**（六门：身份/学术/财务/时间/法律/机会，任一门不过标 INFEASIBLE，不参与排序——否则高分掩盖零）；**反事实强制**（主方案 + ≥3 替代 + 什么都不做，五列 + 证据三级 A/B/C，无 A 级证据留空不许填貌似合理的数字）；**事实衰减纪律**（政策 3–12 月 / 项目 1–2 年 / 方法 5 年+，每份文件带 `Last verified:`，引用签证类数字必须重查不许复述）；**驳回**：`databases/` 静态存外部事实（衰减快于维护→腐烂且有权威外观）、七个 engines 拆分、无数据先定 schema、六维权重与 V(P) 公式、public 仓库放 user-profile schema | `references/life-path-arbitrage-lens.md` |
 | **美研六专业难度分档**（CS / EE / BA / DS / 金融 / MFE，五档 + 参考 GPA·GRE·托福）——**分档表是最不 informative 的一层**：真正决定录取的全在「注意栏」（MIT/Harvard 不招 CS 硕士却被列进第一档＝表内自相矛盾；Princeton EE 主录本校、UCB EECS MS 偏本校、Stanford EE 不收雅思、UIUC MS 需先有教授接收 → 这些是**资格问题不是难度问题**；MS≠MEng 是两个产品；「不招硕士」是**专业特定**非学校特定，UW 不招 CS 但招 EE/DS）；**跨表矩阵**才是真信号：UMich CS 二档/QFRM 五档、NYU DS 二档/Tandon EE 五档、Northwestern DS 一档/CS 三档、UPenn DS 一档/EE 三档——同一校差三档，**研究生阶段「某校难不难」无意义，你申的是项目不是学校**；DS 在小规模项目上常比 CS 更卷；GPA 是**录取者下沿不是门槛**、且陆本百分制需 WES 口径；表 6 自曝「本科院校＞专业先修课＞GPA=标化=实习」与其余五表矛盾；**缺七个维度（cohort size/国际生比例/STEM CIP/placement/成本/先修课/轮次）**；名校洼地须配 placement+CIP+cohort 三查，好进≠好用 | `references/us-grad-program-difficulty-tiers-6-majors.md` |
 | **选校尽调七源**（Common Data Set C7 / College Scorecard / Clery ASR / 官网四角 / Niche / Reddit / Rate My Professors / RateMyDorm）——**CDS C7 只描述本科新生录取、不含硕博**；Scorecard 主指标已是**毕业后第 4 年**（`EARN_MDN_4YR`）且只覆盖 Title IV 受助学生、剔除在读者（读研比例高的专业失真）、债务只算联邦贷款；Clery「周边」只到紧邻公共财产、是报案数非发案数、必看 unfounded 与三年趋势；Niche 总评≠分项平均；RMP 只有「易度」可信（Felton 65,678 条）；**信息五级模型 + 七源外必补五源（系 placement 页/PI 经费/STEM CIP/NSF SED/LinkedIn 反查）+ 15 分钟时间盒 + 五红旗** | `references/us-college-due-diligence-7-sources.md` |
@@ -263,6 +264,7 @@ only when the workflow step requires it, then work from it:
 | `/run-manual` | RUN 润手册导读：数据血缘与可靠边界 + 政策变化 17 条 + 中国护照排除清单 + 英国 Earned Settlement 档位表 |
 | `/scholarships` | 冷门奖学金十二类：四类获取逻辑 + 提名制/叠加限制 + 官方核查表 + 奖学金日历 |
 | `/denmark-siri` | 丹麦 2026–2027 政策：学签出口砍短（3年→1年、家属关闭）+ 集体协议工签开门（DKK 322,000、含中国、认证申请 2026-12-01 开放）+ 雇主认证瓶颈与反剥削吊销条款 + 三条策略含义 |
+| `/ai-era` | AI 时代稀缺转移：benchmark 判据 + 衡量标准三档筛子 + 中间层五问自查 + 卖劳动力不卖软件 + Harness 四层（判断/调度/验证/设计）+ 三条需打折扣的论断（样本偏差） |
 | `/arb` | 人生路径套利透镜：七维（教育/劳动力/地理/制度/资本/网络/技术）逐维过一遍找候选 → 资格六门过滤 → 反事实表（含「什么都不做」+ 证据三级）→ 选择权三问 → 只给一个一周内可完成的下一步 |
 | `/tiers` | 美研六专业难度分档（CS/EE/BA/DS/金融/MFE）：先读注意栏再读分档 + 资格 vs 难度区分 + 学校×专业跨表矩阵 + 名校洼地三查 + 四个结构性缺陷 + 缺失七维度 + 三步校准 |
 | `/school-dd` | 选校尽调七源全套：CDS C7（19 因素权重表，**仅本科**）+ Scorecard（第 4 年收入/联邦债务 + 四个口径修正）+ Clery ASR（四地理分类、报案数陷阱、unfounded、三年趋势）+ 官网四角 + Niche 分项 + Reddit 两类抱怨 + RMP 易度 + RateMyDorm + 信息五级模型 + 必补五源 + 时间盒 + 五红旗 |
