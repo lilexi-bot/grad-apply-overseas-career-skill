@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.48 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.49 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -100,6 +100,7 @@ references/                  # external data loaded on demand
   niche-scholarships-12-channels.md # 冷门奖学金十二类（9类奖学金+3类低门槛渠道+介护兜底），按获取逻辑重排为四类，含提名制/叠加限制与逐条官方核查
   run-manual-europe-36-countries.md # RUN润手册导读：数据血缘与可靠边界 + 2025-26政策变化17条 + 中国护照排除5条 + 英国Earned Settlement档位表
   denmark-siri-2026-2027-updates.md # 丹麦SIRI 2026-2027：学签求职期3年→1年+家属关闭、集体协议工签DKK322,000含中国、雇主认证瓶颈
+  ai-era-job-market-asymmetric-bets.md # AI时代求职不对称下注：竞争强度=价格镜像 + 缩HC三分类 + 岗位定价五问 + 回报分布五拆 + 签证过滤器正交
   ai-research-method-and-career-yao-shunyu.md # 大模型研究方法与职业选择：scaling ladder + 指标分工 + 不可量化工作靠人不靠 KPI + 生产方式 vs 判断力
   ai-era-scarcity-shift-and-positioning.md # AI 时代稀缺转移：benchmark 判据 + 衡量标准三档筛子 + 中间层五问 + 卖劳动力不卖软件 + Harness 四层
   life-path-arbitrage-lens.md # 人生路径套利透镜：七维映射 69 文件 + 选择权三问 + 资格六门 + 反事实强制 + 事实衰减纪律
@@ -189,6 +190,7 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/run-manual` | RUN 润手册导读：数据血缘/可靠边界 + 政策变化 17 条 + 中国护照排除清单 + 英国 Earned Settlement 档位表 |
 | `/scholarships` | 冷门奖学金十二类：四类获取逻辑（劳动/身份/专业/稀缺性）+ 提名制与叠加限制 + 官方核查表 + 奖学金日历 |
 | `/denmark-siri` | 丹麦 2026–2027：学签出口砍短（3年→1年、家属随行关闭、PhD豁免）+ 集体协议工签开门（DKK 322,000、16国含中国、需认证雇主）+ 三条策略含义 |
+| `/job-bet` | AI时代求职不对称下注：竞争强度是价格的镜像不是价值的镜像 + 缩HC三分类（结构/效率/周期）+ 岗位定价五问 + 回报分布五拆 + 顺风18个月 + 签证过滤器 |
 | `/ai-research` | 大模型研究方法与职业选择：scaling ladder 区分机制/规模 + 指标分工 + Taste=独立基线预期 + 生产方式 vs 判断力 + 会弹琴≠想当琴手 + 简历三证据 |
 | `/ai-era` | AI 时代稀缺转移与个人定位：benchmark 判据（能否写成有标准答案的题）+ 衡量标准三档筛子 + 中间层五问自查 + 卖劳动力不卖软件（10 步挑 2 步）+ Harness 四层（判断/调度/验证/设计）|
 | `/arb` | 人生路径套利透镜：七维候选发现 → 资格六门过滤（INFEASIBLE 不参与排序）→ 反事实表（主方案 + ≥3 替代 + 什么都不做 + 证据 A/B/C）→ 选择权三问 → 一个一周内可完成的下一步 |
