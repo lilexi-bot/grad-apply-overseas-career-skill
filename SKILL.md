@@ -75,15 +75,16 @@ description: >-
   欧洲申请平台路由 (Studielink 荷兰申请 代尔夫特 NetID Osiaan uni-assist VPD Vorprüfungsdokumentation 德国申请 柏林自由大学 universityadmissions.se 瑞典申请 志愿排序 last day to rank EEF Études en France 我要申请录取通知书 Campus France Mon Master Parcoursup INCEPTION MyCandidature PSL 巴黎萨克雷 Dauphine Erasmus Mundus EIT 联盟校 申请平台 走哪个系统 截止日以哪天为准),
   founder storytelling / 讲故事 / 叙事 / narrative arc / go direct / 传播 / PR / 公关 / Lulu Cheng Meservey / Rostra / underdog / 逆袭 / 被低估 / overrated / 定位 / 个人品牌 / 个人IP / prebuttal / 套磁顺序 / 为什么我的材料读起来平 / storytelling (Storytelling 叙事 讲故事 go direct 个人品牌 pitch 自我介绍 underdog 被低估 传播),
   Top30一年制/一年半硕士总表 (1-1.5年硕士 一年制硕士 短学制硕士 Top30项目 2027 Fall 截止日期 deadline汇总 申请截止 分轮申请 Round 1 Early Action 滚动录取 rolling 项目时长 9个月硕士 12个月硕士 18个月硕士 GRE optional GRE不需要 春季入学 spring intake 暑期实习窗口 OPT窗口 选校时间线),
+  产品sense/早期产品设计三轴 (产品sense 产品直觉 产品经理怎么培养 早期产品设计 功能优先级 竞品分析 伪需求 刚需判断 技术方案选型 研发成本评估 PM面试 基线 偏差方向 舍弃判断 前提清单 幸存者偏差 判断保鲜期 值不值得做),
   AI时代求职不对称下注/缩HC部门判断 (卷大厂 缩HC 缩招 缩hc的部门 泰坦尼克 该去大厂还是创业公司 growth阶段 求职是风险投资 顺风局 逆风局 战略收缩 headcount hiring freeze 竞争强度 标准化筛选 可替代性 资本FOMO 优先清算权 纸期权 岗位定价 回报分布 能力增量 履历信号 签证担保 收缩期第一批被砍 上岸再跳),
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.13.49
-last_updated: 2026-11-23
+version: 2.13.50
+last_updated: 2026-11-26
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.13.49)
+# Grad Apply & Overseas Career — Master Skill (v2.13.50)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -157,6 +158,7 @@ only when the workflow step requires it, then work from it:
 | RUN manual (BryceYuuu/RUN) — 欧洲 36 国 / 110 条路线 / 13 全球目的地 / 380+ 官方链接的中文开源手册；本文件给结构化导读 + 可靠边界判定：数据血缘（99 条来自 LetsMigrate + 11 条补充，故是二手聚合）、2025–2026 政策变化 17 条（5 关闭 / 4 收紧，先读关闭再读开放）、中国大陆护照直接不可用的 5 条路线、门槛三榜、英国 Earned Settlement 档位表（£125,141/£50,271/£12,571 三档 + 3 年 NI + B2）及「十年长居关闭」属已宣布待写入的时限说明 | `references/run-manual-europe-36-countries.md` |
 | Niche scholarships & funding channels (9 + 3 + 1) — 按获取逻辑重排为四类（劳动换资助 TA/宿管/介护 · 身份换资助 女性/华人/国别 · 专业换资助 学会/财团 · 稀缺性换资助 职校/冷门国别）；含提名制与叠加限制两大隐形杀手、逐条官方核查（本庄只给生活费不含学费、谷歌$85k仅限北美而东亚$10k、NVIDIA需提名+暑期实习、AAUW四条硬门槛），及 8 条可执行清单 | `references/niche-scholarships-12-channels.md` |
 | Denmark SIRI 2026–2027 — **两条方向相反的变化**：2026-10-01 起学签求职期 3 年→1 年、家属随行关闭（PhD 豁免、按提交日判定、非国家批准项目 2025-05-02 后无工作权）；2027-01-01 起集体协议工签生效 DKK 322,000（比 Pay Limit 552,000 低 42%），**16 国名单含中国及香港**；瓶颈在雇主认证（≥10 全职/2 年经营/serviceattest/工会代表，**Fast-track 认证不算**；**认证申请 2026-12-01 开放**，比原计划提前一个月；违规低付可被吊销担保资格）；失业率上行可关闭通道；医护许可暂停至 2026-12-31；策略含义=丹麦硕士性价比降但未归零、博士成唯一保留旧规的读书通道 | `references/denmark-siri-2026-2027-updates.md` |
+| **产品 sense 三轴与缺失的第四轴**（早期产品设计）——**三轴（价值/可行/成本）背后是同一个输入：可随时调用的独立基线**，判据是「能不能说出自己估计的偏差方向」（给得出数字不叫有经验）；三轴的价值在于让「判断错了」可诊断——三种错的纠正延迟不同（可行 2 周 / 价值 3 个月 / 成本常常无人归因），**反馈越慢越要提前建立独立判断**；**缺第四轴：舍弃判断**（20 个各自正确的功能判断组合成一个错的产品），且它结构上学不到——**幸存者只展示加法不展示减法**，需做产品尸检（死掉的产品、版本历史、已下线功能抱怨帖）；竞品三失效（幸存者偏差/时序错位/不可迁移）→ **产出应是前提清单而非功能清单**；AI 时代可行性轴部分过期，正确问法是「什么条件下行、多久内行、这条判断有效期多长」；**三种判断保鲜期不同（可行 6-12 月 / 价值 2-3 年 / 成本 3-5 年）不能混在一份无日期文档里**；AI 把瓶颈从「能不能实现」移到「值不值得实现」，重心从第 2、3 轴移到第 1 轴和第 4 轴，故「产品 sense 不可被替代」成立。含基线表 + 三题自测 + 前提清单模板 | `references/product-sense-three-axes-and-missing-fourth.md` |
 | **AI 时代求职不对称下注**（卷缩 HC 部门 = 定价错误）——**竞争强度是价格的镜像不是价值的镜像**：筛选标准越公共 → 供给可无限放大 → 竞争越激烈 → 公司不必给溢价 → 岗位相对价值持续压缩，所以「卷得越标准化，越容易被替代」；「缩 HC」含三种相反信号（结构性衰退/效率型收缩/周期性降本），总人数是噪音、结构是信号；资本组合逻辑不能平移成个人单点逻辑，同一公司里资本拿优先清算权你拿纸期权；顺风是行业属性非公司属性，代价是容错窗口缩短（按 18 个月规划）；排除条件推不出选择条件；签证是独立且优先级更高的过滤器（收缩期第一批砍担保岗，但小 growth 公司反而更易给担保）。含岗位定价五问 + 回报分布五拆 | `references/ai-era-job-market-asymmetric-bets.md` |
 | **大模型研究方法与职业选择**（姚顺雨 2026-11-18 清华姚班闭门分享 22 条）——**小规模实验失败有两层**：情绪层（别怀疑自己，价值有限）+ 认知层（**算力不足时噪声掩盖信号 → 你会判断错「什么问题值得做」，而且不可逆**）；区分「机制不存在」与「规模不够」只能靠 **scaling ladder**（不是「小模型有效→大模型也有效」，而是「小模型有效→放大后还能不能带来收益」）；**看趋势用 Loss/困惑度，看能力用 Few-shot/SFT 后测**，用错指标是误判方向的根源；**不可量化的工作只能靠人保证不能靠 KPI**（修数值正确性 bug/清脏数据/保链路稳定 → 所以招人标准里技术栈比重反而低，Low Ego/Solid 高于技术栈）；**Taste 的唯一可展示形式=有独立基线预期**（「评测涨 40 点我会问发生了什么」）；**组织护城河是「对好数据有没有 Taste」不是生产方式**（方式一变优势归零）；**「会弹琴」≠「想成为弹琴的人」**（会做研究 ≠ 想成为研究者，申请季最常混的两个问题）；GPT-6 测试；融入 vs 互补取决于时间尺度。**来源三层**：量子位录音转写（未经确认）> 36氪报道 > 听众笔记；**Co-design 与「性格→岗位」两条为单源，媒体稿未提** | `references/ai-research-method-and-career-yao-shunyu.md` |
 | **AI 时代稀缺转移与个人定位**（前智谱 COO 播客 13 条 takeaway）——**判据：你的能力能不能被写成一个 benchmark？**能 → 一定会被优化掉（benchmark 一旦公共，模型就能对它做梯度下降）；不能 → 才可能是你的位置。**「垂直」不是垂直领域，是衡量标准不可公共化**（三档筛子：能否写成带标准答案的题 / 有无公认排行榜 / 十个专家会不会达成一致）→ 通用模型只能收敛到「公共的人」，所以模型越强，「像某个人」越值钱。**价值迁到两端**（分发 / 模型），中间层塌陷 → 五问自查（通用指标评价？可拆 10 步？靠信息差？一句话说得出为何是你？模型翻倍后你变好还是变得不必要？）。**中国难卖的不是 to B 是软件** → 卖劳动力不卖软件、10 步里挑 2 步全交出去（账算得清）。**人+软件 = 模型+Harness**，差距放大在判断/调度/验证/设计。**数字核实**：回本率＜1.3%（每 77 部 1 部）≠ ROI 1.03–1.07，原话「1.03%」是两指标串了；「各占 80%」无来源；马化腾原话有「阿凡达时代」与「几百年一千年」两版 | `references/ai-era-scarcity-shift-and-positioning.md` |
@@ -267,6 +269,7 @@ only when the workflow step requires it, then work from it:
 | `/run-manual` | RUN 润手册导读：数据血缘与可靠边界 + 政策变化 17 条 + 中国护照排除清单 + 英国 Earned Settlement 档位表 |
 | `/scholarships` | 冷门奖学金十二类：四类获取逻辑 + 提名制/叠加限制 + 官方核查表 + 奖学金日历 |
 | `/denmark-siri` | 丹麦 2026–2027 政策：学签出口砍短（3年→1年、家属关闭）+ 集体协议工签开门（DKK 322,000、含中国、认证申请 2026-12-01 开放）+ 雇主认证瓶颈与反剥削吊销条款 + 三条策略含义 |
+| `/product-sense` | 产品 sense 三轴 + 缺失第四轴：基线（偏差方向才是判据）+ 舍弃判断学不到（幸存者只有加法）+ 竞品三失效→前提清单 + 判断保鲜期分离 + AI 重心移到「值不值得做」 |
 | `/job-bet` | AI 时代求职不对称下注：竞争强度=价格镜像 + 缩 HC 三分类（结构/效率/周期）+ 岗位定价五问 + 回报分布五拆（工资/期权/能力/网络/信号）+ 顺风 18 个月规划 + 签证过滤器正交 |
 | `/ai-research` | 大模型研究方法与职业选择：scaling ladder 区分机制/规模 + 指标分工（Loss 看趋势、Few-shot 看能力）+ 不可量化工作靠人不靠 KPI + Taste=独立基线预期 + 生产方式 vs 判断力 + 会弹琴≠想当琴手 + GPT-6 测试 + 简历三证据 |
 | `/ai-era` | AI 时代稀缺转移：benchmark 判据 + 衡量标准三档筛子 + 中间层五问自查 + 卖劳动力不卖软件 + Harness 四层（判断/调度/验证/设计）+ 三条需打折扣的论断（样本偏差） |
