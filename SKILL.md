@@ -59,6 +59,7 @@ description: >-
   回国留美决策 (return vs stay 回国 留美 去留 储蓄速度 H1B slave 身份 躺平 原生家庭 子女教育 事业批 岁月静好 面子 实地考察),
   官网学生分享/Meet the Class研究法 (student profiles Meet the Class 学生故事 官网学生 项目研究 录取偏好 why program 已有基础 能力缺口 项目资源 diversity contribution 社区贡献 课程选择 next steps MBAn 商业分析 简历只罗列工具 文书只想获得),
   LetsMigrate欧洲居留路线 (letsmigrate.org 欧洲移民 研究居留 欧盟蓝卡 EU Blue Card 数字游民签证 欧洲创业签证 黄金签证 投资居留 被动居留 海牙认证 apostille 中国材料准备 马耳他 葡萄牙 西班牙数字游民 德国蓝卡 欧洲Plan B),
+  美国工科硕士免申请费11校 (MS申请费 application fee waiver 硕士免申请费 JHU免申请费 CMU申请费 CMU Heinz CMU SCS CMU INI Columbia fee waiver form USC Viterbi第二项目 NYU Tandon TANDONBKLYN Northeastern NUExperience27 Duke Brown WUSTL Cornell Tech SWE会员 宣讲会拿code 申请费多少钱 申请几所 申请预算 申请季花多少钱 先定清单 资格限制 代码过期),
   美国PhD申请费减免 (fee waiver application fee waiver 免申请费 申请费减免 PhD申请费 申请费太贵 waiver邮件模板 经济困难说明 银行流水 早鸟免费 info session宣讲会免申请费 哈佛普林斯顿勾选免 耶鲁哥大waiver 红州公立 UT Austin 威斯康星),
   留学预算与回报率/海外实习全攻略 (study abroad ROI 留学预算 回报率 回本周期 留学值不值 性价比 父母攒钱月数 回本月数 代际公平 学费对比 留学费用一览 海外实习 实习全攻略 CPT OPT co-op PGWP spring week 实习时间线 国际组织实习 CSC实习),
   美国AI硕士30项目/选校清单 (AI硕士 人工智能硕士 MSAI MSML MSAII AI项目清单 美国AI项目 AI选校 计算机硕士AI方向 独立AI学位 首届项目 Co-op实习项目 机器人硕士 应用数据科学),
@@ -80,11 +81,11 @@ description: >-
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.13.50
-last_updated: 2026-11-26
+version: 2.13.51
+last_updated: 2026-11-27
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.13.50)
+# Grad Apply & Overseas Career — Master Skill (v2.13.51)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -148,6 +149,7 @@ only when the workflow step requires it, then work from it:
 | Industry PhD programs guide — 海外企业联培博士：CIFRE/MSCA/Industrial PhD、6国路径、12家目标企业、申请平台 | `references/industry-phd-programs-guide.md` |
 | Student profiles research method — 官网学生分享（Meet the Class）研究法：问题框架反推录取偏好；已有基础→能力缺口→项目资源；课程问题驱动；diversity增量贡献；简历/文书自检 | `references/student-profiles-research-method.md` |
 | LetsMigrate EU residence routes — 欧洲移民居留路线数据库：5类路线93+项目（数字游民15/蓝卡50/创业16/投资10/边缘2）、18国hub、中国申请者材料准备（apostille/翻译/无犯罪/姓名一致）、官方来源+核实日期 | `references/letsmigrate-eu-residence-routes.md` |
+| US MS engineering fee waivers (11 programs) — 美国工科硕士申请费豁免：11 校六种机制按可靠性排序（结构性全免>代码直输>早鸟/第二项目>协会会员>宣讲会>经济困难审批）、协会会员资格陷阱（SWE/NSBE/SHPE/AISES）、先定清单再找豁免、多申一所的边际成本、宣讲会时薪、跟踪表模板 | `references/us-ms-engineering-fee-waivers-11-programs.md` |
 | US PhD fee waiver guide — 美国PhD申请费减免：四档学校（勾选即免/材料申请/早鸟宣讲会/不免）、邮件模板、15申12中的实战命中率、申请季预算 | `references/us-phd-fee-waiver-guide.md` |
 | Study-abroad ROI & internship playbook — 留学预算与回报率大表：ROI四逻辑+四反直觉、10目的地总表、9专业组回本排序、CS/AI十国横比、五类预算画像；海外实习全攻略：CPT/Co-op/OPT/PGWP/485/Graduate Route/IANG制度差异、秋招时间线、H-1B三次抽签57%落空、4案例PR路径、Plan B | `references/study-abroad-roi-and-internship-playbook.md` |
 | US AI master's 30-programme list — 全美Top50 AI硕士30项目全景：四类分型（独立AI学位/CS-AI方向/交叉商业化/邻接学位）、首届项目风险、同校不同学院门槛差异、CMU MSAII vs MSML 路径差异 | `references/us-ai-masters-30-programs.md` |
@@ -259,6 +261,7 @@ only when the workflow step requires it, then work from it:
 | `/industry-phd` | 海外企业联培博士指南：CIFRE/MSCA/Industrial PhD、6国路径、申请平台 |
 | `/student-profiles` | 官网学生分享研究法（MIT MBAn Meet the Class）：问题框架反推录取偏好、why program逻辑链、diversity贡献、简历文书自检 |
 | `/letsmigrate` | LetsMigrate.org欧洲居留路线：蓝卡/数字游民/创业/投资5类路线93+项目、18国对比、中国签证材料准备清单 |
+| `/fee-ms` | 美国工科硕士免申请费 11 校：六种机制可靠性排序 + 协会会员资格陷阱（先确认再付会费）+ 先定清单后找豁免（顺序反了赔 offer）+ 免申请费真正价值=多申一所的边际成本 + 申请季用组合思维 |
 | `/fee-waiver` | 美国PhD申请费减免：四档学校机制、waiver邮件模板、15申12中命中率、申请季费用预算 |
 | `/study-roi` | 留学预算与回报率大表 + 海外实习全攻略：ROI四逻辑、10目的地/9专业组回本表、五类预算画像、工签与PR路径、秋招时间线 |
 | `/ai-masters` | 全美AI硕士30项目清单：四类分型、独立AI学位vs CS-AI方向、首届项目风险、CMU MSAII/MSML差异、同校不同学院门槛 |

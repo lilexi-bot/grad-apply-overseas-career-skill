@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.50 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.51 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -89,6 +89,7 @@ references/                  # external data loaded on demand
   industry-phd-programs-guide.md      # 海外企业联培博士指南：CIFRE/MSCA/Industrial PhD、6国路径、12家目标企业
   student-profiles-research-method.md # 官网学生分享(Meet the Class)研究法：问题框架反推录取偏好、why program逻辑链、diversity贡献
   letsmigrate-eu-residence-routes.md  # LetsMigrate.org欧洲居留路线：蓝卡/数字游民/创业/投资93+项目、18国、中国材料准备(apostille)
+  us-ms-engineering-fee-waivers-11-programs.md # 美国工科硕士免申请费11校：六种机制可靠性排序 + 协会会员资格陷阱 + 先定清单后找豁免 + 多申一所边际成本 + 跟踪表
   us-phd-fee-waiver-guide.md          # 美国PhD申请费fee waiver：四档学校机制、邮件模板、15申12中、申请季预算
   study-abroad-roi-and-internship-playbook.md  # 留学预算与回报率大表（10目的地/9专业组/五类画像）；海外实习全攻略（CPT/OPT/PGWP/485/IANG+PR路径）
   us-ai-masters-30-programs.md         # 全美Top50 AI硕士30项目：四类分型、首届项目风险、CMU MSAII/MSML差异
@@ -181,6 +182,7 @@ examples/                    # fictional sample outputs (evidence map, school ma
 | `/industry-phd` | 海外企业联培博士指南：CIFRE/MSCA/Industrial PhD、6国路径、申请平台 |
 | `/student-profiles` | 官网学生分享研究法（MIT MBAn Meet the Class）：问题框架反推录取偏好、why program逻辑链、diversity贡献、简历文书自检 |
 | `/letsmigrate` | LetsMigrate.org欧洲居留路线：蓝卡/数字游民/创业/投资5类路线93+项目、18国对比、中国签证材料准备清单 |
+| `/fee-ms` | 美国工科硕士免申请费 11 校：六机制可靠性排序（全免>代码>早鸟>会员>宣讲会>审批）+ 协会资格陷阱 + 先定清单后找豁免 + 申请季组合思维 |
 | `/fee-waiver` | 美国PhD申请费减免：四档学校机制、waiver邮件模板、15申12中命中率、申请季费用预算 |
 | `/study-roi` | 留学预算与回报率大表 + 海外实习全攻略：ROI四逻辑、10目的地/9专业组回本表、五类预算画像、工签与PR路径、秋招时间线 |
 | `/ai-masters` | 全美AI硕士30项目清单：四类分型、独立AI学位vs CS-AI方向、首届项目风险、同校不同学院门槛 |
