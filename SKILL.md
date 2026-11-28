@@ -81,11 +81,11 @@ description: >-
   career-anxiety or mindset talks (职业焦虑, 卷学历, 简历被挂, 职业迷茫,
   应对变化, 上岸, 财富自由, 怀疑努力的意义), or asks to compare universities/programmes/visas/scholarships abroad.
 license: MIT
-version: 2.13.51
-last_updated: 2026-11-27
+version: 2.13.52
+last_updated: 2026-11-28
 ---
 
-# Grad Apply & Overseas Career — Master Skill (v2.13.51)
+# Grad Apply & Overseas Career — Master Skill (v2.13.52)
 
 ## 0. Loading protocol (progressive disclosure — follow strictly)
 This file is the **router** and stays loaded. Do NOT load every asset at once. Load a template/reference
@@ -184,6 +184,7 @@ only when the workflow step requires it, then work from it:
 4. **事实带日期。**政策类（签证/身份/求职期）3–12 个月半衰期 → 每次引用必须重查官方页，**不许直接复述文件里的数字**；项目类 1–2 年 → 标 `as of` 年份；方法类 5 年+ → 可复用但需查例子是否过时。每份 reference 头部保留 `Last verified:`。
 5. **选择权按三问判，不算总分。**失败后能回原轨吗 / 成功后可选路径变多还是变少 / 锁死几年。不可逆 + 减少选择权 + 锁死 5 年 → 需在其他所有维度压倒性更好才值得选。
 6. **只给一个下一步，且必须一周内可完成。**「你应该去欧洲」不是下一步；「这周去 EURES 查三国岗位数并记录是否写明 visa sponsorship」是。
+7. **数字必须现查，不许从仓库里抄。**`references/school-programs.csv` 的学费 / 截止日与 `references/visa-policy-links.md` 的签证门槛都是**种子值**，每行带 `last_verified` 日期。只要 `last_verified` 距今超过 30 天，或要输出的是学费 / 截止日 / 签证门槛，**必须先抓该行 `official_url` 的官方页再报数字**。抓取失败、或页面没写这个数字 → 单元格留空并标 C 级，**不许拿 CSV 里的旧值顶上**。每周 GitHub Actions 巡检只负责告诉你「这个官方页变了」，**它从不自己写入新数字**；学费列当前不可机读（`95000 (total~$190k)`、`~105000 total` 混排），也不要试图自动提取。（本规则是规则 4 的执行细则。当前 69 个官方链接里 31 个已失效，见 `README-AUTO-UPDATE.md` 的基线状态——那些行本来就查不到，只能标 C 级。）
 
 > 详见 `references/life-path-arbitrage-lens.md`（七维映射表、六门检查表、反事实表格式、三类事实半衰期、以及对「加数据库/加评分模型」类重构提案的驳回理由）。
 

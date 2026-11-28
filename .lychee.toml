@@ -1,0 +1,26 @@
+# lychee config for grad-apply-overseas-career-skill
+# Run by .github/workflows/update-check.yml.
+# University / gov sites often rate-limit GitHub Actions IPs or return
+# 403 to bots, so lychee is set to NOT fail the job (see workflow:
+# fail:false). Review reports/link-check.md in the PR instead.
+#
+# Docs: https://github.com/lycheeverse/lychee
+
+timeout = 20
+max_retries = 2
+max_concurrency = 8
+user_agent = "Mozilla/5.0 (compatible; grad-apply-skill-check/1.0)"
+
+# Accept 403 as "reachable but bot-blocked" — check_sources.py will still
+# flag the hash as unchanged/broken separately. Do not treat 403 as a
+# hard failure here, or the report drowns in false positives.
+accept = [200, 201, 202, 203, 204, 206, 403]
+
+exclude = [
+  # mailto / local anchors
+  "mailto:",
+  # Qunar / Ctrip / Fliggy are login / captcha walls, not checkable here
+  "qunar.com",
+  "ctrip.com",
+  "fliggy.com",
+]

@@ -1,0 +1,85 @@
+# Weekly source check for grad-apply-overseas-career-skill
+# What it does:
+#  - Checks every official_url in references/school-programs.csv (45 programs)
+#  - Checks every official link in references/visa-policy-links.md
+#  - Checks every link in README.md / SKILL.md / references/*.md with lychee
+# What it does NOT do:
+#  - It does NOT auto-update tuition / deadlines in the CSV.
+#    Tuition formats in the CSV are inconsistent ("95000 (total~$190k)",
+#    "~105000 total") and university pages change layout often.
+#    The job only flags "this official page changed, please review"
+#    and opens a PR with the new hash + report. A human updates the CSV.
+#  - It does NOT auto-merge. Every PR needs your review.
+#  - It does NOT check Qunar / Ctrip / Fliggy (login / captcha walls).
+#
+# Schedule: every Monday 02:00 UTC = 10:00 Beijing. Run manually any time
+# from Actions > Weekly source check > Run workflow.
+name: Weekly source check
+
+on:
+  schedule:
+    - cron: '0 2 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Check official sources (hash + status)
+        run: |
+          python scripts/check_sources.py \
+            --csv references/school-programs.csv \
+            --visa references/visa-policy-links.md \
+            --state data/source-state.json \
+            --report reports/source-check.md
+          cat reports/source-check.md
+
+      - name: Check all Markdown links with lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --config .lychee.toml --format markdown --output reports/link-check.md README.md SKILL.md 'references/*.md'
+          fail: false
+        # fail:false on purpose: a single dead link must not block the
+        # source-change report. Review both reports in the PR.
+
+      - name: Open PR if anything changed
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: 'chore: weekly source check [auto]'
+          title: 'chore: weekly source check — review changed official pages'
+          body: |
+            Automated weekly check. See `reports/source-check.md` and
+            `reports/link-check.md` in this PR.
+
+            **Do not merge blindly.**
+            - `changed` = official page content changed. Open the URL,
+              verify tuition / deadline / visa threshold on the official
+              page, then update `references/school-programs.csv`
+              (or the relevant `references/*.md`) and bump its
+              `last_verified` to today.
+            - `broken` = HTTP >=400 or fetch failed. Check if the URL
+              moved, or if the site blocks GitHub Actions IPs.
+            - This PR only updates `data/source-state.json` + reports.
+              It never edits tuition / deadline values by itself.
+          branch: auto/weekly-source-check
+          delete-branch: true
+          add-paths: |
+            data/source-state.json
+            reports/source-check.md
+            reports/link-check.md

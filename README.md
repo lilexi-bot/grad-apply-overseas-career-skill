@@ -1,6 +1,6 @@
 # Grad Apply & Overseas Career — Master Skill
 
-**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.51 · MIT
+**留学申请 + 海外工作 + 创业路径 一体化 AI Skill** · v2.13.52 · MIT
 
 An end-to-end, Claude-Code/Codex-native skill for master's/PhD applications across 8 tracks
 (FinEng · ECE · ME/Robotics · CS/AI · Data Science · Interdisciplinary · Tech Transfer · **Founder**),
@@ -126,6 +126,13 @@ references/                  # external data loaded on demand
   hust-alumni-professor-network.md    # 华科校友教授网络（35+ 位美国/香港 CS 教授，套磁线索+面套目标，须核验）
   summer-research-practical-guide.md  # 暑研实操指南（三种找实验室路径/面套行程规划/暑研六优先事项/时间线）
 examples/                    # fictional sample outputs (evidence map, school match, CV bullets)
+ci/update-check.yml         # weekly source check workflow — copy to .github/workflows/ (needs PAT workflow scope)
+scripts/check_sources.py     # read CSV official_url + visa MD → fetch → compare sha256[:16] against state
+scripts/requirements.txt     # requests only
+data/source-state.json       # per-URL last hash + status (auto-generated; never hand-edit except to delete a stale URL)
+reports/                     # per-run reports: source-check.md / link-check.md
+.lychee.toml                 # link-check config (403 treated as reachable-but-bot-blocked)
+README-AUTO-UPDATE.md        # how to install / review the weekly PR / current 2026-11-28 baseline (31 of 69 URLs dead)
 ```
 
 ## Commands
